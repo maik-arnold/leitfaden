@@ -1,0 +1,10 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.quarto/
+*.rds
+*.tex
+/.quarto/
+learning-statistics-with-jamovi.tex
+termout.txt

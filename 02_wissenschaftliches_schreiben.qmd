@@ -1,0 +1,7 @@
+# Wissenschaftliches Schreiben {#sec-A-wissenschaftliches-schreiben}
+
+Hier wird darauf eingegangen, warum es sowohl formale, stilistische und wissenschaftstheoretische Anforderungen an wissenschaftlichen Arbeiten gibt.
+
+Der Lehrfilm aus dem OER Lab der Universität Koblenz stelle alles Wichtige über die Grundlagen und Bedingungen des wissenschaftlichen Schreibens dar. Der Film erklärt, was "wissenschaftliches Arbeiten" bedeutet, worauf beim Schreiben geachtet werden muss und warum dies wichtig ist. Egal, ob bei Hausarbeiten, Portfolios oder Abschlussarbeiten – der Film bietet wertvolle Einblicke, wie sich wissenschaftliches Schreiben von anderen Schreibformen unterscheidet.
+
+{{< video https://videoakademie.ko-ld.de/Panopto/Pages/Viewer.aspx?id=b9923e47-4b00-4538-b61a-b02900c13c2e >}}

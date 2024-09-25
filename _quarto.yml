@@ -1,0 +1,120 @@
+project: 
+  type: book
+  output-dir: docs
+execute: 
+  echo: false
+  warning: false
+book: 
+  title: Leitfaden Wissenschaftliches Arbeiten 
+  author: "Studienbereich Sozialmanagement, Hochschule Nordhausen"
+  #date: last-modified
+  date-format: "D MMMM YYYY"
+  doi: 10.24384/hgc3-7p15
+  cover-image: images/bookcover_scaled_new.png
+  downloads: pdf
+  reader-mode: true
+  sidebar:
+    align: left
+    collapse-level: 1
+  page-footer:
+    left: |
+      <a href="https://learnstatswithjamovi.com">learning statistics with jamovi</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a> 
+  site-url: "https://github.com/maik-arnold/leitfaden/"
+  repo-url: "https://github.com/davidfoxcroft/lsj-book/"
+  repo-actions: [edit,issue]
+  sharing: [twitter, facebook, linkedin]
+  open-graph: true
+
+  chapters: 
+    - index.qmd
+    - Vorwort.qmd
+    - part: Getting Started
+      chapters:
+         - 01_themensuche.qmd
+         - 02_wissenschaftliches_schreiben.qmd
+    # - part: An introduction to jamovi
+    #   chapters:
+    #      - 03-Getting-started-with-jamovi.qmd
+    # - part: Working with data
+    #   chapters:
+    #      - 04-Descriptive-statistics.qmd
+    #      - 05-Drawing-graphs.qmd
+    #      - 06-Pragmatic-matters.qmd
+    # - part: Statistical theory
+    #   chapters:
+    #      - Prelude-Part-IV.qmd
+    #      - 07-Introduction-to-probability.qmd
+    #      - 08-Estimating-unknown-quantities-from-a-sample.qmd
+    #      - 09-Hypothesis-testing.qmd
+    # - part: Statistical tools
+    #   chapters:
+    #      - 10-Categorical-data-analysis.qmd
+    #      - 11-Comparing-two-means.qmd
+    #      - 12-Correlation-and-linear-regression.qmd
+    #      - 13-Comparing-several-means-one-way-ANOVA.qmd
+    #      - 14-Factorial-ANOVA.qmd
+    #      - 15-Factor-Analysis.qmd
+    # - part: Endings, alternatives and prospects
+    #   chapters:
+    #      - 16-Bayesian-statistics.qmd
+    # - Epilogue.qmd
+    - References.qmd
+  
+bibliography: refs.bib
+csl: apa.csl
+
+format:
+  html:
+    title-block-style: none
+    toc: true
+    collapse: true
+    html-math-method: mathjax
+    include-in-header: header-includes.html
+    css: styles.css
+    theme:
+      light: 
+        - flatly
+        #- custom.scss
+      dark: 
+        - darkly
+        #- custom.scss
+    number-sections: true
+    link-external-newwindow: true
+    fig-width: 5
+    fig-height: 5
+    fig-align: left
+    #reference-location: margin
+  # epub: 
+  #  # footnotes not rendering math in popup but ok in mainview (issue with calibre viewer)
+  #   title: "learning statistics with jamovi (version 0.75)"
+  #   toc: true
+  #   css: styles.css
+  #   html-math-method: mathjax
+  #   fig-width: 5
+  #   fig-height: 5
+  #   fig-align: left
+  #   include-in-header: header-includes.html
+  #   epub-cover-image: images/bookcover_html.png
+  pdf:
+    title: "learning statistics with jamovi (version 0.75)"
+    documentclass: book
+    geometry:
+      - paperwidth=8.00in
+      - paperheight=10.00in
+      - left=1.25in
+      - textwidth= 5.25in
+      - top=1.00in
+      - textheight=8.25in
+      #- showframe
+    include-in-header: preamble.tex
+    include-before-body: first.tex
+    include-after-body: backcover.tex
+    toc: true
+    colorlinks: true
+    fig-width: 5
+    fig-height: 5
+    fig-align: left
+    keep-tex: true
+

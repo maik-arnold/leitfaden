@@ -1,0 +1,24 @@
+# Vorwort {.unnumbered}
+
+## History and License {.unnumbered}
+
+Dieser Leitfaden wurde auf Basis bisher im Umlauf befindlichen Empfehlungen und Vorgaben des Studienbereichs Sozialmanagement an der Hochschule Nordhausen entwickelt.
+
+The book is released under a [creative commons CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA.
+
+## Vorwort zur Version 0.1 {.unnumbered}
+
+Herzlich willkommen beim Leitfaden für das wissenschaftliches Arbeiten im Studiengang Sozialmanagement. Diese Website wurde mit dem klaren Ziel entwickelt, Studierenden eine fundierte Unterstützung für die vielfältigen Anforderungen beim wissenschaftlichen Schreiben zu geben. In einer Welt, in der fundierte Forschung und präzise Kommunikation immer wichtiger werden, möchten wir Ihnen gezielt die Werkzeuge und das Wissen an die Hand geben, die Sie benötigen, um auch diese akademische Herausforderung - das wissenschaftliche Schreiben - erfolgreich zu meistern.
+
+Dieser Leitfaden dient als praxisorientierte Ressource der Förderung des wissenschaftlichen Arbeitens im Studiengang Sozialmanagement, der sich den spezifischen Anforderungen und Besonderheiten des Studiums des Sozialmanagements annimmt. Wissenschaftliches Schreiben und die damit verbundenen Methoden entwickeln sich stetig weiter. Um Ihnen stets aktuelles Wissen und praxisrelevante Informationen zur Verfügung zu stellen, wird dieser Leitfaden regelmäßig aktualisiert. Die Qualität dieses Leitfadens hängt maßgeblich von Ihrer Rückmeldung und Ihren Erfahrungen ab. Sollten Sie Verbesserungsvorschläge haben, auf Unklarheiten stoßen oder feststellen, dass bestimmte Inhalte nicht ausreichend dargestellt sind, zögern Sie bitte nicht, uns zu kontaktieren. Ihr wertvolles Feedback ermöglicht es uns, den Leitfaden kontinuierlich zu verbessern und an Ihre Bedürfnisse anzupassen.
+
+Wir hoffen, dass dieser Leitfaden Ihnen nicht nur als Nachschlagewerk dient, sondern Sie auch inspiriert und motiviert, Ihre wissenschaftlichen Fähigkeiten weiterzuentwickeln. Wissenschaftliches Arbeiten ist eine essenzielle Kompetenz, die Sie nicht nur im Studium, sondern auch in Ihrer späteren beruflichen Laufbahn begleiten wird. Nutzen Sie die angebotenen Ressourcen und lassen Sie sich von den klar strukturierten Anleitungen und praxisnahen Tipps unterstützen.
+
+Wir wünschen Ihnen viel Erfolg und Freude damit. Happy Writing!
+
+*Maik Arnold (Redaktion)\
+30. September 2024*
+
+## Colophon
+
+Der Leitfaden wurde bewusst als Open Source Dokument mit [Quarto](https://www.quarto.org) entwickelt und wird mittels [RStudio](https://posit.co/download/rstudio-desktop/) regelmäßig über mit [GitHub Pages](https://pages.github.com/) aktualisiert zur Verfügung gestellt.

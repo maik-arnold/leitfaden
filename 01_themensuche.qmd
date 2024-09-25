@@ -1,0 +1,27 @@
+# Themensuche {#sec-A-themensuche}
+
+Diese Seite beinhaltet Hinweise zur Themensuche und dem Brainstorming.
+
+Grundsätzlich wird sowohl bei Seminar-, Bachelor-, und Masterarbeiten in den Lehrveranstaltungen im Studienbereich Sozialmanagement Themenvorschläge zur Verfügung gestellt, aus denen die Studierenden ein von ihnen präferiertes Thema auswählen können. Eigene Themenvorschläge sind immer auch nach Absprache möglich.
+
+Folgende Fragen können zur Beurteilung der Themenfindung hilfreich sein [z. B. @Banzer_Kruse_2011]:
+
+::: panel-tabset
+## Was interessiert mich?
+
+**Welche Themen interessieren mich?**
+
+Als wichtigstes Selektionskriterium sollten die eigenen Interessen gelten, da wissenschaftliches Arbeiten auch Spaß machen kann und soll. Die Auswahl sollte sich folglich nicht an der häufig von Studierenden gestellten Frage orientieren: "Wie viel Literatur existiert zu diesem Thema?" Viel Literatur kann auch bedeuten, dass wenig Freiraum für Eigenleistungen vorhanden ist. Eine umfangreiche bisherige Forschung bedeutet auch, dass für die Literaturrecherche und -auswahl entsprechend Zeit eingeplant werden muss.
+
+## Was kann ich schaffen?
+
+**Welche Themen sind von mir in der vorgegebenen Zeit zu bewältigen?**
+
+Insbesondere bei Bachelor- und Masterarbeiten mit empirischer Ausrichtung sollte darauf geachtet werden, dass die Studierenden sowohl über ausreichende theoretische Kenntnisse in den entsprechenden Wissenschaftsgebieten als auch über sichere und fundierte Methodenkenntnisse in der Datenerhebung, -aufbereitung und -analyse vor der Aufnahme der Bachelor- oder Masterarbeit verfügen.
+
+## Welchen Beitrag leistet es?
+
+**Welchen Beitrag leistet das Thema zur wissenschaftlichen Diskussion oder zur Praxis?**
+
+Ein weiteres wesentliches Kriterium für die Themenauswahl sollte die Relevanz des Themas sein. Es ist wichtig zu überlegen, welchen Mehrwert das Thema für die wissenschaftliche Gemeinschaft oder die berufliche Praxis bieten kann. Ein Thema, das neue Perspektiven auf ein bestehendes Problem eröffnet oder konkrete Lösungsansätze für aktuelle Herausforderungen bietet, ist besonders wertvoll. Die Wahl eines relevanten und innovativen Themas kann nicht nur die eigene Motivation steigern, sondern auch die wissenschaftliche und berufliche Bedeutung der Arbeit erhöhen.
+:::
