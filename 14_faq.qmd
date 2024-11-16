@@ -1,0 +1,29 @@
+# Häufig gestellte Fragen {#sec-B-faq}
+
+::: callout-note
+Diese Seite wird kontinuierlich aktualisiert.
+:::
+
+## Exposé
+
+**Wie erstelle ich ein Exposé?**
+
+Hilfreiche Tipps sowie Vorlagen zur Erstellung eines Exposé finden Sie unser diesem (vertrauenswürdigen) Link: [Scribbr: Ein perfektes Exposé einer Bachelorarbeit schreiben + Vorlage](https://www.scribbr.de/anfang-abschlussarbeit/expose-bachelorarbeit/)
+
+Das Exposé sollte mindestens das Thema, die Fragestellung/Zielsetzung, methodische Vorgehensweise, vorläufige Gliederung und Basisliteratur beinhalten. Für ein Bachelorarbeitsexposé sind ca. 3-5 Seiten ausreichend.
+
+## Bachelorarbeit
+
+**Muss ich in einer empirischen Forschungsarbeit einen deskriptiven Ergebnisteil von der Diskussion abgrenzen?**
+
+Die Forschungsarbeit bzw. empirische Bachelorarbeit müsste unbedingt in eine Ergebnisdarstellung und Diskussion unterteilt werden. So ist das auch bei der IMRaD-Struktur (vgl. vereinfacht unter https://en.wikipedia.org/wiki/IMRAD) bei wissenschaftlichen Papers Usus.
+
+**Wie schreibe ich einen Diskussionsteil?**
+
+Im Diskussionsteil unterscheide ich zwischen unterschiedlichen Aspekten: a) theoretische Reflexion (=wo kann ich meine BA in das große Bibliotheksregal ähnlicher anderer Arbeiten einordnen), b) methodische Reflexion (wie bin ich vorgegangen, was hätte ich anders machen können, welche Einschränkungen haben meine Ergebnisse) und c) einen praktischen Diskussionsteil (=welche praktischen Schlussfolgerungen lassen sich aus meiner Arbeit herausziehen bzw. kann es zur Praxis-/Professionalitätsentwicklung beitragen).
+
+**Wie vermeide ich ein Selbstplagiat?**
+
+Insgesamt müssten die Prüfungsleistungen für empirische Hausarbeit und Bachelorarbeit trennbar sein. Das wäre z.B. dann gegeben, wenn Sie die z.B. Ergebnisse der Umfrage, die in die empirische Hausarbeit eingehen, in der Bachelorarbeit später als Vorarbeiten (mit untergeordneter Bedeutung) zitieren (sog. Selbstzitat). Es stellt auch kein Problem dar, wenn Sie in der Bachlorarbeit auch auf die theoretische Grundlagen eingehen, die schon einmal in einer Hausarbeit dargestellt wurden. Um Dopplungen zu vermeiden, sollte man hier eine zusammengefasste Darstellung erstellen, die um weitere Aspekte und Literatur erweitert wird. Letzter Punkt ist wichtig: es darf sich nicht einfach um die gleichen Worte und Struktur handeln. Empfehlenswert ist dann eine entsprechende Abschnitts-Fußnote und die darin beschriebene Umsetzung (z.B. so: „Die im Folgenden dargestellten theoretischen Grundlagen basieren zwar auf Autor (2024, S. X-Y), wurden aber maßgeblich um neue Forschungsergebnisse und -perspektiven zum aktuellen Stand des Wissens erweitert.“; „Autor, 2024“ ist dann das Selbstzitat von dem ich vorher sprach).
+
+Warum ich das so ausführlich erläutere, ist die Herausforderung, ein sog. „Selbstplagiat“ (ja, sowas gibt es auch ;-) zu vermeiden. Hier ist ein nicht ganz neuer, aber immer informativer Text dazu: <https://www.uni-regensburg.de/assets/universitaet/ombudspersonen/selbstplagiat-memo.pdf> (ggf. auch hier mit einfacher Erklärung: <https://www.scribbr.de/plagiat/selbstplagiat/>)

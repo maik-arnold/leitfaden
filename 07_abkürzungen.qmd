@@ -1,0 +1,9 @@
+# Abkürzungen {#sec-B-abkuerzungen}
+
+Häufig verwendete Begriffe dürfen auch abgekürzt werden. Wie das geht, wird hier erklärt.
+
+Die (sparsame) Verwendung von Abkürzungen erleichter meist den Lesefluss, sofern es sich um generell geläufige Abkürzungen handelt, die auch im [Duden](https://www.duden.de/) aufgeführt werden, wie beispielsweise "usw." oder "z. B." Solche geläufigen Abkürzungen sind nicht im Abkürzungsverzeichnis aufzuführen.
+
+Darüber hinaus können die in der sozial- bzw. wirtschaftswissenschaftlichen Fachliteratur gebräuchlichen Abkürzungen (z. B. für wissenschaftliche Zeitschriften) verwendet werden. Diese sind allerdings im Abkürzungsverzeichnis der Arbeit aufzuführen. Bei der ersten Verwendung des Begriffs ist dieser vollständig im Fließtext auszuschreiben und dahinter mit der entsprechenden Abkürzung in Klammern zu versehen. Ab dann kann mit der Abkürzung im Text gearbeitet werden.
+
+Nicht erlaubt sind Abkürzungen aus Bequemlichkeit (z. B. Kom.pol. oder Mar- ket.instr.).

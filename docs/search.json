@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Leitfaden Wissenschaftliches Arbeiten",
     "section": "",
-    "text": "Welcome\nDieser Leitfaden soll Dir das wissenschaftliche Schreiben etwas leichter machen.\n\n“Wissenschaft ist der Versuch, dem menschlichen Denken eine Ordnung zu geben.”\nAlbert Einstein\n\nIm Studium steht man bei der Anfertigung von Seminar-, Bachelor- und Masterarbeiten häufig vor einer ziemlichen Herausforderung.\nIn diesem GitBook gibt es wissenswerte und relevante Informationen zur Gestaltung einer wissenschaftlichen Arbeit während des Studiums des Sozialmanagement (B.A.) an der Hochschule Nordhausen.\nDer Leitfaden beinhaltet folgende Teile:\n\nGetting Started: Bestandteile des wissenschaftlichen Arbeitens\nBasics: Formale Anforderungen\nAdvanced: Weiterführende Fragen und Hinweise\n\n\n\nZiel dieses Leitfadens\n\n\n\n\n\n\nNote\n\n\n\nSeminar-, Bachelor-, und Masterarbeiten sind selbständig erstellte wissenschaftliche Arbeiten, die im Allgemeinen die schriftliche Dokumentation eines ausgewählten Problembereichs umfassen. Mit weisen die Studierenden nach, dass sie wissenschaftliche Probleme erkennen, untersuchen und die Ergebnisse klar darstellen können. Sie sollen die relevante Literatur verarbeiten und unterschiedliche Meinungen kritisch würdigen können. Des Weiteren sollen die Studierenden eigene Lösungsansätze entwickeln.\n\n\nDie genannten Arbeiten verlangen eine geistige Durchdringung, Aufarbeitung und schriftliche Darstellung eines komplexen fachlichen Stoffgebietes in einer recht knapp bemessenen Zeit. Die Fähigkeit, diese Leistung erfolgreich zu erbringen, wird auch in der späteren Berufspraxis erwartet, etwa bei der\n\nAnfertigung von Projektberichten,\nPositionspapieren,\nStrategieplänen,\nDiskussionsvorlagen\nund anderen Dokumenten im beruflichen Alltag.\n\nDarüber hinaus bieten wissenschaftliche Arbeiten den Studierenden die Möglichkeit, methodische Kompetenzen zu vertiefen und sich intensiv mit einem spezifischen Forschungsfeld auseinanderzusetzen, das ihre wissenschaftliche Argumentationsfähigkeit, ihr kritisches Denken und ihre Problemlösungsfähigkeiten fördert.\n\n\n\n\n\n\nNote\n\n\n\nDer vorliegende Leitfaden soll dabei helfen, einen Überblick über die wichtigsten Anforderungen an die Gestaltung von Seminar-, Bachelor- und Masterarbeiten zu erlangen. Für detaillierte Hinweise und Erläuterungen zu Arbeitstechniken, Zeitplanungen etc. wird auf die Häufig gestellt Fragen und die weiterführende Literatur verwiesen.\n\n\nZitiervorschlag\nStudienbereich Sozialmanagement (Hrsg.). Leitfaden Wissenschaftliches Arbeiten. (Version 0.75). Hochschule Nordhausen.\nCreative Commons Licence\nLeitfaden Wissenschaftliches Arbeiten by Maik Arnold is licensed under CC BY-NC-SA 4.0",
+    "text": "Welcome\n\n“Nichts im Leben ist zu fürchten, es ist nur zu verstehen. Jetzt ist die Zeit, mehr zu verstehen, damit wir weniger fürchten.”\nMarie Skłodowska-Curie\n\nDieser Leitfaden soll Ihnen das wissenschaftliche Schreiben erleichtern.\nIm Studium steht man bei der Anfertigung von Seminar-, Bachelor- und Masterarbeiten häufig vor einer ziemlichen Herausforderung.\nIn diesem Quarto Book geben wir Ihnen wissenswerte und relevante Informationen rund um die Gestaltung einer wissenschaftlichen Arbeit im Studienbereich Sozialmanagement an der Hochschule Nordhausen.\nDer Leitfaden beinhaltet folgende Teile:\n\nGetting Started: Bestandteile des wissenschaftlichen Arbeitens\nBasics: Formale Anforderungen\nAdvanced: Weiterführende Fragen und Hinweise\n\n\n\nZiel dieses Leitfadens\n\n\n\n\n\n\nNote\n\n\n\nSeminar-, Bachelor-, und Masterarbeiten sind selbständig erstellte wissenschaftliche Arbeiten, die im Allgemeinen die schriftliche Dokumentation eines ausgewählten Problembereichs umfassen. Damit weisen Studierende nach, dass sie wissenschaftliche Probleme erkennen, untersuchen und die Ergebnisse klar darstellen können. Sie sollen relevante Literatur verarbeiten und unterschiedliche Meinungen kritisch würdigen können. Des Weiteren sollen die Studierenden eigene Lösungsansätze entwickeln.\n\n\nDie genannten Arbeiten verlangen eine geistige Durchdringung, Aufarbeitung und schriftliche Darstellung eines komplexen fachlichen Stoffgebietes in einer begrenzten Zeit. Die Fähigkeit, diese Leistung erfolgreich zu erbringen, wird auch in der späteren Berufspraxis erwartet, etwa bei der\n\nAnfertigung von Projektberichten,\nPositionspapieren,\nStrategieplänen,\nDiskussionsvorlagen\nund anderen Dokumenten im beruflichen Alltag.\n\nDarüber hinaus bieten wissenschaftliche Arbeiten den Studierenden die Möglichkeit, methodische Kompetenzen zu vertiefen und sich intensiv mit einem spezifischen Forschungsfeld auseinanderzusetzen, das ihre wissenschaftliche Argumentationsfähigkeit, ihr kritisches Denken und ihre Problemlösungsfähigkeiten fördert.\n\n\n\n\n\n\nNote\n\n\n\nDer vorliegende Leitfaden soll dabei helfen, einen Überblick über die wichtigsten Anforderungen an die formale Gestaltung von Seminar-, Bachelor- und Masterarbeiten zu erlangen. Für detaillierte Hinweise und Erläuterungen zu Arbeitstechniken, Zeitplanungen etc. wird auf die Häufig gestellte Fragen und die weiterführende Literatur verwiesen.\n\n\nZitiervorschlag\nStudienbereich Sozialmanagement (Hrsg.) (2024). Leitfaden Wissenschaftliches Arbeiten. (Version 0.1). Hochschule Nordhausen. https://doi.org/10.5281/zenodo.13844669\nBildnachweise\nPrompting von Maik Arnold, Rendering durch Midjourney\nCreative Commons Licence\nLeitfaden Wissenschaftliches Arbeiten by Studienbereich Sozialmanagement, Hochschule Nordhausen is licensed under CC BY-NC-SA 4.0",
     "crumbs": [
       "Welcome"
     ]
@@ -14,7 +14,7 @@
     "href": "Vorwort.html",
     "title": "Vorwort",
     "section": "",
-    "text": "History and License\nDieser Leitfaden wurde auf Basis bisher im Umlauf befindlichen Empfehlungen und Vorgaben des Studienbereichs Sozialmanagement an der Hochschule Nordhausen entwickelt.\nThe book is released under a creative commons CC BY-NC-SA 4.0 licence. This means that this book can be reused, remixed, retained, revised and redistributed (including commercially) as long as appropriate credit is given to the authors. If you remix, or modify the original version of this open textbook, you must redistribute all versions of this open textbook under the same license - CC BY-SA.",
+    "text": "History and License\nDieser Leitfaden wurde auf Basis bisher im Umlauf befindlicher Empfehlungen und Vorgaben des Studienbereichs Sozialmanagement an der Hochschule Nordhausen entwickelt.\nDas Buch wird unter einer Creative Commons CC BY-NC-SA 4.0 Lizenz veröffentlicht. Das bedeutet, dass dieses Buch wiederverwendet, geremixt, überarbeitet und weiterverbreitet (jedoch ohne kommerzieller Nutzung) werden kann, solange die Autorinnen, die Autoren angemessen genannt werden. Wenn Sie die ursprüngliche Version dieses Open Educational Resource (OER) Buches remixen oder modifizieren, müssen Sie alle Versionen unter derselben Lizenz (CC BY-SA) weiterverbreiten.",
     "crumbs": [
       "Vorwort"
     ]
@@ -24,7 +24,7 @@
     "href": "Vorwort.html#vorwort-zur-version-0.1",
     "title": "Vorwort",
     "section": "Vorwort zur Version 0.1",
-    "text": "Vorwort zur Version 0.1\nHerzlich willkommen beim Leitfaden für das wissenschaftliches Arbeiten im Studiengang Sozialmanagement. Diese Website wurde mit dem klaren Ziel entwickelt, Studierenden eine fundierte Unterstützung für die vielfältigen Anforderungen beim wissenschaftlichen Schreiben zu geben. In einer Welt, in der fundierte Forschung und präzise Kommunikation immer wichtiger werden, möchten wir Ihnen gezielt die Werkzeuge und das Wissen an die Hand geben, die Sie benötigen, um auch diese akademische Herausforderung - das wissenschaftliche Schreiben - erfolgreich zu meistern.\nDieser Leitfaden dient als praxisorientierte Ressource der Förderung des wissenschaftlichen Arbeitens im Studiengang Sozialmanagement, der sich den spezifischen Anforderungen und Besonderheiten des Studiums des Sozialmanagements annimmt. Wissenschaftliches Schreiben und die damit verbundenen Methoden entwickeln sich stetig weiter. Um Ihnen stets aktuelles Wissen und praxisrelevante Informationen zur Verfügung zu stellen, wird dieser Leitfaden regelmäßig aktualisiert. Die Qualität dieses Leitfadens hängt maßgeblich von Ihrer Rückmeldung und Ihren Erfahrungen ab. Sollten Sie Verbesserungsvorschläge haben, auf Unklarheiten stoßen oder feststellen, dass bestimmte Inhalte nicht ausreichend dargestellt sind, zögern Sie bitte nicht, uns zu kontaktieren. Ihr wertvolles Feedback ermöglicht es uns, den Leitfaden kontinuierlich zu verbessern und an Ihre Bedürfnisse anzupassen.\nWir hoffen, dass dieser Leitfaden Ihnen nicht nur als Nachschlagewerk dient, sondern Sie auch inspiriert und motiviert, Ihre wissenschaftlichen Fähigkeiten weiterzuentwickeln. Wissenschaftliches Arbeiten ist eine essenzielle Kompetenz, die Sie nicht nur im Studium, sondern auch in Ihrer späteren beruflichen Laufbahn begleiten wird. Nutzen Sie die angebotenen Ressourcen und lassen Sie sich von den klar strukturierten Anleitungen und praxisnahen Tipps unterstützen.\nWir wünschen Ihnen viel Erfolg und Freude damit. Happy Writing!\nMaik Arnold (Redaktion)\n30. September 2024",
+    "text": "Vorwort zur Version 0.1\nHerzlich Willkommen beim Leitfaden für das wissenschaftliches Arbeiten im Studienbereich Sozialmanagement. Diese Website, respektive das Buch wurde mit dem klaren Ziel entwickelt, Studierenden eine fundierte Unterstützung für die vielfältigen Anforderungen beim wissenschaftlichen Schreiben zu geben. In einer Welt, in der fundierte Forschung und präzise Kommunikation immer wichtiger werden, möchten wir Ihnen gezielt die Werkzeuge und das Wissen an die Hand geben, die Sie benötigen, um auch diese akademische Herausforderung - das wissenschaftliche Schreiben - erfolgreich zu meistern.\nDieser Leitfaden dient als praxisorientierte Ressource, der sich den spezifischen Anforderungen und Besonderheiten des Studiums annimmt. Wissenschaftliches Schreiben und die damit verbundenen Methoden entwickeln sich stetig weiter. Um Ihnen stets aktuelles Wissen und praxisrelevante Informationen zur Verfügung zu stellen, wird dieser Leitfaden regelmäßig aktualisiert. Die Qualität dieses Leitfadens hängt maßgeblich auch von Ihrer Rückmeldung und Ihren Erfahrungen ab. Sollten Sie Verbesserungsvorschläge haben, auf Unklarheiten stoßen oder feststellen, dass bestimmte Inhalte nicht ausreichend dargestellt sind, zögern Sie bitte nicht, uns zu kontaktieren. Ihr wertvolles Feedback ermöglicht es uns, den Leitfaden kontinuierlich zu verbessern und an die Bedürfnisse beim Studieren anzupassen.\nWir hoffen, dass dieser Leitfaden Ihnen nicht nur als Nachschlagewerk dient, sondern Sie auch inspiriert und motiviert, Ihre wissenschaftlichen Fähigkeiten weiterzuentwickeln. Wissenschaftliches Arbeiten ist eine essenzielle Kompetenz, die Sie nicht nur im Studium, sondern auch in Ihrer späteren beruflichen Laufbahn begleiten wird. Nutzen Sie die angebotenen Ressourcen und lassen Sie sich für das wissenschaftliche Arbeiten von uns begeistern.\nWir wünschen Ihnen viel Erfolg und Freude damit. Happy Writing!\nIm Name des Teams des Studienbereichs Sozialmanagement\nMaik Arnold (Redaktion)\n25. September 2024",
     "crumbs": [
       "Vorwort"
     ]
@@ -34,7 +34,7 @@
     "href": "Vorwort.html#colophon",
     "title": "Vorwort",
     "section": "Colophon",
-    "text": "Colophon\nDer Leitfaden wurde bewusst als Open Source Dokument mit Quarto entwickelt und wird mittels RStudio regelmäßig über mit GitHub Pages aktualisiert zur Verfügung gestellt.",
+    "text": "Colophon\nDer Leitfaden wurde bewusst als Open Source Dokument mit entwickelt und wird mittels RStudio regelmäßig über mit GitHub Pages aktualisiert zur Verfügung gestellt.\nDieses Buch wurde mithilfe von Quarto Book und RMarkdown erstellt. Die Erstellung und Bearbeitung erfolgten in der integrierten Entwicklungsumgebung RStudio. Für das Layout und die finalen Druckversionen kam LaTeX zum Einsatz. Alle technischen Komponenten wurden sorgfältig ausgewählt, um die Inhalte mittels Open Source Technologie und in Form von Open Access professionell und ansprechend zu gestalten.",
     "crumbs": [
       "Vorwort"
     ]
@@ -44,9 +44,9 @@
     "href": "01_themensuche.html",
     "title": "1  Themensuche",
     "section": "",
-    "text": "Diese Seite beinhaltet Hinweise zur Themensuche und dem Brainstorming.\nGrundsätzlich wird sowohl bei Seminar-, Bachelor-, und Masterarbeiten in den Lehrveranstaltungen im Studienbereich Sozialmanagement Themenvorschläge zur Verfügung gestellt, aus denen die Studierenden ein von ihnen präferiertes Thema auswählen können. Eigene Themenvorschläge sind immer auch nach Absprache möglich.\nFolgende Fragen können zur Beurteilung der Themenfindung hilfreich sein (z. B. Banzer & Kruse, 2011):\n\nWas interessiert mich?Was kann ich schaffen?Welchen Beitrag leistet es?\n\n\nWelche Themen interessieren mich?\nAls wichtigstes Selektionskriterium sollten die eigenen Interessen gelten, da wissenschaftliches Arbeiten auch Spaß machen kann und soll. Die Auswahl sollte sich folglich nicht an der häufig von Studierenden gestellten Frage orientieren: “Wie viel Literatur existiert zu diesem Thema?” Viel Literatur kann auch bedeuten, dass wenig Freiraum für Eigenleistungen vorhanden ist. Eine umfangreiche bisherige Forschung bedeutet auch, dass für die Literaturrecherche und -auswahl entsprechend Zeit eingeplant werden muss.\n\n\nWelche Themen sind von mir in der vorgegebenen Zeit zu bewältigen?\nInsbesondere bei Bachelor- und Masterarbeiten mit empirischer Ausrichtung sollte darauf geachtet werden, dass die Studierenden sowohl über ausreichende theoretische Kenntnisse in den entsprechenden Wissenschaftsgebieten als auch über sichere und fundierte Methodenkenntnisse in der Datenerhebung, -aufbereitung und -analyse vor der Aufnahme der Bachelor- oder Masterarbeit verfügen.\n\n\nWelchen Beitrag leistet das Thema zur wissenschaftlichen Diskussion oder zur Praxis?\nEin weiteres wesentliches Kriterium für die Themenauswahl sollte die Relevanz des Themas sein. Es ist wichtig zu überlegen, welchen Mehrwert das Thema für die wissenschaftliche Gemeinschaft oder die berufliche Praxis bieten kann. Ein Thema, das neue Perspektiven auf ein bestehendes Problem eröffnet oder konkrete Lösungsansätze für aktuelle Herausforderungen bietet, ist besonders wertvoll. Die Wahl eines relevanten und innovativen Themas kann nicht nur die eigene Motivation steigern, sondern auch die wissenschaftliche und berufliche Bedeutung der Arbeit erhöhen.\n\n\n\n\n\n\n\nBanzer, R., & Kruse, O. (2011). Schreiben im bachelor-studium: Direktiven für didaktik und curriculumentwicklung. In B. Behrendt, H.-P. Voss, & J. Wildt (Eds.), Neues handbuch hochschullehre. Lehren und lernen effizient gestalten - g. Schlüsselqualifikationen und wissenschaftliches arbeiten. Wissenschaftliches schreiben. G4.8. Raabe.",
+    "text": "Diese Seite beinhaltet Hinweise zur Themensuche und zum Brainstorming.\nGrundsätzlich erhalten Sie für eine Seminar-, Bachelor-, und Masterarbeit in den Lehrveranstaltungen im Studienbereich Sozialmanagement Themenvorschläge, aus denen Sie ein von ihnen präferiertes Thema auswählen können. Eigene Themenvorschläge sind immer auch nach Absprache möglich.\nFolgende Fragen können zur Beurteilung der Themenfindung hilfreich sein:\n\nWas interessiert mich?Was kann ich schaffen?Welchen Beitrag leistet es?\n\n\nWelche Themen interessieren mich?\nAls wichtigstes Selektionskriterium sollten die eigenen Interessen gelten, da wissenschaftliches Arbeiten auch Spaß machen kann und soll. Die Auswahl sollte sich folglich nicht an der häufig von Studierenden gestellten Frage orientieren: “Wie viel Literatur existiert zu diesem Thema?” Viel Literatur kann auch bedeuten, dass wenig Freiraum für Eigenleistungen vorhanden ist. Eine umfangreiche bisherige Forschung bedeutet auch, dass für die Literaturrecherche und -auswahl entsprechend Zeit eingeplant werden muss.\n\n\nWelche Themen sind von mir in der vorgegebenen Zeit zu bewältigen?\nInsbesondere bei Bachelor- und Masterarbeiten mit empirischer Ausrichtung sollte darauf geachtet werden, dass die Studierenden sowohl über ausreichende theoretische Kenntnisse in den entsprechenden Wissenschaftsgebieten als auch über sichere und fundierte Methodenkenntnisse in der Datenerhebung, -aufbereitung und -analyse vor der Aufnahme der Bachelor- oder Masterarbeit verfügen.\n\n\nWelchen Beitrag leistet das Thema zur wissenschaftlichen Diskussion oder zur Praxis?\nEin weiteres wesentliches Kriterium für die Themenauswahl sollte die Relevanz des Themas sein. Es ist wichtig zu überlegen, welchen Mehrwert das Thema für die wissenschaftliche Gemeinschaft oder die berufliche Praxis bieten kann. Ein Thema, das neue Perspektiven auf ein bestehendes Problem eröffnet oder konkrete Lösungsansätze für aktuelle Herausforderungen bietet, ist besonders wertvoll. Die Wahl eines relevanten und innovativen Themas kann nicht nur die eigene Motivation steigern, sondern auch die wissenschaftliche und berufliche Bedeutung der Arbeit erhöhen.",
     "crumbs": [
-      "Getting Started",
+      "GETTING STARTED",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Themensuche</span>"
     ]
   },
@@ -55,20 +55,468 @@
     "href": "02_wissenschaftliches_schreiben.html",
     "title": "2  Wissenschaftliches Schreiben",
     "section": "",
-    "text": "Hier wird darauf eingegangen, warum es sowohl formale, stilistische und wissenschaftstheoretische Anforderungen an wissenschaftlichen Arbeiten gibt.\nDer Lehrfilm aus dem OER Lab der Universität Koblenz stelle alles Wichtige über die Grundlagen und Bedingungen des wissenschaftlichen Schreibens dar. Der Film erklärt, was “wissenschaftliches Arbeiten” bedeutet, worauf beim Schreiben geachtet werden muss und warum dies wichtig ist. Egal, ob bei Hausarbeiten, Portfolios oder Abschlussarbeiten – der Film bietet wertvolle Einblicke, wie sich wissenschaftliches Schreiben von anderen Schreibformen unterscheidet.",
+    "text": "Hier wird darauf eingegangen, warum es sowohl formale, stilistische und wissenschaftstheoretische Anforderungen an wissenschaftlichen Arbeiten gibt.\nDer Lehrfilm aus des Schreibzentrum & Online Writing Lab (OWL) der TH Nürnberg stellt alles Wichtige über die Grundlagen und Bedingungen des wissenschaftlichen Schreibens dar. Der Film erklärt, was “wissenschaftliches Arbeiten” bedeutet, worauf beim Schreiben geachtet werden muss und warum dies wichtig ist. Egal, ob bei Hausarbeiten, Portfolios oder Abschlussarbeiten – der Film bietet wertvolle Einblicke, wie sich wissenschaftliches Schreiben von anderen Schreibformen unterscheidet.\n\n\nVideo: Einführung in das wissenschaftliche Schreiben (3:02 min)",
     "crumbs": [
-      "Getting Started",
+      "GETTING STARTED",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Wissenschaftliches Schreiben</span>"
+    ]
+  },
+  {
+    "objectID": "03_gliederung.html",
+    "href": "03_gliederung.html",
+    "title": "3  Gliederung der Arbeit",
+    "section": "",
+    "text": "3.1 Allgemeines Ordnungsschema\nDas allgemeine Ordnungsschema einer wissenschaftlichen Arbeit beinhaltet folgende Bestandteile:\nFigure 3.1: Titelseite/Deckblatt (eigene Darstellung)",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gliederung der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "03_gliederung.html#allgemeines-ordnungsschema",
+    "href": "03_gliederung.html#allgemeines-ordnungsschema",
+    "title": "3  Gliederung der Arbeit",
+    "section": "",
+    "text": "VorspannFließtextLiteratur- und QuellenverzeichnisAnhangEigenständigkeitserklärung\n\n\nDie Titelseite ist das erste Blatt einer wissenschaftlichen Arbeit und enthält grundlegende Informationen:\n\nName der Hochschule\nFachbereich und Studiengang\nErstgutachter:in ggf. Zweitgutachter:in\nBezeichnung der Arbeit (z.B. Hausarbeit, Seminararbeit, Bachelorarbeit)\nLehrveranstaltung mit jeweiliger Modulnummer\nIhr Vor- und Zuname und Matrikelnummer\nOrt, Datum der Abgabe\n\nIm Vorwort bedanken sich Autor:innen bei Personen und Institutionen, die zur Entstehung der Arbeit beigetragen haben. Es bietet Raum für persönliche Anmerkungen, Reflexionen über den Entstehungsprozess und die Motivation hinter der Forschung, ohne jedoch inhaltlich auf die Ergebnisse der Arbeit einzugehen.\nDas Inhaltsverzeichnis gibt einen strukturierten Überblick über die Haupt- und Unterkapitel der Arbeit, einschließlich der Seitenzahlen. Es ermöglicht den Lesenden eine schnelle Orientierung und gezielte Navigation durch die verschiedenen Teile der Arbeit. In Textverarbeitungsprogrammen lässt sich das Inhaltsverzeichnis automatisch erstellen.\nDas Abbildungs- und Tabellenverzeichnis lässt sich in Textverarbeitungsprogrammen automatisch erstellen. Es ist darauf zu achten, dass alle Bezeichnungen für die Abbildungen und Tabellen übernommen wurden und auch die entsprechenden Quellen angegeben sind.\nDas Abkürzungsverzeichnis bietet den Lesenden eine schnelle Referenz, um die in der Arbeit verwendeten Kurzformen und visuellen Hilfsmittel nachzuschlagen und deren Bedeutung oder Inhalt zu verstehen.\n\n\nDer Fließtext umfasst die Einleitung, die das Forschungsthema fachlich wissenschaftlicher Sicht herleitet, die Ziel- und Fragestellung(en) klar benennt und den Aufbau der Arbeit im Überblick beschreibt. Der anschließende Hauptteil, der je nach Typ der wissenschaftlichen Arbeit variieren kann, beinhaltet die theoretischen Grundlagen, die Methodik, Ergebnisse und deren Diskussion. Die Arbeit schließt mit einem Fazit und Ausblick, wo die wesentlichen Erkenntnisse zusammenfasst und ggf. auf zukünftigen Forschungs- und Praxisentwicklungsbedarf hingewiesen wird.\n\n\nDieses Verzeichnis listet alle Quellen auf, die in der Arbeit zitiert oder verwendet wurden. Es dient der Dokumentation der wissenschaftlichen Belege für die Aussagen in der Arbeit und ermöglicht es den Lesern, die verwendeten Quellen nachzuvollziehen und zu überprüfen.\n\n\nDer Anhang enthält ergänzende Materialien wie Rohdaten, Transkripte, umfangreiche Tabellen, Fragebögen bzw. Leitfäden oder zusätzliche Dokumente, die für das Verständnis der Arbeit wichtig sind, aber den Haupttext überladen würden. Das Anhangsverzeichnis gibt eine Übersicht über die enthaltenen Anhänge und erleichtert deren Auffinden. Es ist darauf zu achten, dass alle Anhänge im Haupttext der Arbeit erwähnt werden bzw. eingebunden sind.\n\n\nAuf der letzten Seite der wissenschaftlichen Arbeit muss steht die Eigenständigkeiterklärung wie nach § 11 Abs. 6 Prüfungsordnung für den Bachelorstudiengang Sozialmanagement an der Hochschule Nordhausen abgedruckt und unterschrieben werden:\n“Hiermit versichere ich, dass ich diese Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Wörtlich oder sinngemäße Übernahmen aus anderen Schriften und Veröffentlichungen in gedruckter oder elektronischer Form sind ausnahmslos als solche gekennzeichnet. Zudem versichere ich, dass diese Arbeit oder Teile daraus bisher nicht physisch und/oder elektronisch veröffentlicht wurde, und dass diese Arbeit oder Teile daraus weder von mir selbst noch von anderen einer Prüferin/einem Prüfer/einer Prüfungsbehörde als Leistungsnachweis vorgelegt wurde.”\nOrt, Datum, Unterschrift\nZusätzlich ist bei Nutzung von KI-basierten Systemen entsprechend der vom Prüfungsausschuss beschlossenen Richtlinie zum Umgang mit Künstlicher Intelligenz (GenAI) der zusätzliche Erklärungsbogen einzufügen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gliederung der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "03_gliederung.html#gliederungshinweise",
+    "href": "03_gliederung.html#gliederungshinweise",
+    "title": "3  Gliederung der Arbeit",
+    "section": "3.2 Gliederungshinweise",
+    "text": "3.2 Gliederungshinweise\nDie Gliederung ist wesentlicher Bestandteil der Arbeit und soll zeigen, wie die Problemstellung verstanden und bearbeitet wurde. Sie muss daher in ihrer Struktur und in den gewählten Überschriften den logischen und gedanklichen Aufbau der Arbeit widerspiegeln und einen Überblick über den Inhalt und die Schwerpunkte der Arbeit geben.\nDie Tiefe der Gliederung hängt von der Länge und dem Thema bzw. den Inhalten der Arbeit ab. Eine sehr differenzierte Gliederung kann den Gedankengang der Arbeit zwar gut zu strukturieren helfen, sie kann aber auch dazu führen, dass die Gedanken fragmentarisch nebeneinander stehen bleiben und eine umfassende Argumentationsführung nicht entwickelt wird.\n\n\n\n\n\n\nNote\n\n\n\nFür Seminararbeiten wird in den meisten Fällen eine Gliederungstiefe von maximal drei Ebenen ausreichend sein. Bei Bachelor- oder Masterarbeiten kann sich stellenweise eine Gliederungstiefe von vier Ebenenals sinnvoll erweisen.\n\n\n\n\n\n\n\n\nTip\n\n\n\nHinweise:\n\nIn der Regel muss ein Gliederungspunkt länger als eine Seite sein, jedoch reicht es nicht aus, diese Textseite durch Abbildungen bzw. Tabellen zu füllen!\nDirekt zu Beginn eines Kapitels ist es empfehlenswert, einen einleitenden strukturierenden Hinweis zu schreiben. Es kann manchmal sinnvoll sein, zwischen einem Oberpunkt und den nachgeordneten Unterpunkten einleitende und strukturierende Bemerkungen einzufügen. Diese sollten äußerst sparsam eingesetzt, kurzgehalten und nicht länger als ein Viertel der Seite werden.\nBei der Untergliederung ist darauf zu achten, dass etwa auf einen Unterpunkt mindestens ein weiterer Unterpunkt folgt. Die Überschriften von Unterkapiteln dürfen die Überschrift des übergeordneten Gliederungspunktes nicht wortgetreu bzw. annähernd wortgetreu wiederholen. Außerdem sollte keinesfalls eine Kapitelüberschrift mit dem Thema der Arbeit identisch sein. Weiterhin ist darauf zu achten, dass Themeninhalte auf derselben Gliederungsstufe nicht zueinander im Unterverhältnis stehen dürfen.\nInhaltlich soll die Gliederung einer wissenschaftlichen Arbeit deren Verständlichkeit fördern. Daher ist jeder Gliederungspunkt so zu formulieren, dass er (a) inhaltlich schnell erfassbar und verständlich sowie (b) inhaltlich aussagefähig ist.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gliederung der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "03_gliederung.html#nummerierung-und-seitenzahlen",
+    "href": "03_gliederung.html#nummerierung-und-seitenzahlen",
+    "title": "3  Gliederung der Arbeit",
+    "section": "3.3 Nummerierung und Seitenzahlen",
+    "text": "3.3 Nummerierung und Seitenzahlen\nDas Inhaltsverzeichnis spiegelt die Gliederung wider und muss formal übersichtlich sein. Die Positionen der Gliederung sind mit den entsprechenden Seitenangaben zu versehen. Sie müssen mit den Überschriften der inhaltlichen Abschnitte im Text übereinstimmen. Zur Klassifikation der Gliederungspunkte stehen das „dekadische“ System (Dezimalsystem) zur Verfügung.\nDas dekadische System, welches grundsätzlich empfohlen wird, ist durch eine kontinuierliche Nummerierung sämtlicher Gliederungsebenen des Textteils (Einleitung, Hauptteil, Schluss) mit arabischen Zahlen gekennzeichnet. Alle Verzeichnisse (z.B. Abbildungs-, Tabellen- und Abkürzungsverzeichnis, etc.) und die Eigenständigkeitserklärung sind ohne Nummer im Inhaltsverzeichnis aufzuführen. Für den Gliederungspunkt Anhang wird empfohlen, diesen im Inhaltsverzeichnis ohne Nummer anzugeben. Die einzelnen Teile das Anhangs dürfen wiederum nummeriert werden.\n\n\n\n\n\n\nTip\n\n\n\nHinweise:\n\nAlle Seiten sind mit arabischen Seitenzahlen zu versehen. Ausnahmen bilden das Deckblatt und die Eigenständigkeitserklärung, die immer keine Seitenzahl erhalten.\nInhalts-, Abkürzungs- und Abbildungs- und Tabellenverzeichnisse werden mit römischen Zahlen (beginnend mit I,II,III) versehen\nDer Textteil von der Einleitung über den Hauptteil bis zum Schluss ist mit arabischen Ziffern als Seitenzahlen zu versehen. Dabei beginnt die Einleitung mit Seite 1.\nDas Literaturverzeichnis ist mit fortlaufenden römischen oder arabischen Ziffern als Seitenzahl zu versehen.\nDer Anhang mit Anhangsverzeichnis wird im Regelfall ebenfalls mit fortlaufenden römischen Zahlen (z. B. Anhang A, A I, A II usw.) versehen. (Hinweis: bei einem langen Anhang sollte wiederum auf arabische Zahlen zurückgegriffen werden.)\nDer geforderte bzw. maximale Seitenumfang wird von den jeweiligen Prüfenden ab der ersten Seite der Einleitung bis einschließlich der letzten Seite des Fazits gezählt.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gliederung der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html",
+    "href": "04_bestandteile.html",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "",
+    "text": "4.1 Einleitung\nDie Einleitung kann je nach Typ der Arbeit unterschiedlich aufgebaut sein. In der Regel erfolgt eine Hinführung zum Thema, wobei folgende Dinge dargestellt werden müssen:\nAnschließend wird die Fragestellung und evtl. Teilfragen der Arbeit dargestellt.\nDanach erfolgt eine Darstellung der Methodik der Arbeit.\nAbschließend folgt eine Darstellung des Aufbaus der Arbeit in folgender Form:",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#einleitung",
+    "href": "04_bestandteile.html#einleitung",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "",
+    "text": "Relevanz des Themas: Weshalb ist eine Bearbeitung des Themas wichtig oder relevant?\nProblemstellung: Was ist die Fragestellung der Arbeit und welches Ziel wird mit der Arbeit verfolgt?\nEinordnung des Themas in den wissenschaftlichen Kontext.\n\n\n\n\nHandelt es sich um eine Literaturanalyse, empirische Arbeit, Konzeptentwicklung, Praxisfallanalyse etc.?\nBei empirischer Forschung ist die Benennung des jeweiligen Forschungsparadigmas (z. B. qualitative vs. quantitative Forschung), der Datenerhebungs- und -auswertungsmethoden notwendig.\n\n\n\nVorgehensweise: Wie sieht die Argumentationskette (der “rote Faden”) in der Arbeit aus und welche Teilprobleme werden in welchen Kapiteln behandelt?",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#hauptteil",
+    "href": "04_bestandteile.html#hauptteil",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "4.2 Hauptteil",
+    "text": "4.2 Hauptteil\nIm Hauptteil bzw. Kernabschnitt der Arbeit ist die Fragestellung aufzunehmen und zu bearbeiten. Am Anfang des Hauptteils setzt man sich mit den theoretischen Grundlagen auseinander. Dabei ist es wichtig, die aus der Literatur exzerpierten Informationen nicht einfach nur darzustellen, sondern dabei auch eigene Gedanken zu entwickeln (sog. wissenschaftliche Eigenleistung).\nEine wissenschaftliche Eigenleistung könnte z. B. einfließen durch eine kritische Bewertung, Reflexion und Diskussion von Theorien, Definitionen, Ansätzen und Forschungsergebnissen der einbezogenen Literatur. Manchmal kann es auch hilfreich sein, eine Übersicht in Form einer Tabelle oder Abbildung zu erstellen, die so in der Literatur zum Thema (und dem eigenen Wissensstand) nicht existiert (und nicht einfach auch einem bereits veröffentlichten Text übernommen wurde). Dies kann die Argumentation visuell unterstützen sowie einen Abschnitt, ein Kapitel oder die gesamte Arbeit zu strukturieren. Bitte beachten Sie aber, dass die wesentlichen Inhalte dieser Visualisierung im Fließtext beschrieben werden müssen.\nFernerhin ist zu beachten, dass die Fragestellung vollständig zu erfassen. Manchmal noch so interessante und spannende Ausführungen jenseits der Fragestellung (bzw. Exkurse) sollten möglichst vermieden werden. Als Eselsbrücke kann man sich einprägen: “Keine Löcher aufreißen, die hinterher nicht wieder gestopft werden können.“ D.h., Aspekte bzw. Argumente, die für die Beantwortung der Fragestellung nicht unmittelbar zielführend sind, sollten vermieden werden. Oftmals werden neue Aspekte dabei zu kurz angeschnitten und nicht ausreichend erläutert.\n\n\n\n\n\n\nImportant\n\n\n\nAn dieser Stelle sollen nur noch einige weitere Hinweise gegeben werden:\n\nStößt man beim Schreiben auf ein Teilproblem, welches man zunächst nicht effektiv lösen kann, dann sollte man dieses zunächst ausklammern und eine Notiz im Text machen, dass man diesen Aspekt später weiterbearbeitet (z. B. durch farbliche Markierung, Fußnote oder Eintrag im eigenen Forschungstagebuch). Manchmal lösen sich solche Probleme im Laufe des Schreibprozesses.\nExkurse sollen in einer Arbeit vermieden werden, da sie sehr leicht zu Abschweifungen vom eigentlichen Thema verleiten können.\nKurze Überleitungen zwischen den einzelnen Abschnitten fördern den Lesefluss und die Struktur der Arbeit. Sie können ein kurzes Fazit des abgeschlossenen Abschnitts enthalten und verdeutlichen was bzw. warum etwas im folgenden Abschnitt besprochen wird. Diese Überleitungen sollten kurz und prägnant sein (meist reichen 2-3 Sätze).\nZu Beginn eines Kapitels mit vielen Gliederungsebenen kann es angebracht sein, einen kurzen Absatz (max. ein Drittel der Seite) zur weiteren Untergliederung bzw. Struktur zu verfassen, um diese zu erklären bzw. zu begründen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#hinweise-für-die-einbeziehung-der-beruflichen-praxis",
+    "href": "04_bestandteile.html#hinweise-für-die-einbeziehung-der-beruflichen-praxis",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "4.3 Hinweise für die Einbeziehung der beruflichen Praxis",
+    "text": "4.3 Hinweise für die Einbeziehung der beruflichen Praxis\nHäufig wird die Frage gestellt, inwieweit man Erfahrungen aus der Praxis bzw. aus einem Praktikum in die Arbeit einfließen lassen kann. Diese Erfahrungen sollen nicht nur wiedergegeben werden, sondern anhand der dargestellten theoretischen Konzepte analysiert und kritisch durchleuchtet werden. Auch hier gilt die Quellenverweispflicht. Für die Reflexion von Praxiserfahrungen liegen meistens andere Arten von Belegen vor, z. B. ein Brochüren, Leitbild oder Konzept einer Organisation, persönliche Kommunikation. All diese Informationen dürfen und müssen entsprechend als Quellen angegeben werden.\nSowohl bei einer Praxisfallanalyse als auch bei einer empirischen Untersuchung ist eine gründliche themenspezifische Recherche in Bezug auf ein konkretes Unternehmen oder Branche notwendig. Zur Erlangung der nötigen Informationen können zum Beispiel die Website des betreffenden Unternehmens oder des Wohlfahrtsverbands sowie veröffentlichte Geschäftsberichte oder Publikationen, die meist als Graue Literatur bezeichnet werden, herangezogen werden. Insbesondere für große Unternehmen existieren zahlreiche Fachdatenbanken in allen wissenschaftlichen Bibliotheken (z. B. EBSCOhost, Springer Link, etc.).\nFerner kann eine Kontaktaufnahme mit der relevanten Stelle im Unternehmen sinnvoll sein, um spezifische Informationen zu erfragen. Mitunter ist es auch möglich, ein persönliches Gespräch mit einem Mitarbeiter des Unternehmens zum jeweiligen Thema zu führen. In jedem Fall sollte mit dem Unternehmen besprochen werden, wie mit datenschutzrechtlichen Aspekten umzugehen ist (z. B. Nennung von Mitarbeiter- oder Firmendaten). Die gewonnen Informationen können dann als persönliche Kommunikation in der eigenen wissenschaftlichen Arbeit belegt werden.\n\n\n\n\n\n\nTip\n\n\n\nWeitere Websites, die bei der Informationsrecherche nach Praxisdaten hilfreich sein können:\n\nDeutsche Industrie-und Handelskammer: www.dihk.de\nStatistisches Bundesamt Deutschland: www.destatis.de\nAllgemeines Unternehmensregister: www.unternehmensregister.de\nEurostat: http://epp.eurostat.ec.europa.eu\nEuropean Business Register: www.ebr.org\nGlobal Business Register: www.gbrdirect.eu",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#diskussionsteil",
+    "href": "04_bestandteile.html#diskussionsteil",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "4.4 Diskussionsteil",
+    "text": "4.4 Diskussionsteil\nAls wesentlicher Bestandteil einer jeden wissenschaftlichen Arbeit ist die Diskussion der gewonnen Ergebnisse anzusehen. Hier sollte ein Bezug zu den theoretischen Grundlagen und den eigenen wissenschaftlichen Erkenntnissen im Hauptteil hergestellt und mögliche Schlüsse logisch begründet werden.\n\n\n\n\n\n\nTip\n\n\n\nIm Diskussionsteil unterscheide ich zwischen unterschiedlichen Aspekten, die anhand von folgenden Fragen charakterisiert werden können:\n\ntheoretische Reflexion: Wie können die gewonnenen Ergebnisse in die bisherige Forschung eingeordnet werden? Welche neuen Erkenntnisse wurden gesammelt? Welche Erkenntnisse bestätigen/widersprechen der bisherigen Forschung?\nmethodische Reflexion: Wie bin ich in der Arbeit methodisch vorgegangen? Was hätte ich anders machen können? Welche Einschränkungen besitzt meine Untersuchung?\npraktische Reflexion: Welche praktischen Schlussfolgerungen lassen sich aus meiner Arbeit ziehen? Wie tragen die Forschungsergebnisse zur Praxis- bzw. Professionalitätsentwicklung bei?",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#fazit-und-ausblick",
+    "href": "04_bestandteile.html#fazit-und-ausblick",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "4.5 Fazit und Ausblick",
+    "text": "4.5 Fazit und Ausblick\nIm Schlussabschnitt der wissenschaftlichen Arbeit sind die aus der Behandlung der Fragestellung resultierenden Ergebnisse zu präsentieren. Der Schlussabschnitt dient damit der Abrundung bzw. Gestaltschließung der wissenschaftlichen Arbeit. Im Schlussteil ist darauf einzugehen:\n\neine Zusammenfassung der wichtigsten Ergebnisse,\neine kritische Würdigung der eigenen Arbeit und\nein Ausblick mit Hinweisen auf offene Forschungsfragen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#anhang",
+    "href": "04_bestandteile.html#anhang",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "4.6 Anhang",
+    "text": "4.6 Anhang\nIm Allgemeinen ist bei Seminar-, Bachelor- und Masterarbeiten ein Anhang nicht notwendig. Abbildungen und Tabellen sollten nicht im Anhang erscheinen, sondern dort in den Text einbettet werden, wo man sich auf dieses Material explizit bezieht.\n\n\n\n\n\n\nImportant\n\n\n\nAls Ausnahmen von dieser Grundregel kommen allerdings in Betracht:\n\nDie Bezugnahme im Text bedarf zur Absicherung bzw. Dokumentation umfangreicher Informationen (z. B. Wiedergabe eines längeren Gesetzestextes, mehrseitige Tabellen).\nDie Bezugnahme auf für die Themenstellung relevantes Material im Text vollzieht sich an mehreren, seitenmäßig auseinander liegenden Stellen in der Arbeit.\nEs sind relativ lange Erklärungen und Darstellungen zur Anlage und/oder Auswertung einer empirischen Erhebung darzustellen (z. B. Dokumentation des Erhebungsinstrumentariums, Häufigkeitsauszählungen standardisierter Fragen oder Transkripte von Interviews).\n\n\n\nZusammenfassend: Ein Anhangsverzeichnis ist bei mehreren unterschiedlichen Anhängen erforderlich, wie z. B. bei großen Tabellen, ausführlichen Berechnungen oder Interviewtranskripten.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "04_bestandteile.html#literaturverzeichnis",
+    "href": "04_bestandteile.html#literaturverzeichnis",
+    "title": "4  Bestandteile der Arbeit",
+    "section": "4.7 Literaturverzeichnis",
+    "text": "4.7 Literaturverzeichnis\nIm Literaturverzeichnis sind sämtliche Quellen anzugeben, die im Original bei der Erstellung der Arbeit zugrunde gelegen haben und in dieser verwendet und zitiert werden. Die Quellen sind in alphabetischer Reihenfolge nach Verfasser:innen zu ordnen. Liegen mehrere Veröffentlichungen von Verfasser:innen vor, so sind diese außerdem in der Reihenfolge ihres Erscheinungsjahres zu ordnen. Stammen von einem Verfasser mindestens zwei Quellen aus einem Erscheinungsjahr, so sind diese nach ihrem Titel alphabetisch zu ordnen und folgendermaßen zu differenzieren (z.B. Meffert, 1994a, 1994b).\n\n\n\n\n\n\nImportant\n\n\n\nZu den Regeln der Zitation und Quellenarbeit gibt es eine separate Darstellung.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bestandteile der Arbeit</span>"
+    ]
+  },
+  {
+    "objectID": "05_layout.html",
+    "href": "05_layout.html",
+    "title": "5  Seitengestaltung und Layout",
+    "section": "",
+    "text": "Hier geht es um die Gestaltung der wissenschaftlichen Arbeit.\nFür für die Gestaltung der wissenschaftlichen Arbeit sind folgende formalen Vorgaben zu beachten:\n\nPapierformatSeitenränderSchriftart und SchriftgrößeZeilenabständeSatzspiegel\n\n\nFür gedruckte wie für elektronisch eingereichte Arbeiten ist das Format DIN A4 zu verwenden. Bei gedruckten Arbeiten sind nur einseitig zu beschreiben.\n\n\nDer linke Seitenrand soll 2,5 cm und der rechte Seiterand 3 cm betragen. Der obere Seitenrand soll 1,5 – 2 cm und der untere Seitenrand mindestens 1,3 cm betragen.\nBei gedruckten Arbeiten sollte beachtet werden: je dicker die Arbeit, desto mehr Seitenrand nötig. (Hinweis: Der Seitenumfang muss dann mit dem/der Prüfenden erneut abgesprochen werden.)\n\n\nDie sollten über die Arbeit hinweg einheitlich verwendet werden. Zu empfehlen sind z. B. Times New Roman 12 pt, Arial 11 pt und Calibri 11 pt für den Fließtext sowie 10 pt in den Fußnoten. Überschriften sollten im Regelfall die gleiche Schriftgröße haben wie der Fließtext (aber max. 16 pt). Sie sollen fett gesetzt, nummeriert und nicht unterstrichen werden.\n\n\nDer Fließtext und die Gliederung sind mit 1,5-zeiligem Abstand zu verfassen. Abbildungs-, Tabellen- und Abkürzungs- und Literaturverzeichnis und Fußnoten sollten einen 1,0-zeiligen Abstand aufweisen. Überschriften sind im Text durch größere Abstände herauszustellen und durch Fettdruck hervorzuheben.\nVor und nach jeder Überschrift ist ein Abstand in der Schriftgröße der Überschrift zu wählen. Absätze sind mit einer Leerzeile in der gleichen Schriftgröße zu trennen.\n\n\nEin Absatz sollte jeweils inhaltlich zusammenhängende Gedanken umfassen und niemals aus nur einem Satz bestehen.\nIm Textteil sollte immer der Blocksatz genutzt werden. Ausnahmen gelten für Tabellen und Bezeichnungen. In der Textverarbeitung kann die automatische Silbentrennung aktiviert werden.\nBei der Gestaltung des Seitenlayouts ist darauf zu achten, dass Überschriften nicht auf der letzten Zeile einer Seite erscheinen. Des Weiteren beginnen die Hauptkapitel (Kapitel 1, 2 …) generell auf einer neuen Seite.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Seitengestaltung und Layout</span>"
+    ]
+  },
+  {
+    "objectID": "06_form.html",
+    "href": "06_form.html",
+    "title": "6  Umfang, Form und Abgabe",
+    "section": "",
+    "text": "6.1 Seminararbeit\nEine Seminararbeit soll einen Umfang von 10 bis max. 15 Textseiten haben (ohne Titelblatt, Inhalts-, Abbildungs- bzw. Literaturverzeichnis und ggf. Anhang). Tabellen und Abbildungen sind in den Text zu integrieren und zählen mit in die Seitenzählung. Die fertiggestellte Seminararbeit ist in digitalisierter Form per Upload auf Moodle oder per E-Mail zum vereinbarten Termin abzugeben.\nMit der Annahme eines Seminararbeitsthemas beginnt die Bearbeitungszeit. Tritt der:die Studierende vom Thema zurück, so ist dies dem:der Betreuer:in der Seminararbeit sofort und unter der Nennung von Gründen mitzuteilen. Der Abgabetermin ist unbedingt einzuhalten. Geschieht dies nicht, so wird die Arbeit mit nicht bestanden (5,0) bewertet. Sollte die Bearbeitung in der vorgegebenen Zeit aus triftigen und stichhaltigen Gründen in Ausnahmefällen nicht möglich sein, so ist beim Prüfungsamt unverzüglich eine Verlängerung vor Ablauf der Abgabefrist zu beantragen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Umfang, Form und Abgabe</span>"
+    ]
+  },
+  {
+    "objectID": "06_form.html#bachelorarbeit",
+    "href": "06_form.html#bachelorarbeit",
+    "title": "6  Umfang, Form und Abgabe",
+    "section": "6.2 Bachelorarbeit",
+    "text": "6.2 Bachelorarbeit\nDie Bachelorarbeit ist innerhalb des letzten Semesters fertig zu stellen. Sie sollte einen Umfang von mindestens 40 bis max. 60 Textseiten haben (ohne Titelblatt, Inhalts-, Abbildungs- bzw. Literaturverzeichnis und ggf. Anhang). Tabellen und Abbildungen sind in den Text zu integrieren und zählen mit in die Seitenzählung. In der Prüfungsordnung des Studiengangs Sozialmanagement (B.A.) an der Hochschule Nordhausen sind folgende Formalia festgelegt:\n\nArbeitsformen: Einzel-/Gruppenarbeit ist möglich. Bei Gruppenarbeiten ist auf eine eindeutige Zuordnung der Anteile der Autor:innen durch z.B. Angabe von Abschnitten, Seitenzahlen o.a. objektiven Kriterien zu achten.\nSprache: Die Bachelorarbeit kann in Deutsch oder Englisch verfasst werden.\nEin Abstract ist in der jeweils anderen Sprache am Anfang der Arbeit zu verfassen.\nEs müssen die Regeln guter wissenschaftlicher Praxis beachtet werden.\nTitel der Bachelorarbeit kann in begründeten Fällen einmal und nur innerhalb von vier Wochen nach Themenausgabe durch Prüfungsausschuss zurückgegeben werden (gilt nicht für Zweitversuch) (§ 11 Abs. 5 PO)\nPrüfungsanmeldung ist jederzeit möglich. Die Bearbeitungszeit beträgt drei Monate (darf aber vier Wochen nicht unterschreiten). Eine Verlängerung ist bei nicht zu vertretenden Gründen max. vier Wochen möglich (§ 11 Abs. 6 PO).\nAbgabe: Bachelorarbeiten sind in gebundener Form und in dreifacher Ausfertigung beim Prüfungsamt abzugeben. Zusätzlich ist die Arbeit in digitalisierter Form auf einem elektronischen Datenträger in einem lesbaren und passwortfreien Dateiformat (z.B. docx, pdf, txt) einzureichen (§ 11 Abs. 7 PO).",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Umfang, Form und Abgabe</span>"
+    ]
+  },
+  {
+    "objectID": "07_abkürzungen.html",
+    "href": "07_abkürzungen.html",
+    "title": "7  Abkürzungen",
+    "section": "",
+    "text": "Häufig verwendete Begriffe dürfen auch abgekürzt werden. Wie das geht, wird hier erklärt.\nDie (sparsame) Verwendung von Abkürzungen erleichter meist den Lesefluss, sofern es sich um generell geläufige Abkürzungen handelt, die auch im Duden aufgeführt werden, wie beispielsweise “usw.” oder “z. B.” Solche geläufigen Abkürzungen sind nicht im Abkürzungsverzeichnis aufzuführen.\nDarüber hinaus können die in der sozial- bzw. wirtschaftswissenschaftlichen Fachliteratur gebräuchlichen Abkürzungen (z. B. für wissenschaftliche Zeitschriften) verwendet werden. Diese sind allerdings im Abkürzungsverzeichnis der Arbeit aufzuführen. Bei der ersten Verwendung des Begriffs ist dieser vollständig im Fließtext auszuschreiben und dahinter mit der entsprechenden Abkürzung in Klammern zu versehen. Ab dann kann mit der Abkürzung im Text gearbeitet werden.\nNicht erlaubt sind Abkürzungen aus Bequemlichkeit (z. B. Kom.pol. oder Mar- ket.instr.).",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Abkürzungen</span>"
+    ]
+  },
+  {
+    "objectID": "08_tabellen_abbildungen.html",
+    "href": "08_tabellen_abbildungen.html",
+    "title": "8  Tabellen und Abbildungen",
+    "section": "",
+    "text": "8.1 Qualität und Auflösung\nBei Abbildungen und Tabellen sollte darauf geachtet werden, dass sie eine gute graphische Qualität aufweisen (z. B. hinsichtlich der Abbildungs- und Textgröße und der farblichen Unterscheidbarkeit einzelner hervorgehobener Bereiche). Auf das Einfügen von eingescannten Vorlagen ist nach Möglichkeit zu verzichten. Im Druckbereich wird meist eine Auflösung für Abbildung mit 600 dpi empfohlen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tabellen und Abbildungen</span>"
+    ]
+  },
+  {
+    "objectID": "08_tabellen_abbildungen.html#nummerierung-und-bezeichnung",
+    "href": "08_tabellen_abbildungen.html#nummerierung-und-bezeichnung",
+    "title": "8  Tabellen und Abbildungen",
+    "section": "8.2 Nummerierung und Bezeichnung",
+    "text": "8.2 Nummerierung und Bezeichnung\nTabellen und Abbildungen sind durchgängig zu nummerieren, mit einem prägnanten Titel zu benennen und einer Quellenangabe zu verse- hen. Titel und Quellenangabe stehen in einem kleineren Schriftgrad (10 pt) linksbündig unter der Abbildung bzw. Tabelle. Die Abbildungs- und Tabellenverzeichnisse im vorderen Teil der Arbeit geben den Titel und die entsprechende Seitenangabe wieder. Tabellen und Abbildungen zählen mit in die Seitenzahlen des Textteils rein.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tabellen und Abbildungen</span>"
+    ]
+  },
+  {
+    "objectID": "09_stil.html",
+    "href": "09_stil.html",
+    "title": "9  Stil und Sprache",
+    "section": "",
+    "text": "9.1 Schreibstil\nDie Gedanken und Gedankenfolgen müssen in eindeutig verständlichen, prägnanten und inhaltlich aussagefähigen Worten, Sätzen und Satzfolgen bzw. Absätzen dargestellt werden. Dabei sollte die jeweilige wissenschaftliche Fachsprache verwendet werden. Umgangssprachliche Wörter und Wendungen sind zu vermeiden (es sei denn, dass dies Aussagen von z. B. Interviewpartner:innen sind).",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stil und Sprache</span>"
+    ]
+  },
+  {
+    "objectID": "09_stil.html#schreibstil",
+    "href": "09_stil.html#schreibstil",
+    "title": "9  Stil und Sprache",
+    "section": "",
+    "text": "Tip\n\n\n\nVermeiden Sie folgende Wörter und Redewendungen:\n\nFüllwörter: wie “ja” nun ersichtlich wurde,\nRückversicherungswörter: “irgendwie”, “gewissermaßen”,\nübertreibende Ausdrucksweisen: “unglaublich” hohe Kosten, “himmelschreiend” schlechte Verhältnisse oder\nArgumentationsersatzwörter: “natürlich”, “selbstverständlich”.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stil und Sprache</span>"
+    ]
+  },
+  {
+    "objectID": "09_stil.html#inklusive-sprache",
+    "href": "09_stil.html#inklusive-sprache",
+    "title": "9  Stil und Sprache",
+    "section": "9.2 Inklusive Sprache",
+    "text": "9.2 Inklusive Sprache\nSprache entwickelt sich unter veränderten sozialen und politischen Bedingungen, worauf die akademische Welt reagieren muss. Hochschulen streben an, durch eine inklusive Sprachverwendung einen gesellschaftlichen Beitrag zur Förderung der Gleichstellung aller Geschlechter, Geschlechtsidentitäten und auch von Diversität allgemein zu leisten. Unsere Vorstellung von einer offenen, diversitätsfördernden und möglichst diskriminierungsarmen Hochschule soll in unserem Sprachgebrauch auf allen Ebenen reflektiert werden.\nEiner von vielen Bausteinen, wie wir die Vielfalt in Lehre, Forschung, Weiterbildung und der Hochschulentwicklung gestalten können, ist die inklusive Sprache. Natürlich werden unter dem Begriff der inklusiven Sprache auch andere Dimensionen von Vielfalt betrachtet, die nicht nur die Geschlechteridentität berühren. So gehören etwa geistige und körperliche Beeinträchtigungen, Alter oder Herkunft dazu.\nSprache hat die Fähigkeit, Stereotypen in solchen Gruppen zu verstärken, aber sie kann auch durch einen sensibilisierten sprachlichen Ansatz verringert werden. Eine inklusive Sprache beinhaltet die Anerkennung und das Ansprechen von allen Personen mithilfe unterschiedlicher Sprachtechniken. Zur Erreichung dieses Ziels kann u. a. auf die Neutralisierung personenbezogener Begriffe oder explitzite Sichtbarmachung geschlechterspezifischer Begrifflichkeiten zurückgegriffen werden.\n\n\n\n\n\n\nTip\n\n\n\nNeutralisierende Formulierungen können unter Nutzung von substantivierten Partizipien und Adjektiven oder durch Umschreibungen oder Passivformulierungen formuliert werden, z. B.:\n\nAus Studenten wird Studierende.\nAus Mitarbeiter wird Beschäftigte.\nAus Vertreter wird vertreten durch.\n\n\n\nEs gibt aber auch Wörter oder Sätze, in denen die Neutralisierungsmethode häufig nicht angemessen ist. Dann kann auf die Möglichkeiten der Geschlechtersichtbarmachung zurückgegriffen werden.\n\n\n\n\n\n\nTip\n\n\n\nBeispiele für die Sichtbarmachung der grammatischen Genusformen sind:\n\nAus Kunden wird Kundinnen und Kunden.\nAus Sportlern wird Sportlerinnen und Sportler.\n\nEs gibt aber auch Begriffe, die nicht sinnvoll inklusiv formuliert werden können bzw. müssen, wie z. B.\n\nfeststehende, unveränderbare Begrifflichkeiten wie “Arbeitnehmerüberlassungsgesetz”,\nFachtermini oder Begriffe aus etablierten Ansätzen, Konzepten, Methoden,\nFremdwörter ohne passendes deutsches Äquivalent wie “Stakeholder”,\njuristische Fachbegriffe wie “Stromanbieter” oder “Gesellschafter”.\n\n\n\nDie Verwendung einer inklusiven Sprache soll den Studierenden beim Lesen und Verfassen von Texten keine Probleme bereiten. Es sollte auch darauf geachtet werden, dass der Lesefluss möglichst wenig beeinträchtigt wird und die Sätze verständlich gehalten werden.\n\n\n\n\n\n\nImportant\n\n\n\nDas “inklusive Komma” als Alternativen für Gender-Gap und Gendersternchen\nEmpfehlenswert ist die Verwendung des sog. “inklusive Kommas”, wenn eine Formulierung mit”und,” die eine Nennung von nur zwei Geschlechtern verbindet, als nicht ausreichend empfunden wird. Die Kommalösung ermöglicht es zu veranschaulichen, dass eine nicht-abschließende Aufzählung von Geschlechtern gibt, wie ein schlichtes “und” vermuten lässt, sondern stattdessen Platz für weitere Geschlechtsidentitäten gelassen wird. Der entscheidende Vorteil dieser Lösung im Vergleich zu anderen inklusiven Schreibweisen (z. B. Gendersternchen, Gender-Gap) besteht darin, dass die grammatische Richtigkeit beibehalten wird und eine einfache Textübertragung in Audioformate ermöglicht wird.\n\n\n\n9.2.1 Wie kann man das umsetzen?\nDas “und” wird einfach, mit der weiblichen Genusform beginnend, durch ein Komma ersetzt. Das schließt auch die Dopplung der personenbeschreibenden Adjektive, Artikel etc. mit ein.\n\n\n\n\n\n\nTip\n\n\n\nBeispiele für ein inklusives Komma:\n\naus Kunden wird Kundinnen, Kunden\naus befragte Arbeitnehmer wird befragte Arbeitnehmerinnen, befragte Arbeitnehmer\n\n\n\nDa das “inklusive Komma” in der deutschen Schriftsprache noch wenig verbreitet ist und die anderweitig übliche Setzung von “orthografischen Zeichen wie der Doppelpunkt (:) – allerdings ohne ein folgendes Leerzeichen (Bürger:innen) – oder Sonderzeichen wie Asterisk (*), Unterstrich (_) oder anderen Zeichen im Wortinnern” für eine Kennzeichnung aller Geschlechtsidentitäten” als problematisch betrachtet wird (Rat für deutsche Rechtschreibung, Beschluss vom 15.12.2023), wird eine zusätzlicher Hinweis in der wissenschaftlichen Arbeit empfohlen:\n\n\n\n\n\n\nTip\n\n\n\n“Eine gendersensible Schreibweise erfolgt in dieser Arbeit aufgrund seiner grammatikerhaltenden Eigenschaft durch das ‘inklusive Komma’. Mit dem inklusiven Komma soll verdeutlicht werden, dass neben dem männlichen und dem weiblichen Geschlecht auch alle weiteren Geschlechter und Geschlechtsidentitäten einbezogen sind. Es wird somit bewusst auf das”und” zwischen der Aufführung von weiblichen und männlichen personenbezogenen Formulierungen verzichtet. Das Komma soll für die Leserin, für den Leser sichtbar machen, dass keine abschließende Auflistung von Geschlechtern und Geschlechtsidentitäten vorgenommen wird.” (Quelle: Handreichung für Autorinnen und Autoren der Hochschule Euro-FH, Baumeister & Parodat, o.J.)\n\n\n\n\n9.2.2 Weiterführende Lektüre und Links\n\nUniversität Leipzig (o.J.). Gendern. [Schreibportal]. https://home.uni-leipzig.de/schreibportal/gendern/",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Stil und Sprache</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html",
+    "href": "10_zitation_apa.html",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "",
+    "text": "10.1 Allgemeiner Hinweis\nKorrektes Zitieren dient als Beleg wissenschaftlichen Arbeitens. Es spiegelt sowohl die wissenschaftliche Integrität der Autor:innen bei der Verwendung fremdem geistigen Eigentums wider als auch die Fähigkeit, seine Argumentation mit entsprechender wissenschaftlicher Evidenz (entsprechende Quellen) untermauern zu können. Jedes Zitat muss nachprüfbar sein. Dies erfordert zum einen, dass jede Quelle immer am Ende eines jeden Satzes der direkt oder indirekt zitiert wird, und zum anderen, dass immer eine Seitenangabe gemacht wird, die auf die genaue Stelle in der Quelle verweist. Zitate bzw. Quellenangaben ohne Seitenangabe sind ebenfalls nicht nachprüfbar. Die Darstellung von Theorien und der Bezug auf nur eine Quelle sollte sparsam eingesetzt werden, da eine ausgewogene und kritische Betrachtung mit dem Zitieren nur einer Quelle eingeschränkt wird. Des Weiteren muss spätestens hinter jedem Absatz eine Quelle stehen, da sonst die geschriebenen Textpassagen als eigene Gedanken deklariert werden.\nBei der Festlegung auf eine Zitiertechnik ist in jedem Fall auf die Konsistenz der Zitierweise in der Arbeit zu achten. Im Folgenden wird die Zitiertechnik nach der American Psychological Association (APA) 7th Edition vorgestellt und verwendet, die u. a. in den Sozial-, Gesellschafts-, Bildungs-, Pflege- und Gesundheits- sowie Politikwissenschaften und Gesellschaftswissenschaften weit verbreitet ist. Im folgenden werden häufige (bei weitem nicht abschließende) Zitationsbeispiele dargestellt.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#direkte-zitate",
+    "href": "10_zitation_apa.html#direkte-zitate",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.2 Direkte Zitate",
+    "text": "10.2 Direkte Zitate\nWörtliche (direkte) Zitate werden in Anführungszeichen gesetzt. Sie erfordern grundsätzlich buchstäbliche Genauigkeit.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für direktes Zitat:\n“Sozialwirtschaft wird auch als …” (Grunwald et al., 2024, S. 23) definiert.\noder\nSozialwirtschaft lässt sich nach Grunwald et al. (2024, S. 23) wie folgt definieren: “…”\n\n\nÄnderungen gegenüber dem Quellentext sind stets kenntlich zu machen:\n\nEigene Ergänzungen werden in Klammern gesetzt und mit einem Hinweis “Anm. d. Verf.” verdeutlicht.\nHervorhebungen im zitierten Text können übernommen werden. Eigene Hervorhebungen (z. B. Fettdruck, Kursivsetzung) sind mit dem Zusatz “Herv. d. Verf.” zu kennzeichnen: “(Grunwald et al., 2024, S. 23, Herv. d. Verf.)”.\nDie Auslassung eines Wortes (mehrerer Worte) wird durch einen Punkt (drei Punkte) gekennzeichnet. Dies gilt auch dann, wenn ein Zitat mitten in einem Satz beginnt oder aufhört.\n\nWörtliche Zitate sollten sehr sparsam verwendet werden. Die zitierten Passagen sollten kurz sein und eigene Formulierungen nicht ersetzen. Es ist zu beachten, dass nur wirklich zitat-würdige Passagen (z. B. Begriffsdefinitionen) wörtlich übernommen werden und keine langen Ausführungen. Längere Zitate sind nur dann angebracht, wenn die Demonstration der im Zitat gewählten Formulierung für den Argumentationsgang der Arbeit von Bedeutung ist. In diesem Fall ist es zu empfehlen, längere Zitate im Text als Blockzitat einzurücken und in einzeiligem Abstand zu schreiben. Als lange Zitate gelten solche, die 40 Wörter oder mehr umfassen. Hierfür gibt es folgende Empfehlung:\n\nDer gesamte Text des Zitats wird 5 bis 7 Leerzeichen (etwa 1,25 cm) von der linken Seite eingerückt.\nDas Zitat wird ohne Anführungszeichen geschrieben.\nAm Ende des Zitats folgt die Quellenangabe in Klammern, nach dem letzten Satzzeichen.\nZitate innerhalb eines Zitats werden am Anfang und am Ende mit einem Apostroph (‘…’) versehen. Zitate aus englischen Quellen müssen nicht übersetzt werden. Wörtliche Zitate aus anderen Sprachen sollten in einer Fußnote übersetzt werden.\n\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für ein langes Zitat:\nGrunwald et al. (2024) beschreibt die Sozialwirtschaft folgendermaßen:\n“Sozialwirtschaft wird für dieses Handbuch skizziert als ein Bereich des Wirtschaftens, der sich im Kern mit solchen Gütern befasst, die als ‚sozial‘ definiert werden. Der zentrale Gegenstand der Sozial wirtschaftslehre umfasst zunächst Rahmenbedingungen für die Ermöglichung sozialer Handlungen, Leistungen, Maßnahmen, Dienste, Unternehmungen bis hin zu Kooperationsformen, Strukturen und Regulationen, die der Bereitstellung sozialer Dienstleistungen dienen. Sozialwirtschaft fokussiert dabei den Aspekt des Wirtschaftens, in dem die eben genannten Handlungen und Strukturen als ein Teil und ein Beitrag gesellschaftlicher Wertschöpfung verstanden werden. Mit eingeschlossen sind Fragen der Leitung, Steuerung und Gestaltung – kurz: des Managements – von sozialwirtschaftlichen Organisationen, die überwiegend unter dem Begriff ‚Sozialmanagement‘ diskutiert werden” (Grunwald et al., 2024, S. 23).\nDas Zitat beginnt eingerückt und die Quellenangabe erfolgt wie üblich nach APA am Ende des Zitats.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#sinngemäße-bzw.-indirekte-zitate",
+    "href": "10_zitation_apa.html#sinngemäße-bzw.-indirekte-zitate",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.3 Sinngemäße bzw. indirekte Zitate",
+    "text": "10.3 Sinngemäße bzw. indirekte Zitate\nEin sinngemäßes (indirektes) Zitat liegt bei einer nicht wörtlichen Übernahme von Gedanken vor. Der Umfang der sinngemäßen Übernahme muss eindeutig erkennbar sein. Manchmal kann es daher erforderlich sein, einer Textpassage einen einleitenden Satz voranzustellen.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für sinngemäßes Zitat:\nSozialwirtschaft kann nach Grunwald et al. (2024, S. 32–33) von anderen Fachdisziplinen in Abhängigkeit vom jeweiligen theoretischen Diskurs abgegrenzt werden.\noder\nSozialwirtschaft unterscheidet sich von anderen Fachdisziplinen in Abhängigkeit vom jeweiligen theoretischen Diskurs (Grunwald et al., 2024, S. 32–33).\n\n\nEs ist jedoch nicht zweckmäßig, längere Ausführungen pauschal mit mehreren Quellen zu belegen, wie z. B. mehrere Quellenangaben am Ende eines Absatzes, obschon die einzelnen Sätze direkt den zitierten Einzelquellen zugeordnet werden können.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#mehrere-verfasserinnen-verfasser",
+    "href": "10_zitation_apa.html#mehrere-verfasserinnen-verfasser",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.4 Mehrere Verfasserinnen, Verfasser",
+    "text": "10.4 Mehrere Verfasserinnen, Verfasser\nBei mehr als zwei Verfasser:innen kann auf die explizite Nennung aller Autoren verzichtet werden. Dabei wird der Name der erstgenannten Verfasser:in mit dem Zusatz “et al.” angegeben. Achtung: Im Literaturverzeichnis sind stets die Namen aller Verfasser:innen zu nennen.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für mehrere Verfasser:innen:\n… (Grunwald et al., 2024).\n\n\nEs können zu einer Literaturpassage auch mehrere Literaturverweise erfolgen.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für mehrere Verfasser:innen an einer Textstelle:\n… (Grunwald et al., 2024, S. 23; Brinkmann, 2010).\n\n\nSoll gleichzeitig auf mehrere Publikationen desselben Autors hingewiesen werden, erfolgt ebenfalls eine Abtrennung durch Komma. Tritt hierbei der Fall ein, dass mehrere Belegstellen eines Autors dasselbe Veröffentlichungsjahr haben, so werden die verschiedenen Werke durch hinzufügen von Kleinbuchstaben in alphabetischer Titelreihenfolge unterschieden. Sollte noch Verfasser:innen einer anderen Publikation erwähnt werden, sind diese mit Semikolon abzutrennen.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für mehrere Publikationen derselben Verfasser:innen:\n… (Wendt, 2013a, S. 965, 2013b, S. 977; Brinkmann, 2010).\n\n\nBezieht sich ein direktes oder indirektes Zitat auf eine Textpassage, die über 2 Seiten geht, so ist immer die Spanne an Seiten anzugeben, z. B. “S. 23–24”. Es werden immer die konkreten Seiten angegeben. Abkürzungen wie “f.” oder “ff.” sind nach APA 7th Edition nicht (mehr) zulässig. Bei automatischen Zeilenumbrüchen sollte darauf geachtet werden, dass Seitenangaben nicht getrennt werden.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#vergleiche-zitate",
+    "href": "10_zitation_apa.html#vergleiche-zitate",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.5 Vergleiche-Zitate",
+    "text": "10.5 Vergleiche-Zitate\nVergleiche-Zitate werden hauptsächlich nur in deutschsprachigen Zitierstilen verwendet. Der APA-Zitationsstil legt mehr Wert auf direkte und indirekte Zitate. Nach APA 7th Edition wird der Ausdruck „vgl.“ verwendet, was für „vergleiche“ oder „zu Rate ziehen“ steht. Er dient dazu, auf kontrastierende oder gegensätzliche Informationen zu verweisen. Das bedeutet, dass „vgl.“ genutzt wird, wenn die Leserschaft auf eine Quelle hingewiesen werden soll, die einen anderen Ansatz folgt oder eine gegensätzliche Perspektive auf das Thema präsentiert.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für Vergleiche-Zitat:\nGrunwald et al. (2024) haben eine in ihren Handbuch eine aktuelle Übersicht zu Theoriesträngen in der Sozialwirtschaftslehre entwickelt, im Gegensatz zu klassischen Lehrbüchern (vgl. Brinkmann, 2010). Diese Übersicht baut auf früheren Untersuchungen auf (siehe z. B. Wendt, 2013b).",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#sekundäre-zitate",
+    "href": "10_zitation_apa.html#sekundäre-zitate",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.6 Sekundäre Zitate",
+    "text": "10.6 Sekundäre Zitate\nWird nicht aus der Originalquelle – die eigentlich grundsätzlich benutzt werden sollte – sondern im Falle eines schwer zugänglichen Originals aus einer Sekundärquelle zitiert, so sind beide Verfasser:innen anzugeben. Das Originalwerk wird dabei zuerst zitiert und dann folgt mit dem Verweis “zit. n.” oder “zitiert nach” die Angabe der Quelle, aus der, der Verweis auf die Originalquelle stammt.\n\n\n\n\n\n\nTip\n\n\n\nBeispiel für Sekundäres Zitat:\nIndirektes Zitat:\nIn der Sozialwirtschaft steht die individuelle Selbstversorgung im Mittelpunkt (Wendt, 2013b, S. 978, zit. n. Grunwald et al., 2024, S. 32).\nDirektes Zitat:\nDie Sozialbetriebswirtschaftslehre befasst sich mit Wirtschaftsprozessen, die “in der Selbstversorgung und Fremdversorgung von Menschen mit den ihrer Wohlfahrt dienlichen Gütern und Dienstleistungen anzutreffen sind” (Wendt, 2013b, S. 977, zit. n. Grunwald et al., 2024, S. 32).",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#formatierung-des-literaturverzeichnisses",
+    "href": "10_zitation_apa.html#formatierung-des-literaturverzeichnisses",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.7 Formatierung des Literaturverzeichnisses",
+    "text": "10.7 Formatierung des Literaturverzeichnisses\nDie für das Literaturverzeichnis erforderlichen Angaben sind nachstehend aufgeführt. Achten Sie stets auf eine einheitliche Handhabung innerhalb der gesamten Arbeit zu achten. Im Folgenden werden Beispiele für die am häufigsten verwendeten Publikationsformen dargestellt. Konsultieren Sie außerdem die ausführliche Hinweise zur Erstellung eines Literaturverzeichnisses entsprechend der Zitierkonvention APA 7th Edition.\n\n10.7.1 Monographien\n\nName, Vorname (Initialen bei Vornamen) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und “&”-Zeichen angeben)\nErscheinungsjahr in Klammern\nTitel des Buches und Untertitel\nAuflage (1. Aufl. wird nicht angegeben, erst ab 2. Aufl.)\nBand (sofern vorhanden)\nVerlag\n(wenn vorhanden) der Digital Object Identifier (DOI)\n\n\n\n\n\n\n\nTip\n\n\n\nBeispiele für eine Verfasserin, ein Verfasser:\nBrinkmann, V. (2010). Sozialwirtschaft: Grundlagen—Modelle—Finanzierung. Gabler Verlag, Springer Fachmedien. https://doi.org/10.1007/978-3-8349-8935-2\nBeispiele für mehrere Verfasserinnen, Verfasser:\nGrunwald, K., Langer, A., & Sagmeister, M. (Hrsg.). (2024). Sozialwirtschaft – eine Einführung in das Handbuch (2. Aufl.). Nomos Verlagsgesellschaft mbH & Co. KG. https://doi.org/10.5771/9783748932949\n\n\n\n\n10.7.2 Beiträge aus Sammelwerken\n\nName, Vorname (Initialen bei Vornamen) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und “&”-Zeichen angeben)\nErscheinungsjahr in Klammern\nTitel des Beitrages\nIn Initial vom Vorname Name der Herausgeberinnen, Herausgeber sowie Angabe der Abkürzung “(Hrsg.)” (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und “&”-Zeichen angeben)\nTitel des Sammelwerkes\nBand (sofern vorhanden)\nAuflage (1. Aufl. wird nicht angegeben, erst ab 2. Aufl.)\nSeitenzahlen (S. Beginn–Ende)\nVerlag\n(wenn vorhanden) der Digital Object Identifier (DOI)\n\n\n\n\n\n\n\nTip\n\n\n\nGrunwald, K., Langer, A., & Sagmeister, M. (2024). Sozialwirtschaft – eine Einführung in das Handbuch. In dies. (Hrsg.), Sozialwirtschaft: Handbuch für Wissenschaft, Studium und Praxis (2. Aufl., S. 23–43). Nomos Verlagsgesellschaft mbH & Co. KG. https://doi.org/10.5771/9783748932949\n\n\n\n\n10.7.3 Aufsätze aus Fachzeitschriften\n\nName, Vorname (Initialen des Vornamens) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und “&”-Zeichen angeben)\nErscheinungsjahr in Klammern\nTitel des Aufsatzes\nTitel der Zeitschrift\nJahrgang, Nummer des Heftes (sofern vorhanden oder Ersatzangaben, z. B. Monat)\nSeitenzahlen\n(wenn vorhanden) der Digital Object Identifier (DOI)\n\n\n\n\n\n\n\nTip\n\n\n\nTight, M. (2016). Phenomenography: The development and application of an innovative research design in higher education research. International Journal of Social Research Methodology, 19(3), 319–338. https://doi.org/10.1080/13645579.2015.1010284\n\n\n\n\n10.7.4 Internetquellen\n\nName, Vorname (Initialen des Vornamens) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und “&”-Zeichen angeben)\nErscheinungsjahr sowie Tag und Monat in Klammern: “(Jahr, Tag. Monat)”\nTitel des Beitrags\n(wenn vorhanden) Angabe des Blogs bzw. der Zeitung o. ä.\nEs muss stets eine URL angegeben werden. Das Zugriffsdatum ist ab APA 7th Edition nicht mehr notwendig. Das Abrufdatum zusammen mit dem Zusatz “Zugriff am” ist nur wenn notwendig anzugeben (z. B. bei Wikipedia-Artikeln, sich regelmäßig ändern und eine Versionierung existiert).\n\n\n\n\n\n\n\nTip\n\n\n\nFernUniversität Hagen (Hrsg.). (2021). Lernen neu denken: Das Hagener Manifest zu New Learning: 12 Thesen. Hagener Manifest. https://newlearning.fernuni-hagen.de/das-hagener-manifest/\nJörissen, B. (2017). Subjektivation und „ästhetische Freiheit“ in der post-digitalen Kultur. KULTURELLE BILDUNG ONLINE. https://doi.org/10.25529/92552.421\nKrohn, P. (2022, 25. Dezember). Mensch und Maschine: Wenn uns erst der Roboter pflegt. FAZ.NET. https://www.faz.net/aktuell/wirtschaft/pflege-wenn-uns-erst-der-roboter-pflegt-18537149.html\nLaterale Führung. (2022, 4. November). In Wikipedia. https://de.wikipedia.org/wiki/Laterale_F%C3%BChrung\nStudienbereich Sozialmanagement (Hrsg.). (2024, 13. September). Leitfaden wissenschaftliches Schreiben. https://hs-nordhausen.gitbook.io/leitfaden\n\n\nFür den Fall, dass mehr als ein Link einer Domain zitiert wird, ist eine differenzierte Quellenangabe durch die zusätzliche Angabe von Buchstaben in alphabetischer Reihenfolge zu beachten. Es ist ratsam, die jeweils zitierten Internetseiten mit einem geeigneten Tool abzuspeichern (Browser &gt; Datei &gt; Speichern unter) oder durch Erstellung einer PDF (dabei wird stets Zugriffsdatum und Quelle abspeichert).\nWenn für die Erstellung des Literaturverzeichnisses bestimmte Angaben fehlen, z. B. Verfasserin, Verfasser, Erscheinungsort oder Erscheinungsjahr, dann sind diese in der Quellenangabe ausdrücklich durch folgende Abkürzungen zu vermerken:\n\no. V. (für: ohne Verfasser)\no. O. (für: ohne Erscheinungsort)\no. J. (für: ohne Jahr; bei Büchern, Artikeln aus Sammelwerken und Arbeitspapieren)\n\nZur Anfertigung einer wissenschaftlichen Arbeit sind in jedem Fall Monographien, Artikel in Sammelwerken und aus Zeitschriften heranzuziehen. Die Auflistung der Quellen im Literaturverzeichniss erfolgt alphabetisch und nach Jahren geordnet (ggf. gilt es bei mehreren Publikationen einer Verfasserin, eines Verfassers in gleichen Erscheinungsjahr Kleinbuchstaben nach dem Erscheinungsjahr zu sortieren, z.B. (2024a), (2024b), (2024c) usw.).",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#quellenbelege-bei-tabellen-und-abbildung",
+    "href": "10_zitation_apa.html#quellenbelege-bei-tabellen-und-abbildung",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.8 Quellenbelege bei Tabellen und Abbildung",
+    "text": "10.8 Quellenbelege bei Tabellen und Abbildung\nTabellen und Abbildungen aus anderen Publikationen sind im Anschluss an die Tabellen- bzw. Abbildungsbezeichung mit der Quelle zu versehen, wobei immer Autor:in, Jahr und Seite(n) angegeben werden. Werden ganze Darstellungen ohne Modifikationen aus anderen Quellen übernommen, verfährt man mit der Kenntlichmachung analog der o.g. Zitierweise im Text. Wird eine gegebene Darstellung verändert (durch Auslassung oder Hinzufügung von Teilen), ist der Quellenangabe z. B. “in Anlehnung an” oder “nach” voranzustellen. Stammt die Darstellung von Verfasser:innen selbst, entfällt natürlich die Quellenangabe, ggf. kann bei der Abbildungen der Vermerk “eigene Darstellung” in Klammern hinzugefügt werden.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "10_zitation_apa.html#verwendete-literatur",
+    "href": "10_zitation_apa.html#verwendete-literatur",
+    "title": "10  Zitation nach APA 7th Edition",
+    "section": "10.9 Verwendete Literatur",
+    "text": "10.9 Verwendete Literatur\n\nBrinkmann, V. (2010). Sozialwirtschaft: Grundlagen—Modelle—Finanzierung. Gabler Verlag, Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-8349-8935-2\nFernUniversität Hagen (Hrsg.). (2021). Lernen neu denken: Das Hagener Manifest zu New Learning: 12 Thesen. Hagener Manifest. https://newlearning.fernuni-hagen.de/das-hagener-manifest/\nGrunwald, K., Langer, A., & Sagmeister, M. (2024). Sozialwirtschaft – eine Einführung in das Handbuch. In dies. (Hrsg.), Sozialwirtschaft: Handbuch für Wissenschaft, Studium und Praxis (2. Aufl., S. 23–43). Nomos Verlagsgesellschaft mbH & Co. KG. https://doi.org/10.5771/9783748932949\nJörissen, B. (2017). Subjektivation und „ästhetische Freiheit“ in der post-digitalen Kultur. KULTURELLE BILDUNG ONLINE. https://doi.org/10.25529/92552.421\nKrohn, P. (2022, 25. Dezember). Mensch und Maschine: Wenn uns erst der Roboter pflegt. FAZ.NET. https://www.faz.net/aktuell/wirtschaft/pflege-wenn-uns-erst-der-roboter-pflegt-18537149.html\nLaterale Führung. (2022, 4. November). In Wikipedia. https://de.wikipedia.org/wiki/Laterale_F%C3%BChrung\nStudienbereich Sozialmanagement (Hrsg.). (2024, 13. September). Leitfaden wissenschaftliches Schreiben. https://hs-nordhausen.gitbook.io/leitfaden\nTight, M. (2016). Phenomenography: The development and application of an innovative research design in higher education research. International Journal of Social Research Methodology, 19(3), 319–338. https://doi.org/10.1080/13645579.2015.1010284\nWendt, W. R. (2013a). Sozialwirtschaft. In K. Grunwald, G. Horcher, & B. Maelicke (Hrsg.), Lexikon der Sozialwirtschaft (2. Aufl., S. 965–968). Nomos Verlagsgesellschaft mbH & Co. KG.\nWendt, W. R. (2013b). Sozialwirtschaftslehre. In K. Grunwald, G. Horcher, & B. Maelicke (Hrsg.), Lexikon der Sozialwirtschaft (2. Aufl., S. 977–979). Nomos Verlagsgesellschaft mbH & Co. KG.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Zitation nach APA 7th Edition</span>"
+    ]
+  },
+  {
+    "objectID": "11_literaturrecherche.html",
+    "href": "11_literaturrecherche.html",
+    "title": "11  Literaturrecherche und -verwaltung",
+    "section": "",
+    "text": "11.1 Anforderungen an die Literatur\nJede wissenschaftliche Arbeit baut auf vorhandenes Wissen auf. Vor diesem Hintergrund gilt, dass Literaturbezüge stets adäquat, kritisch und korrekt herzustellen und mittels Zitaten entsprechend zu dokumentieren sind. Eine adäquate Literaturauswahl lässt sich dann attestieren, wenn die Literatur – unter Berücksichtigung des jeweiligen Typs der wissenschaftlichen Arbeit (Seminar-, Bachelor-, oder Masterarbeit) – eine angemessene Qualität und Anzahl von Publikationen beinhaltet.\nWas in quantitativer Hinsicht als angemessen gilt, ist vom gewählten Thema und der dafür anberaumten Zeit abhängig. Handelt es sich um ein aktuelles und/oder sehr spezifisches Thema, so wird einschlägige Literatur in geringerem Maße vorhanden sein. Die Anzahl der verwendeten Quellen sollte mindestens der Seitenanzahl entsprechen (z. B. bei 15 Seiten Seminararbeit mind. 15 Quellen; bei 60 Seiten Bachelorarbeit: mind. 60 Quellen usw.). Verstehen Sie diese Empfehlungen als Daumenregel, die nicht für alle Themen verallgemeinert werden kann. Die angegebene Quellenanzahl ist als ein tendenzielles Minimum zu verstehen. Der Anteil der englischsprachigen Quellen sowie der Anteil ausgewiesener, wissenschaftlicher Fachjournals (z. B. aus EBSCOhost) richtet sich ebenfalls nach der Art der Arbeit (Seminar- und Bachelorarbeit: ca. 20 %; Masterarbeiten: ca. 40 %). Auch hierbei handelt es sich jedoch lediglich um grobe Richtwerte, der genaue Anteil ist vom Thema abhängig.\nEine kritische Literaturauswertung bedeutet, dass die Studierenden die Literatur nicht treuherzig und aus Bequemlichkeit einfach nur rekapitulieren, sondern sich mit ihr intensiv auseinandersetzen. Dazu gehört auch, dass die verschiedenen Literaturtitel auf Widersprüche untereinander untersucht und diese herausgearbeitet werden. Indem man als Verfasser:in hierzu Stellung bezieht, wird auch die in einem wissenschaftlichen Studium erwartete eigenständige Leistung zu erbringen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Literaturrecherche und -verwaltung</span>"
+    ]
+  },
+  {
+    "objectID": "11_literaturrecherche.html#anforderungen-an-die-literatur",
+    "href": "11_literaturrecherche.html#anforderungen-an-die-literatur",
+    "title": "11  Literaturrecherche und -verwaltung",
+    "section": "",
+    "text": "Tip\n\n\n\nQualitativ angemessene Literaturauswahl bedeutet u. a.:\n\ndie Verwendung von themenspezifischer deutsch- und/oder englischsprachiger Literatur, die den aktuellen internationalen Stand der Forschung und Praxis in jeweiligen Wissenschaftsbereich widerspiegelt;\nkeine (bzw. nur in begründeten Ausnahmefällen) Verwendung von typischer Grundlagenliteratur (“Allgemeine Einführung in die BWL”, “Gablers Wirtschaftslexikon”);\ndie Verwendung vorrangig wissenschaftlicher Quellen (und z. B. keine Boulevardblätter, betriebswirtschaftliche Ratgeberliteratur) sowie\nkeine Verwendung allgemeiner Lexika (“Meyers Konversations-Lexikon”, “Wikipedia”).\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nEine korrekte Literaturauswertung ist gekennzeichnet durch:\n\nsorgsame und gewissenhafte Einarbeitung der Literatur in den Fließtext; Verfälschungen jeglicher Art sind zu vermeiden;\nfaire Auswertung der Literatur, indem jeweils bei Zitaten darauf geachtet wird, dass die Aussage der zitierten Autor:innen korrekt und ungefiltert darstellt wird, bevor eine Kritik erfolgt; es sollte immer mit der neuesten Auflage gearbeitet werden;\nsoweit wie möglich sind Primärquellen zu verwenden.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Literaturrecherche und -verwaltung</span>"
+    ]
+  },
+  {
+    "objectID": "11_literaturrecherche.html#quellen-zur-literaturbeschaffung-auswahl",
+    "href": "11_literaturrecherche.html#quellen-zur-literaturbeschaffung-auswahl",
+    "title": "11  Literaturrecherche und -verwaltung",
+    "section": "11.2 Quellen zur Literaturbeschaffung (Auswahl)",
+    "text": "11.2 Quellen zur Literaturbeschaffung (Auswahl)\nFür die Suche nach Fachliteratur stehen verschiedene Möglichkeiten zur Verfügung. Einige wichtige Literaturquellen sind in der folgenden Tabelle aufgeführt (Auswahl).\n\n\n\nKatalog\nKurzbeschreibung\n\n\n\n\nBibliothekskataloge der Hochschulbibliothek Nordhausen\nDie Bibliothek der Hochschule Nordhausen ist die erste Anlaufstelle, um nach relevanten Büchern und Fachzeitschriften im Gesamtbestand der Bibliothek zu suchen. Leider ist bei sehr spezifischen Themenstellungen das Angebot für die Anfertigung von Seminar-, Bachelor-, Masterarbeiten oft nicht ausreichend, weswegen eine weiterführende Recherche notwendig ist.\n\n\nKVK - Karlsruher Virtueller Katalog\nDer Karlsruher Virtuelle Katalog (KVK) ist eine Meta-Suchmaschine zum Nachweis von mehreren hundert Millionen Medien in Bibliotheks- und Buchhandelskatalogen weltweit.\n\n\nGVB\nGBV ist das Web-Portal des gemeinsamen Bibliotheksverbundes (GBV) einiger Bundesländer Nord- und Ostdeutschlands. Da bei der Recherche eine große Anzahl an Bibliotheken durchsucht wird, ist eine Suche im GBV besonders erfolgversprechend. Ein weiterer Vorteil des GBV ist die Möglichkeit, gefundene Bücher oder auch Artikel aus Fachzeitschriften bequem per Online-Fernleihe zu bestellen.\n\n\nWISO - Wirtschafts- und Sozialwissenschaften\nDie WiSo-Datenbanken stellen eine ebenfalls sehr leistungsfähige Suchmaschine für sozialwissenschaftliche, wirtschaftswissenschaftliche Literatur dar. Es handelt sich vor allem um deutschsprachige Publikationen.\n\n\nGoogle Scholar\nMit Google Scholar kann eine allgemeine Suche nach wissenschaftlicher Literatur durchgeführt werden. Dazu gehören Doktorarbeiten, Bücher, Zusammenfassungen und Artikel, die aus Quellen wie akademischen Verlagen, Berufsverbänden, Magazinen für Vorabdrucke, Universitäten und anderen Bildungseinrichtungen stammen.\n\n\n\nGrundsätzlich ist es bei der Recherche von großer Bedeutung, das gesammelte Material von Beginn an so zu dokumentieren, dass es bei tatsächlicher Verwendung korrekt zitiert werden kann. Das bedeutet, dass kopierte Artikel aus Zeitschriften mit Jahrgang, evtl. Heftnummer, Seitenangaben und Artikel aus Sammelbänden mit vollständiger Quellenangabe zu versehen sind.\n\n\n\n\n\n\nImportant\n\n\n\nHinweis: Nutzen Sie auch die weiteren Hinweise und Datenbanken in den Lehrveranstaltungen wissenschaftlichen Arbeiten.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Literaturrecherche und -verwaltung</span>"
+    ]
+  },
+  {
+    "objectID": "11_literaturrecherche.html#literaturverwaltungsprogramme",
+    "href": "11_literaturrecherche.html#literaturverwaltungsprogramme",
+    "title": "11  Literaturrecherche und -verwaltung",
+    "section": "11.3 Literaturverwaltungsprogramme",
+    "text": "11.3 Literaturverwaltungsprogramme\nLiteraturverwaltungsprogramme unterstützen dabei, Quellenangaben für die wissenschaftliche Arbeit in Form einer Datenbank zu verwalten und mittels des Textverarbeitungsprogramms direkt in den Fließtext einzufügen. Die meisten Programme sind ebenso in der Lage, automatisch ein Literaturverzeichnis entsprechend der voreingestellten Zitationskonvention zu erstellen. Ohne andere wertvolle Überblicke zu aktueller Software zu reproduzieren, sei auf den Vergleich der gängigsten Literaturverwaltungsprogramme verwiesen.",
+    "crumbs": [
+      "BASICS",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Literaturrecherche und -verwaltung</span>"
+    ]
+  },
+  {
+    "objectID": "12_checkliste.html",
+    "href": "12_checkliste.html",
+    "title": "12  Checkliste",
+    "section": "",
+    "text": "Diese Checkliste erleichtert Ihnen die Qualitätsüberprüfung vor Abgabe.\nDem Urteil der Gutachter:innen über eine wissenschaftliche Arbeit sind die Studierenden nicht hilflos ausgeliefert. Bereits vor Abgabe der Arbeit ist zu prüfen, ob alle notwendigen und hinreichenden Anforderungen an das wissenschaftliche Arbeiten ausreichend erfüllt sind. Die folgende Checkliste liefert für eine Qualitätsüberprüfung vor Abgabe der Seminar-, Bachelor-, und Masterarbeit eine hilfreiche Grundlage:\n\n\n\n\n\n\nTip\n\n\n\n1. Gliederung und Inhaltsverzeichnis\n\nformale Anforderungen\nproblemzentrierter Aufbau\nStringenz\neigene Strukturierungsleistung insgesamt\n\n2. Inhalt\n\nThemenbezug\nThemenabdeckung\nEntsprechung zwischen Gliederungsüberschriften und Gliederungsinhalten\nLogik und Stringenz der Gedanken- und Argumentationsführung (Beleg- und Beweisketten)\nTheoretische und gegebenenfalls empirische Fundierung der Argumentation\nZielstrebigkeit und Ausgewogenheit der Darstellung\nBeherrschung fachlicher Begriffe Anteil eigenständiger Arbeit und Erkenntnisse\nKritikfähigkeit\nInnovativität/ Neuigkeitsgrad\nQualität und Originalität der Ergebnisse und Schlussfolgerungen\nWissenschaftlich fundierte und ausgewogene Argumentation – gegebenenfalls Ausweis von Interessenstandpunkten bei werten- den Ausführungen\nAngemessenheit und Beherrschung der Forschungsmethoden\n\n3. Sprache und formale Abfassung\n\nOrthographie und Interpunktion\nVerständlichkeit\nWissenschaftlicher Sprachstil (Wortwahl und Ausdrucksweise)\nAbsatztechnik\nAbbildungen und Tabellen\nAnhang\n\n4. Qualitative und quantitative Angemessenheit der Literaturerfassung\n5. Zitierweise",
+    "crumbs": [
+      "ADVANCED",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Checkliste</span>"
+    ]
+  },
+  {
+    "objectID": "13_künstliche_intelligenz.html",
+    "href": "13_künstliche_intelligenz.html",
+    "title": "13  Künstliche Intelligenz",
+    "section": "",
+    "text": "Hier finden Sie, was man bei der Nutzung von KI-Tools beachten sollte.\nIn folgendem Video wird die kürzlich vom Prüfungsausschuss des Studiengangs SoMa beschlossene Richtlinie zum Umgang mit generativer künstlicher Intelligenz vorgestellt. Neben allgemeinen Tipps zum erlaubten und nicht-erlaubten Einsatz von KI-basierten Systemen wird auf die neue Erklärung hingewiesen, die ab Wintersemester 2024/25 zusammen mit allen wissenschaftlichen Arbeiten abgegeben werden muss, sofern solche Hilfsmittel eingesetzt werden.\n\n\n\n\n\nVideo: Erläuterung zur Richtlinie (6:08 min)\n\n\n\n\n\n\n\nImportant\n\n\n\n\nErklärung zur Verwendung von KI-basierten System im Studiengang Sozialmanagement\nRichtlinie zum Umgang mit generativer Künstlicher Intelligenz",
+    "crumbs": [
+      "ADVANCED",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Künstliche Intelligenz</span>"
+    ]
+  },
+  {
+    "objectID": "14_faq.html",
+    "href": "14_faq.html",
+    "title": "14  Häufig gestellte Fragen",
+    "section": "",
+    "text": "14.1 Exposé\nWie erstelle ich ein Exposé?\nHilfreiche Tipps sowie Vorlagen zur Erstellung eines Exposé finden Sie unser diesem (vertrauenswürdigen) Link: Scribbr: Ein perfektes Exposé einer Bachelorarbeit schreiben + Vorlage\nDas Exposé sollte mindestens das Thema, die Fragestellung/Zielsetzung, methodische Vorgehensweise, vorläufige Gliederung und Basisliteratur beinhalten. Für ein Bachelorarbeitsexposé sind ca. 3-5 Seiten ausreichend.",
+    "crumbs": [
+      "ADVANCED",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Häufig gestellte Fragen</span>"
+    ]
+  },
+  {
+    "objectID": "14_faq.html#bachelorarbeit",
+    "href": "14_faq.html#bachelorarbeit",
+    "title": "14  Häufig gestellte Fragen",
+    "section": "14.2 Bachelorarbeit",
+    "text": "14.2 Bachelorarbeit\nMuss ich in einer empirischen Forschungsarbeit einen deskriptiven Ergebnisteil von der Diskussion abgrenzen?\nDie Forschungsarbeit bzw. empirische Bachelorarbeit müsste unbedingt in eine Ergebnisdarstellung und Diskussion unterteilt werden. So ist das auch bei der IMRaD-Struktur (vgl. vereinfacht unter https://en.wikipedia.org/wiki/IMRAD) bei wissenschaftlichen Papers Usus.\nWie schreibe ich einen Diskussionsteil?\nIm Diskussionsteil unterscheide ich zwischen unterschiedlichen Aspekten: a) theoretische Reflexion (=wo kann ich meine BA in das große Bibliotheksregal ähnlicher anderer Arbeiten einordnen), b) methodische Reflexion (wie bin ich vorgegangen, was hätte ich anders machen können, welche Einschränkungen haben meine Ergebnisse) und c) einen praktischen Diskussionsteil (=welche praktischen Schlussfolgerungen lassen sich aus meiner Arbeit herausziehen bzw. kann es zur Praxis-/Professionalitätsentwicklung beitragen).\nWie vermeide ich ein Selbstplagiat?\nInsgesamt müssten die Prüfungsleistungen für empirische Hausarbeit und Bachelorarbeit trennbar sein. Das wäre z.B. dann gegeben, wenn Sie die z.B. Ergebnisse der Umfrage, die in die empirische Hausarbeit eingehen, in der Bachelorarbeit später als Vorarbeiten (mit untergeordneter Bedeutung) zitieren (sog. Selbstzitat). Es stellt auch kein Problem dar, wenn Sie in der Bachlorarbeit auch auf die theoretische Grundlagen eingehen, die schon einmal in einer Hausarbeit dargestellt wurden. Um Dopplungen zu vermeiden, sollte man hier eine zusammengefasste Darstellung erstellen, die um weitere Aspekte und Literatur erweitert wird. Letzter Punkt ist wichtig: es darf sich nicht einfach um die gleichen Worte und Struktur handeln. Empfehlenswert ist dann eine entsprechende Abschnitts-Fußnote und die darin beschriebene Umsetzung (z.B. so: „Die im Folgenden dargestellten theoretischen Grundlagen basieren zwar auf Autor (2024, S. X-Y), wurden aber maßgeblich um neue Forschungsergebnisse und -perspektiven zum aktuellen Stand des Wissens erweitert.“; „Autor, 2024“ ist dann das Selbstzitat von dem ich vorher sprach).\nWarum ich das so ausführlich erläutere, ist die Herausforderung, ein sog. „Selbstplagiat“ (ja, sowas gibt es auch ;-) zu vermeiden. Hier ist ein nicht ganz neuer, aber immer informativer Text dazu: https://www.uni-regensburg.de/assets/universitaet/ombudspersonen/selbstplagiat-memo.pdf (ggf. auch hier mit einfacher Erklärung: https://www.scribbr.de/plagiat/selbstplagiat/)",
+    "crumbs": [
+      "ADVANCED",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Häufig gestellte Fragen</span>"
     ]
   },
   {
     "objectID": "References.html",
     "href": "References.html",
-    "title": "References",
+    "title": "Literatur",
     "section": "",
-    "text": "Banzer, R., & Kruse, O. (2011). Schreiben im bachelor-studium:\nDirektiven für didaktik und curriculumentwicklung. In B. Behrendt, H.-P.\nVoss, & J. Wildt (Eds.), Neues handbuch hochschullehre. Lehren\nund lernen effizient gestalten - g. Schlüsselqualifikationen und\nwissenschaftliches arbeiten. Wissenschaftliches schreiben. G4.8.\nRaabe.",
+    "text": "Study Guides",
     "crumbs": [
-      "References"
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "References.html#study-guides",
+    "href": "References.html#study-guides",
+    "title": "Literatur",
+    "section": "",
+    "text": "Tip\n\n\n\n\nFolz, K., & Brauner, D. J. (2016). Studi-SOS Bachelor- und Masterarbeit: Erste Hilfe fürs wissenschaftliche Arbeiten (2. Aufl.). Verlag Wissenschaft & Praxis.\nTheisen, M. R. (2021). Wissenschaftliches Arbeiten: Erfolgreich bei Bachelor- und Masterarbeit. (18. Aufl.). Vahlen.\nWeber, D. (2021). Die erfolgreiche Abschlussarbeit für Dummies (4. Aufl.). Wiley-VCH.",
+    "crumbs": [
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "References.html#verwendete-literatur",
+    "href": "References.html#verwendete-literatur",
+    "title": "Literatur",
+    "section": "Verwendete Literatur",
+    "text": "Verwendete Literatur\n\nArnold, M. (2022). Fachdidaktik des Sozialmanagements: Fundierung und Weiterentwicklung hochschuldidaktischen Handelns. In L. Kolhoff (Hrsg.), Aktuelle Diskurse in der Sozialwirtschaft IV (S. 95–121). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-38677-1_6\nBalzert, H., Schröder, M., & Schäfer, C. (2022). Wissenschaftliches Arbeiten: Ethik, Inhalt & Form wiss. Arbeiten, Handwerkszeug, Quellen, Projektmanagement, Präsentation. Prof. Balzert-Stiftung. https://dl.gi.de/items/2da8e6cd-2428-4f36-b099-44ec9c41d915/full\nBikner-Ahsbahs, A. (2019). The research pentagon: A diagram with which to think about research. In G. Kaiser & N. Presmeg (Hrsg.), Compendium for Early Career Researchers in Mathematics Education (S. 153-180). Wiesbaden: Springer. https://doi.org/10.1007/978-3-030-15636-7_7\nHow to write discussions and conclusions. PLOS. (2021, May 20). https://plos.org/resource/how-to-write-conclusions/\nPurdue University (o.J.). What is the Toulmin Method? https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.htm\nSpillner, V. (2023). Sprechstunde Bachelorarbeit und Masterarbeit. Springer.\nToulmin, S. (1958/2003). The Uses of Argument. Cambridge University Press. https://doi.org/10.1017/CBO9780511840005\nUniversität Gießen (o.J.). Freewriting. https://ilias.uni-giessen.de/goto.php?target=cat_70455&client_id=JLUG",
+    "crumbs": [
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "References.html#weiterführende-literatur",
+    "href": "References.html#weiterführende-literatur",
+    "title": "Literatur",
+    "section": "Weiterführende Literatur",
+    "text": "Weiterführende Literatur\n\nBänsch, A. (2003). Wissenschaftliches Arbeiten: Seminar- und Diplomarbeiten (8. Aufl.). Oldenbourg.\nBarthel, J. (1997). Wissenschaftliche Arbeiten schreiben in den Wirtschaftswissenschaften. Spitz.\nBünting, K.-D., Bitterlich, A., & Pospiech, U. (2008). Schreiben im Studium: Mit Erfolg, ein Leitfaden, präzise formulieren, Themen erarbeiten (6. Aufl.). Cornelsen.\nCorsten, H., & Deppe, J. (1996). Arbeitstechniken für Wirtschaftswissenschaftler. Oldenbourg.\nEbster, C., & Stalzer L. (2003). Wissenschaftliches Arbeiten für Wirtschafts- und Sozialwissenschaftler (2. Aufl.). WUV-Univ.-Verlag.\nHeister, W., & Weßler-Proßberg, D. (2007). Studieren mit Erfolg: Wissenschaftliches Arbeiten für Wirtschaftswissenschaftler. Schäffer-Poeschel 2007.\nKornmeier, M. (2008). Wissenschaftlich schreiben leicht gemacht: für Bachelor, Master und Dissertation. Haupt.\nKornmeier, M. (2007). Wissenschaftstheorie und wissenschaftliches Arbeiten. Physica-Verlag.\nKrämer, W. (1995). Wie schreibe ich eine Seminar-, Examens- und Diplomarbeit: Eine Anleitung zum wissenschaftlichen Arbeiten für Studierende aller Fächer an Universitäten, Fachhochschulen und Berufsakademien. Fischer.\nLück, W. (2003). Technik des wissenschaftlichen Arbeitens: Seminararbeit, Diplomarbeit, Dissertation. (9. Aufl.). Oldenbourg.\nTheisen, M. R. (2002). Wissenschaftliches Arbeiten: Technik, Methodik, Form (11. Aufl.). Vahlen.",
+    "crumbs": [
+      "Literatur"
     ]
   }
 ]

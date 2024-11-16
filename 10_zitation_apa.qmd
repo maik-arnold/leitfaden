@@ -1,0 +1,259 @@
+# Zitation nach APA 7th Edition {#sec-B-zitation-apa}
+
+Hier wird auf die formalen Aspekte der wissenschaftlichen Belegführung eingegangen.
+
+## Allgemeiner Hinweis
+
+Korrektes Zitieren dient als Beleg wissenschaftlichen Arbeitens. Es spiegelt sowohl die **wissenschaftliche Integrität** der Autor:innen bei der Verwendung fremdem geistigen Eigentums wider als auch die Fähigkeit, seine Argumentation mit entsprechender **wissenschaftlicher Evidenz** (entsprechende Quellen) untermauern zu können. Jedes Zitat muss nachprüfbar sein. Dies erfordert zum einen, dass jede Quelle immer am Ende eines jeden Satzes der direkt oder indirekt zitiert wird, und zum anderen, dass immer eine Seitenangabe gemacht wird, die auf die genaue Stelle in der Quelle verweist. Zitate bzw. Quellenangaben ohne Seitenangabe sind ebenfalls nicht nachprüfbar. Die Darstellung von Theorien und der Bezug auf nur eine Quelle sollte sparsam eingesetzt werden, da eine ausgewogene und kritische Betrachtung mit dem Zitieren nur einer Quelle eingeschränkt wird. Des Weiteren muss spätestens hinter jedem Absatz eine Quelle stehen, da sonst die geschriebenen Textpassagen als eigene Gedanken deklariert werden.
+
+Bei der Festlegung auf eine Zitiertechnik ist in jedem Fall auf die **Konsistenz der Zitierweise** in der Arbeit zu achten. Im Folgenden wird die Zitiertechnik nach der [**American Psychological Association (APA) 7th Edition**](https://apastyle.apa.org/products/publication-manual-7th-edition) vorgestellt und verwendet, die u. a. in den Sozial-, Gesellschafts-, Bildungs-, Pflege- und Gesundheits- sowie Politikwissenschaften und Gesellschaftswissenschaften weit verbreitet ist. Im folgenden werden häufige (bei weitem nicht abschließende) Zitationsbeispiele dargestellt.
+
+## Direkte Zitate
+
+Wörtliche (direkte) Zitate werden in Anführungszeichen gesetzt. Sie erfordern grundsätzlich buchstäbliche Genauigkeit.
+
+::: callout-tip
+**Beispiel für direktes Zitat:**
+
+"Sozialwirtschaft wird auch als …" (Grunwald et al., 2024, S. 23) definiert.
+
+*oder*
+
+Sozialwirtschaft lässt sich nach Grunwald et al. (2024, S. 23) wie folgt definieren: "…"
+:::
+
+**Änderungen gegenüber dem Quellentext** sind stets kenntlich zu machen:
+
+-   Eigene Ergänzungen werden in Klammern gesetzt und mit einem Hinweis "Anm. d. Verf." verdeutlicht.
+
+-   Hervorhebungen im zitierten Text können übernommen werden. Eigene Hervorhebungen (z. B. Fettdruck, Kursivsetzung) sind mit dem Zusatz "Herv. d. Verf." zu kennzeichnen: "(Grunwald et al., 2024, S. 23, Herv. d. Verf.)".
+
+-   Die Auslassung eines Wortes (mehrerer Worte) wird durch einen Punkt (drei Punkte) gekennzeichnet. Dies gilt auch dann, wenn ein Zitat mitten in einem Satz beginnt oder aufhört.
+
+Wörtliche Zitate sollten sehr sparsam verwendet werden. Die zitierten Passagen sollten kurz sein und eigene Formulierungen nicht ersetzen. Es ist zu beachten, dass nur wirklich zitat-würdige Passagen (z. B. Begriffsdefinitionen) wörtlich übernommen werden und keine langen Ausführungen. **Längere Zitate** sind nur dann angebracht, wenn die Demonstration der im Zitat gewählten Formulierung für den Argumentationsgang der Arbeit von Bedeutung ist. In diesem Fall ist es zu empfehlen, längere Zitate im Text als Blockzitat einzurücken und in einzeiligem Abstand zu schreiben. Als lange Zitate gelten solche, die 40 Wörter oder mehr umfassen. Hierfür gibt es folgende Empfehlung:
+
+-   Der gesamte Text des Zitats wird 5 bis 7 Leerzeichen (etwa 1,25 cm) von der linken Seite eingerückt.
+
+-   Das Zitat wird ohne Anführungszeichen geschrieben.
+
+-   Am Ende des Zitats folgt die Quellenangabe in Klammern, nach dem letzten Satzzeichen.
+
+-   Zitate innerhalb eines Zitats werden am Anfang und am Ende mit einem Apostroph ('...') versehen. Zitate aus englischen Quellen müssen nicht übersetzt werden. Wörtliche Zitate aus anderen Sprachen sollten in einer Fußnote übersetzt werden.
+
+::: callout-tip
+**Beispiel für ein langes Zitat:**
+
+Grunwald et al. (2024) beschreibt die Sozialwirtschaft folgendermaßen:
+
+"Sozialwirtschaft wird für dieses Handbuch skizziert als ein Bereich des Wirtschaftens, der sich im Kern mit solchen Gütern befasst, die als ‚sozial‘ definiert werden. Der zentrale Gegenstand der Sozial wirtschaftslehre umfasst zunächst Rahmenbedingungen für die Ermöglichung sozialer Handlungen, Leistungen, Maßnahmen, Dienste, Unternehmungen bis hin zu Kooperationsformen, Strukturen und Regulationen, die der Bereitstellung sozialer Dienstleistungen dienen. Sozialwirtschaft fokussiert dabei den Aspekt des Wirtschaftens, in dem die eben genannten Handlungen und Strukturen als ein Teil und ein Beitrag gesellschaftlicher Wertschöpfung verstanden werden. Mit eingeschlossen sind Fragen der Leitung, Steuerung und Gestaltung – kurz: des Managements – von sozialwirtschaftlichen Organisationen, die überwiegend unter dem Begriff ‚Sozialmanagement‘ diskutiert werden" (Grunwald et al., 2024, S. 23).
+
+Das Zitat beginnt eingerückt und die Quellenangabe erfolgt wie üblich nach APA am Ende des Zitats.
+:::
+
+## Sinngemäße bzw. indirekte Zitate
+
+Ein sinngemäßes (indirektes) Zitat liegt bei einer nicht wörtlichen Übernahme von Gedanken vor. Der Umfang der sinngemäßen Übernahme muss eindeutig erkennbar sein. Manchmal kann es daher erforderlich sein, einer Textpassage einen einleitenden Satz voranzustellen.
+
+::: callout-tip
+**Beispiel für sinngemäßes Zitat:**
+
+Sozialwirtschaft kann nach Grunwald et al. (2024, S. 32–33) von anderen Fachdisziplinen in Abhängigkeit vom jeweiligen theoretischen Diskurs abgegrenzt werden.
+
+*oder*
+
+Sozialwirtschaft unterscheidet sich von anderen Fachdisziplinen in Abhängigkeit vom jeweiligen theoretischen Diskurs (Grunwald et al., 2024, S. 32–33).
+:::
+
+Es ist jedoch **nicht** zweckmäßig, längere Ausführungen **pauschal mit mehreren Quellen** zu belegen, wie z. B. mehrere Quellenangaben am Ende eines Absatzes, obschon die einzelnen Sätze direkt den zitierten Einzelquellen zugeordnet werden können.
+
+## Mehrere Verfasserinnen, Verfasser
+
+Bei mehr als zwei Verfasser:innen kann auf die explizite Nennung aller Autoren verzichtet werden. Dabei wird der Name der erstgenannten Verfasser:in mit dem Zusatz "et al." angegeben. *Achtung*: Im Literaturverzeichnis sind stets die Namen aller Verfasser:innen zu nennen.
+
+::: callout-tip
+**Beispiel für mehrere Verfasser:innen:**
+
+... (Grunwald et al., 2024).
+:::
+
+Es können zu einer Literaturpassage auch mehrere Literaturverweise erfolgen.
+
+::: callout-tip
+**Beispiel für mehrere Verfasser:innen an einer Textstelle:**
+
+... (Grunwald et al., 2024, S. 23; Brinkmann, 2010).
+:::
+
+Soll gleichzeitig auf mehrere Publikationen desselben Autors hingewiesen werden, erfolgt ebenfalls eine Abtrennung durch Komma. Tritt hierbei der Fall ein, dass mehrere Belegstellen eines Autors dasselbe Veröffentlichungsjahr haben, so werden die verschiedenen Werke durch hinzufügen von Kleinbuchstaben in alphabetischer Titelreihenfolge unterschieden. Sollte noch Verfasser:innen einer anderen Publikation erwähnt werden, sind diese mit Semikolon abzutrennen.
+
+::: callout-tip
+**Beispiel für mehrere Publikationen derselben Verfasser:innen:**
+
+... (Wendt, 2013a, S. 965, 2013b, S. 977; Brinkmann, 2010).
+:::
+
+Bezieht sich ein direktes oder indirektes Zitat auf eine Textpassage, die über 2 Seiten geht, so ist immer die Spanne an Seiten anzugeben, z. B. "S. 23–24". Es werden immer die konkreten Seiten angegeben. Abkürzungen wie "f." oder "ff." sind nach APA 7th Edition nicht (mehr) zulässig. Bei automatischen Zeilenumbrüchen sollte darauf geachtet werden, dass Seitenangaben nicht getrennt werden.
+
+## Vergleiche-Zitate
+
+Vergleiche-Zitate werden hauptsächlich nur in deutschsprachigen Zitierstilen verwendet. Der APA-Zitationsstil legt mehr Wert auf direkte und indirekte Zitate. Nach [APA 7th Edition](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf) wird der Ausdruck „vgl.“ verwendet, was für „vergleiche“ oder „zu Rate ziehen“ steht. Er dient dazu, auf *kontrastierende* oder *gegensätzliche Informationen* zu verweisen. Das bedeutet, dass „vgl.“ genutzt wird, wenn die Leserschaft auf eine Quelle hingewiesen werden soll, die einen anderen Ansatz folgt oder eine gegensätzliche Perspektive auf das Thema präsentiert.
+
+::: callout-tip
+**Beispiel für Vergleiche-Zitat:**
+
+Grunwald et al. (2024) haben eine in ihren Handbuch eine aktuelle Übersicht zu Theoriesträngen in der Sozialwirtschaftslehre entwickelt, im Gegensatz zu klassischen Lehrbüchern (vgl. Brinkmann, 2010). Diese Übersicht baut auf früheren Untersuchungen auf (siehe z. B. Wendt, 2013b).
+:::
+
+## Sekundäre Zitate
+
+Wird nicht aus der Originalquelle – die eigentlich grundsätzlich benutzt werden sollte – sondern im Falle eines schwer zugänglichen Originals aus einer Sekundärquelle zitiert, so sind beide Verfasser:innen anzugeben. Das Originalwerk wird dabei zuerst zitiert und dann folgt mit dem Verweis "zit. n." oder "zitiert nach" die Angabe der Quelle, aus der, der Verweis auf die Originalquelle stammt.
+
+::: callout-tip
+**Beispiel für Sekundäres Zitat:**
+
+*Indirektes Zitat*:
+
+In der Sozialwirtschaft steht die individuelle Selbstversorgung im Mittelpunkt (Wendt, 2013b, S. 978, zit. n. Grunwald et al., 2024, S. 32).
+
+*Direktes Zitat*:
+
+Die Sozialbetriebswirtschaftslehre befasst sich mit Wirtschaftsprozessen, die "in der Selbstversorgung und Fremdversorgung von Menschen mit den ihrer Wohlfahrt dienlichen Gütern und Dienstleistungen anzutreffen sind" (Wendt, 2013b, S. 977, zit. n. Grunwald et al., 2024, S. 32).
+:::
+
+## Formatierung des Literaturverzeichnisses
+
+Die für das Literaturverzeichnis erforderlichen Angaben sind nachstehend aufgeführt. Achten Sie stets auf eine einheitliche Handhabung innerhalb der gesamten Arbeit zu achten. Im Folgenden werden Beispiele für die am häufigsten verwendeten Publikationsformen dargestellt. Konsultieren Sie außerdem die ausführliche Hinweise zur Erstellung eines [Literaturverzeichnisses entsprechend der Zitierkonvention APA 7th Edition](https://www.scribbr.de/apa-standard/literaturverzeichnis-laut-apa-standard/).
+
+### Monographien
+
+-   Name, Vorname (Initialen bei Vornamen) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und "&"-Zeichen angeben)
+
+-   Erscheinungsjahr in Klammern
+
+-   Titel des Buches und Untertitel
+
+-   Auflage (1. Aufl. wird nicht angegeben, erst ab 2. Aufl.)
+
+-   Band (sofern vorhanden)
+
+-   Verlag
+
+-   (wenn vorhanden) der Digital Object Identifier (DOI)
+
+::: callout-tip
+**Beispiele für eine Verfasserin, ein Verfasser**:
+
+Brinkmann, V. (2010). *Sozialwirtschaft: Grundlagen—Modelle—Finanzierung*. Gabler Verlag, Springer Fachmedien. <https://doi.org/10.1007/978-3-8349-8935-2>
+
+**Beispiele für mehrere Verfasserinnen, Verfasser**:
+
+Grunwald, K., Langer, A., & Sagmeister, M. (Hrsg.). (2024). Sozialwirtschaft – eine Einführung in das Handbuch (2. Aufl.). Nomos Verlagsgesellschaft mbH & Co. KG. <https://doi.org/10.5771/9783748932949>
+:::
+
+### Beiträge aus Sammelwerken
+
+-   Name, Vorname (Initialen bei Vornamen) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und "&"-Zeichen angeben)
+
+-   Erscheinungsjahr in Klammern
+
+-   Titel des Beitrages
+
+-   In Initial vom Vorname Name der Herausgeberinnen, Herausgeber sowie Angabe der Abkürzung "(Hrsg.)" (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und "&"-Zeichen angeben)
+
+-   Titel des Sammelwerkes
+
+-   Band (sofern vorhanden)
+
+-   Auflage (1. Aufl. wird nicht angegeben, erst ab 2. Aufl.)
+
+-   Seitenzahlen (S. Beginn–Ende)
+
+-   Verlag
+
+-   (wenn vorhanden) der Digital Object Identifier (DOI)
+
+::: callout-tip
+Grunwald, K., Langer, A., & Sagmeister, M. (2024). Sozialwirtschaft – eine Einführung in das Handbuch. In dies. (Hrsg.), *Sozialwirtschaft: Handbuch für Wissenschaft, Studium und Praxis* (2. Aufl., S. 23–43). Nomos Verlagsgesellschaft mbH & Co. KG. <https://doi.org/10.5771/9783748932949>
+:::
+
+### Aufsätze aus Fachzeitschriften
+
+-   Name, Vorname (Initialen des Vornamens) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und "&"-Zeichen angeben)
+
+-   Erscheinungsjahr in Klammern
+
+-   Titel des Aufsatzes
+
+-   Titel der Zeitschrift
+
+-   Jahrgang, Nummer des Heftes (sofern vorhanden oder Ersatzangaben, z. B. Monat)
+
+-   Seitenzahlen
+
+-   (wenn vorhanden) der Digital Object Identifier (DOI)
+
+::: callout-tip
+Tight, M. (2016). Phenomenography: The development and application of an innovative research design in higher education research. *International Journal of Social Research Methodology, 19*(3), 319–338. <https://doi.org/10.1080/13645579.2015.1010284>
+:::
+
+### Internetquellen
+
+-   Name, Vorname (Initialen des Vornamens) der Verfasserin, des Verfassers (mehrere Beitragende durch Komma getrennt und vor letzten Namen Komma und "&"-Zeichen angeben)
+
+-   Erscheinungsjahr sowie Tag und Monat in Klammern: "(Jahr, Tag. Monat)"
+
+-   Titel des Beitrags
+
+-   (wenn vorhanden) Angabe des Blogs bzw. der Zeitung o. ä.
+
+-   Es muss stets eine URL angegeben werden. Das Zugriffsdatum ist ab APA 7th Edition nicht mehr notwendig. Das Abrufdatum zusammen mit dem Zusatz "Zugriff am" ist nur wenn notwendig anzugeben (z. B. bei Wikipedia-Artikeln, sich regelmäßig ändern und eine Versionierung existiert).
+
+::: callout-tip
+FernUniversität Hagen (Hrsg.). (2021). Lernen neu denken: Das Hagener Manifest zu New Learning: 12 Thesen. *Hagener Manifest*. <https://newlearning.fernuni-hagen.de/das-hagener-manifest/>
+
+Jörissen, B. (2017). Subjektivation und „ästhetische Freiheit“ in der post-digitalen Kultur. *KULTURELLE BILDUNG ONLINE*. <https://doi.org/10.25529/92552.421>
+
+Krohn, P. (2022, 25. Dezember). Mensch und Maschine: Wenn uns erst der Roboter pflegt. *FAZ.NET*. <https://www.faz.net/aktuell/wirtschaft/pflege-wenn-uns-erst-der-roboter-pflegt-18537149.html>
+
+Laterale Führung. (2022, 4. November). In *Wikipedia*. <https://de.wikipedia.org/wiki/Laterale_F%C3%BChrung>
+
+Studienbereich Sozialmanagement (Hrsg.). (2024, 13. September). *Leitfaden wissenschaftliches Schreiben*. <https://hs-nordhausen.gitbook.io/leitfaden>
+:::
+
+Für den Fall, dass mehr als ein Link einer Domain zitiert wird, ist eine differenzierte Quellenangabe durch die zusätzliche Angabe von Buchstaben in alphabetischer Reihenfolge zu beachten. Es ist ratsam, die jeweils zitierten Internetseiten mit einem geeigneten Tool abzuspeichern (Browser \> Datei \> Speichern unter) oder durch Erstellung einer PDF (dabei wird stets Zugriffsdatum und Quelle abspeichert).
+
+Wenn für die Erstellung des Literaturverzeichnisses bestimmte Angaben fehlen, z. B. Verfasserin, Verfasser, Erscheinungsort oder Erscheinungsjahr, dann sind diese in der Quellenangabe ausdrücklich durch folgende Abkürzungen zu vermerken:
+
+-   o\. V. (für: ohne Verfasser)
+
+-   o\. O. (für: ohne Erscheinungsort)
+
+-   o\. J. (für: ohne Jahr; bei Büchern, Artikeln aus Sammelwerken und Arbeitspapieren)
+
+Zur Anfertigung einer wissenschaftlichen Arbeit sind in jedem Fall Monographien, Artikel in Sammelwerken und aus Zeitschriften heranzuziehen. Die Auflistung der Quellen im Literaturverzeichniss erfolgt alphabetisch und nach Jahren geordnet (ggf. gilt es bei mehreren Publikationen einer Verfasserin, eines Verfassers in gleichen Erscheinungsjahr Kleinbuchstaben nach dem Erscheinungsjahr zu sortieren, z.B. (2024a), (2024b), (2024c) usw.).
+
+## Quellenbelege bei Tabellen und Abbildung
+
+Tabellen und Abbildungen aus anderen Publikationen sind im Anschluss an die Tabellen- bzw. Abbildungsbezeichung mit der Quelle zu versehen, wobei immer Autor:in, Jahr und Seite(n) angegeben werden. Werden ganze Darstellungen ohne Modifikationen aus anderen Quellen übernommen, verfährt man mit der Kenntlichmachung analog der o.g. Zitierweise im Text. Wird eine gegebene Darstellung verändert (durch Auslassung oder Hinzufügung von Teilen), ist der Quellenangabe z. B. "in Anlehnung an" oder "nach" voranzustellen. Stammt die Darstellung von Verfasser:innen selbst, entfällt natürlich die Quellenangabe, ggf. kann bei der Abbildungen der Vermerk "eigene Darstellung" in Klammern hinzugefügt werden.
+
+## Verwendete Literatur
+
+-   Brinkmann, V. (2010). *Sozialwirtschaft: Grundlagen—Modelle—Finanzierung*. Gabler Verlag, Springer Fachmedien Wiesbaden. <https://doi.org/10.1007/978-3-8349-8935-2>
+
+-   FernUniversität Hagen (Hrsg.). (2021). Lernen neu denken: Das Hagener Manifest zu New Learning: 12 Thesen. *Hagener Manifest*. <https://newlearning.fernuni-hagen.de/das-hagener-manifest/>
+
+-   Grunwald, K., Langer, A., & Sagmeister, M. (2024). Sozialwirtschaft – eine Einführung in das Handbuch. In dies. (Hrsg.), *Sozialwirtschaft: Handbuch für Wissenschaft, Studium und Praxis* (2. Aufl., S. 23–43). Nomos Verlagsgesellschaft mbH & Co. KG. <https://doi.org/10.5771/9783748932949>
+
+-   Jörissen, B. (2017). Subjektivation und „ästhetische Freiheit“ in der post-digitalen Kultur. *KULTURELLE BILDUNG ONLINE*. <https://doi.org/10.25529/92552.421>
+
+-   Krohn, P. (2022, 25. Dezember). Mensch und Maschine: Wenn uns erst der Roboter pflegt. *FAZ.NET*. <https://www.faz.net/aktuell/wirtschaft/pflege-wenn-uns-erst-der-roboter-pflegt-18537149.html>
+
+-   Laterale Führung. (2022, 4. November). In *Wikipedia*. <https://de.wikipedia.org/wiki/Laterale_F%C3%BChrung>
+
+-   Studienbereich Sozialmanagement (Hrsg.). (2024, 13. September). *Leitfaden wissenschaftliches Schreiben*. <https://hs-nordhausen.gitbook.io/leitfaden>
+
+-   Tight, M. (2016). Phenomenography: The development and application of an innovative research design in higher education research. *International Journal of Social Research Methodology, 19*(3), 319–338. <https://doi.org/10.1080/13645579.2015.1010284>
+
+-   Wendt, W. R. (2013a). Sozialwirtschaft. In K. Grunwald, G. Horcher, & B. Maelicke (Hrsg.), *Lexikon der Sozialwirtschaft (*2. Aufl., S. 965–968). Nomos Verlagsgesellschaft mbH & Co. KG.
+
+-   Wendt, W. R. (2013b). Sozialwirtschaftslehre. In K. Grunwald, G. Horcher, & B. Maelicke (Hrsg.), *Lexikon der Sozialwirtschaft (*2. Aufl., S. 977–979). Nomos Verlagsgesellschaft mbH & Co. KG.

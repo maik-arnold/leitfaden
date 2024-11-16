@@ -1,0 +1,55 @@
+# Literaturrecherche und -verwaltung {#sec-B-literaturrecherche}
+
+Hier erhalten Sie Recherche und Verarbeitung wissenschaftlicher Literatur.
+
+## Anforderungen an die Literatur
+
+Jede wissenschaftliche Arbeit baut auf vorhandenes Wissen auf. Vor diesem Hintergrund gilt, dass Literaturbezüge stets adäquat, kritisch und korrekt herzustellen und mittels Zitaten entsprechend zu dokumentieren sind. Eine adäquate Literaturauswahl lässt sich dann attestieren, wenn die Literatur – unter Berücksichtigung des jeweiligen Typs der wissenschaftlichen Arbeit (Seminar-, Bachelor-, oder Masterarbeit) – eine angemessene **Qualität** und **Anzahl** von Publikationen beinhaltet.
+
+::: callout-tip
+**Qualitativ** **angemessene** **Literaturauswahl** bedeutet u. a.:
+
+-   die Verwendung von themenspezifischer deutsch- und/oder englischsprachiger Literatur, die den aktuellen internationalen Stand der Forschung und Praxis in jeweiligen Wissenschaftsbereich widerspiegelt;
+
+-   keine (bzw. nur in begründeten Ausnahmefällen) Verwendung von typischer Grundlagenliteratur ("Allgemeine Einführung in die BWL", "Gablers Wirtschaftslexikon");
+
+-   die Verwendung vorrangig wissenschaftlicher Quellen (und z. B. keine Boulevardblätter, betriebswirtschaftliche Ratgeberliteratur) sowie
+
+-   keine Verwendung allgemeiner Lexika ("Meyers Konversations-Lexikon", "Wikipedia").
+:::
+
+Was in **quantitativer** Hinsicht als angemessen gilt, ist vom gewählten Thema und der dafür anberaumten Zeit abhängig. Handelt es sich um ein aktuelles und/oder sehr spezifisches Thema, so wird einschlägige Literatur in geringerem Maße vorhanden sein. Die Anzahl der verwendeten Quellen sollte mindestens der Seitenanzahl entsprechen (z. B. bei 15 Seiten Seminararbeit mind. 15 Quellen; bei 60 Seiten Bachelorarbeit: mind. 60 Quellen usw.). Verstehen Sie diese Empfehlungen als Daumenregel, die nicht für alle Themen verallgemeinert werden kann. Die angegebene Quellenanzahl ist als ein tendenzielles Minimum zu verstehen. Der Anteil der englischsprachigen Quellen sowie der Anteil ausgewiesener, wissenschaftlicher Fachjournals (z. B. aus EBSCOhost) richtet sich ebenfalls nach der Art der Arbeit (Seminar- und Bachelorarbeit: ca. 20 %; Masterarbeiten: ca. 40 %). Auch hierbei handelt es sich jedoch lediglich um grobe Richtwerte, der genaue Anteil ist vom Thema abhängig.
+
+::: callout-tip
+Eine korrekte **Literaturauswertung** ist gekennzeichnet durch:
+
+-   sorgsame und gewissenhafte Einarbeitung der Literatur in den Fließtext; Verfälschungen jeglicher Art sind zu vermeiden;
+
+-   faire Auswertung der Literatur, indem jeweils bei Zitaten darauf geachtet wird, dass die Aussage der zitierten Autor:innen korrekt und ungefiltert darstellt wird, bevor eine Kritik erfolgt; es sollte immer mit der neuesten Auflage gearbeitet werden;
+
+-   soweit wie möglich sind Primärquellen zu verwenden.
+:::
+
+Eine kritische Literaturauswertung bedeutet, dass die Studierenden die Literatur nicht treuherzig und aus Bequemlichkeit einfach nur rekapitulieren, sondern sich mit ihr intensiv auseinandersetzen. Dazu gehört auch, dass die verschiedenen Literaturtitel auf Widersprüche untereinander untersucht und diese herausgearbeitet werden. Indem man als Verfasser:in hierzu Stellung bezieht, wird auch die in einem wissenschaftlichen Studium erwartete eigenständige Leistung zu erbringen.
+
+## Quellen zur Literaturbeschaffung (Auswahl)
+
+Für die Suche nach Fachliteratur stehen verschiedene Möglichkeiten zur Verfügung. Einige wichtige Literaturquellen sind in der folgenden Tabelle aufgeführt (Auswahl).
+
+| Katalog | Kurzbeschreibung |
+|:-----------------------------------|:-----------------------------------|
+| Bibliothekskataloge der [Hochschulbibliothek](https://www.hs-nordhausen.de/service/bibliothek/recherche/) Nordhausen | Die Bibliothek der Hochschule Nordhausen ist die erste Anlaufstelle, um nach relevanten Büchern und Fachzeitschriften im Gesamtbestand der Bibliothek zu suchen. Leider ist bei sehr spezifischen Themenstellungen das Angebot für die Anfertigung von Seminar-, Bachelor-, Masterarbeiten oft nicht ausreichend, weswegen eine weiterführende Recherche notwendig ist. |
+| [KVK - Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0) | Der Karlsruher Virtuelle Katalog (KVK) ist eine Meta-Suchmaschine zum Nachweis von mehreren hundert Millionen Medien in Bibliotheks- und Buchhandelskatalogen weltweit. |
+| [GVB](https://kxp.k10plus.de/DB=2.1/) | GBV ist das Web-Portal des gemeinsamen Bibliotheksverbundes (GBV) einiger Bundesländer Nord- und Ostdeutschlands. Da bei der Recherche eine große Anzahl an Bibliotheken durchsucht wird, ist eine Suche im GBV besonders erfolgversprechend. Ein weiterer Vorteil des GBV ist die Möglichkeit, gefundene Bücher oder auch Artikel aus Fachzeitschriften bequem per Online-Fernleihe zu bestellen. |
+| [WISO - Wirtschafts- und Sozialwissenschaften](https://www.wiso-net.de/dosearch) | Die WiSo-Datenbanken stellen eine ebenfalls sehr leistungsfähige Suchmaschine für sozialwissenschaftliche, wirtschaftswissenschaftliche Literatur dar. Es handelt sich vor allem um deutschsprachige Publikationen. |
+| [Google Scholar](https://scholar.google.de/) | Mit Google Scholar kann eine allgemeine Suche nach wissenschaftlicher Literatur durchgeführt werden. Dazu gehören Doktorarbeiten, Bücher, Zusammenfassungen und Artikel, die aus Quellen wie akademischen Verlagen, Berufsverbänden, Magazinen für Vorabdrucke, Universitäten und anderen Bildungseinrichtungen stammen. |
+
+Grundsätzlich ist es bei der Recherche von großer Bedeutung, das gesammelte Material von Beginn an so zu dokumentieren, dass es bei tatsächlicher Verwendung korrekt zitiert werden kann. Das bedeutet, dass kopierte Artikel aus Zeitschriften mit Jahrgang, evtl. Heftnummer, Seitenangaben und Artikel aus Sammelbänden mit vollständiger Quellenangabe zu versehen sind.
+
+::: callout-important
+*Hinweis*: Nutzen Sie auch die weiteren Hinweise und Datenbanken in den Lehrveranstaltungen wissenschaftlichen Arbeiten.
+:::
+
+## Literaturverwaltungsprogramme
+
+Literaturverwaltungsprogramme unterstützen dabei, Quellenangaben für die wissenschaftliche Arbeit in Form einer Datenbank zu verwalten und mittels des Textverarbeitungsprogramms direkt in den Fließtext einzufügen. Die meisten Programme sind ebenso in der Lage, automatisch ein Literaturverzeichnis entsprechend der voreingestellten Zitationskonvention zu erstellen. Ohne andere wertvolle Überblicke zu aktueller Software zu reproduzieren, sei auf den [Vergleich der gängigsten Literaturverwaltungsprogramme](https://www.slub-dresden.de/fileadmin/groups/slubsite/Service/PDF_Service/Literarturverwaltungsprogramme_im_%C3%9Cberblick.pdf) verwiesen.

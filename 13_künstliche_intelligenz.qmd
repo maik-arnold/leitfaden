@@ -1,0 +1,21 @@
+# Künstliche Intelligenz {#sec-B-künstliche-intelligenz}
+
+Hier finden Sie, was man bei der Nutzung von KI-Tools beachten sollte.
+
+In folgendem Video wird die kürzlich vom Prüfungsausschuss des Studiengangs SoMa beschlossene [Richtlinie zum Umgang mit generativer künstlicher Intelligenz](download_files/Richtlinie_zum_Umgang_mit_generativer_Künstlicher_Intelligenz__GenAI.pdf) vorgestellt. Neben allgemeinen Tipps zum erlaubten und nicht-erlaubten Einsatz von KI-basierten Systemen wird auf die neue Erklärung hingewiesen, die ab Wintersemester 2024/25 zusammen mit allen wissenschaftlichen Arbeiten abgegeben werden muss, sofern solche Hilfsmittel eingesetzt werden.
+
+:::: {#fig13-1}
+::: {style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"}
+<iframe src="https://www.loom.com/embed/b779b942588b4b46bd95497d687ae19b" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;">
+
+</iframe>
+:::
+
+Video: Erläuterung zur Richtlinie (6:08 min)
+::::
+
+::: callout-important
+-   [Erklärung zur Verwendung von KI-basierten System im Studiengang Sozialmanagement](download_files/20240813_Anlage_Erkla__rung_zur_Verwendung_von_KI-basierten_Systemen_im_Studiengang_Sozialmanagement_an_der_Hochschule_Nordhausen_copy.pdf)
+
+-   [Richtlinie zum Umgang mit generativer Künstlicher Intelligenz](download_files/Richtlinie_zum_Umgang_mit_generativer_Künstlicher_Intelligenz__GenAI.pdf)
+:::

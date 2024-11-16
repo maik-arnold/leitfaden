@@ -1,10 +1,10 @@
 # Themensuche {#sec-A-themensuche}
 
-Diese Seite beinhaltet Hinweise zur Themensuche und dem Brainstorming.
+Diese Seite beinhaltet Hinweise zur Themensuche und zum Brainstorming.
 
-Grundsätzlich wird sowohl bei Seminar-, Bachelor-, und Masterarbeiten in den Lehrveranstaltungen im Studienbereich Sozialmanagement Themenvorschläge zur Verfügung gestellt, aus denen die Studierenden ein von ihnen präferiertes Thema auswählen können. Eigene Themenvorschläge sind immer auch nach Absprache möglich.
+Grundsätzlich erhalten Sie für eine Seminar-, Bachelor-, und Masterarbeit in den Lehrveranstaltungen im Studienbereich Sozialmanagement Themenvorschläge, aus denen Sie ein von ihnen präferiertes Thema auswählen können. Eigene Themenvorschläge sind immer auch nach Absprache möglich.
 
-Folgende Fragen können zur Beurteilung der Themenfindung hilfreich sein [z. B. @Banzer_Kruse_2011]:
+Folgende Fragen können zur Beurteilung der Themenfindung hilfreich sein:
 
 ::: panel-tabset
 ## Was interessiert mich?

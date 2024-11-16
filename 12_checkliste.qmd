@@ -1,0 +1,61 @@
+# Checkliste {#sec-B-checkliste}
+
+Diese Checkliste erleichtert Ihnen die Qualitätsüberprüfung vor Abgabe.
+
+Dem Urteil der Gutachter:innen über eine wissenschaftliche Arbeit sind die Studierenden nicht hilflos ausgeliefert. Bereits vor Abgabe der Arbeit ist zu prüfen, ob alle notwendigen und hinreichenden Anforderungen an das wissenschaftliche Arbeiten ausreichend erfüllt sind. Die folgende Checkliste liefert für eine Qualitätsüberprüfung vor Abgabe der Seminar-, Bachelor-, und Masterarbeit eine hilfreiche Grundlage:
+
+::: callout-tip
+**1. Gliederung und Inhaltsverzeichnis**
+
+-   [ ] formale Anforderungen
+
+-   [ ] problemzentrierter Aufbau
+
+-   [ ] Stringenz
+
+-   [ ] eigene Strukturierungsleistung insgesamt
+
+**2. Inhalt**
+
+-   [ ] Themenbezug
+
+-   [ ] Themenabdeckung
+
+-   [ ] Entsprechung zwischen Gliederungsüberschriften und Gliederungsinhalten
+
+-   [ ] Logik und Stringenz der Gedanken- und Argumentationsführung (Beleg- und Beweisketten)
+
+-   [ ] Theoretische und gegebenenfalls empirische Fundierung der Argumentation
+
+-   [ ] Zielstrebigkeit und Ausgewogenheit der Darstellung
+
+-   [ ] Beherrschung fachlicher Begriffe Anteil eigenständiger Arbeit und Erkenntnisse
+
+-   [ ] Kritikfähigkeit
+
+-   [ ] Innovativität/ Neuigkeitsgrad
+
+-   [ ] Qualität und Originalität der Ergebnisse und Schlussfolgerungen
+
+-   [ ] Wissenschaftlich fundierte und ausgewogene Argumentation – gegebenenfalls Ausweis von Interessenstandpunkten bei werten- den Ausführungen
+
+-   [ ] Angemessenheit und Beherrschung der Forschungsmethoden
+
+**3. Sprache und formale Abfassung**
+
+-   [ ] Orthographie und Interpunktion
+
+-   [ ] Verständlichkeit
+
+-   [ ] Wissenschaftlicher Sprachstil (Wortwahl und Ausdrucksweise)
+
+-   [ ] Absatztechnik
+
+-   [ ] Abbildungen und Tabellen
+
+-   [ ] Anhang
+
+**4. Qualitative und quantitative Angemessenheit der Literaturerfassung**
+
+**5. Zitierweise**
+:::

@@ -1,0 +1,108 @@
+# Gliederung der Arbeit {#sec-B-gliederung}
+
+Auf dieser Seite werden die Seite werden allgemeine Informationen zur Gliederung einer wissenschaftlichen Arbeit gegeben.
+
+## Allgemeines Ordnungsschema
+
+Das allgemeine Ordnungsschema einer wissenschaftlichen Arbeit beinhaltet folgende Bestandteile:
+
+```{r}
+#| label: fig-fig03-1
+#| fig-cap: Titelseite/Deckblatt (eigene Darstellung)
+#| fig-alt: Diese Abbildung zeigt beispielhafte Deckblätter für eine wissenchaftliche Hausarbeit.
+knitr::include_graphics("images/fig03-1_deckblätter.png")
+```
+
+::: panel-tabset
+## Vorspann
+
+Die **Titelseite** ist das erste Blatt einer wissenschaftlichen Arbeit und enthält grundlegende Informationen:
+
+-   Name der Hochschule
+
+-   Fachbereich und Studiengang
+
+-   Erstgutachter:in ggf. Zweitgutachter:in
+
+-   Bezeichnung der Arbeit (z.B. Hausarbeit, Seminararbeit, Bachelorarbeit)
+
+-   Lehrveranstaltung mit jeweiliger Modulnummer
+
+-   Ihr Vor- und Zuname und Matrikelnummer
+
+-   Ort, Datum der Abgabe
+
+Im **Vorwort** bedanken sich Autor:innen bei Personen und Institutionen, die zur Entstehung der Arbeit beigetragen haben. Es bietet Raum für persönliche Anmerkungen, Reflexionen über den Entstehungsprozess und die Motivation hinter der Forschung, ohne jedoch inhaltlich auf die Ergebnisse der Arbeit einzugehen.
+
+Das **Inhaltsverzeichnis** gibt einen strukturierten Überblick über die Haupt- und Unterkapitel der Arbeit, einschließlich der Seitenzahlen. Es ermöglicht den Lesenden eine schnelle Orientierung und gezielte Navigation durch die verschiedenen Teile der Arbeit. In Textverarbeitungsprogrammen lässt sich das Inhaltsverzeichnis automatisch erstellen.
+
+Das **Abbildungs- und Tabellenverzeichnis** lässt sich in Textverarbeitungsprogrammen automatisch erstellen. Es ist darauf zu achten, dass alle Bezeichnungen für die Abbildungen und Tabellen übernommen wurden und auch die entsprechenden Quellen angegeben sind.
+
+Das **Abkürzungsverzeichnis** bietet den Lesenden eine schnelle Referenz, um die in der Arbeit verwendeten Kurzformen und visuellen Hilfsmittel nachzuschlagen und deren Bedeutung oder Inhalt zu verstehen.
+
+## Fließtext
+
+Der **Fließtext** umfasst die **Einleitung**, die das Forschungsthema fachlich wissenschaftlicher Sicht herleitet, die Ziel- und Fragestellung(en) klar benennt und den Aufbau der Arbeit im Überblick beschreibt. Der anschließende **Hauptteil**, der je nach Typ der wissenschaftlichen Arbeit variieren kann, beinhaltet die theoretischen Grundlagen, die Methodik, Ergebnisse und deren Diskussion. Die Arbeit schließt mit einem **Fazit und Ausblick**, wo die wesentlichen Erkenntnisse zusammenfasst und ggf. auf zukünftigen Forschungs- und Praxisentwicklungsbedarf hingewiesen wird.
+
+## Literatur- und Quellenverzeichnis
+
+Dieses Verzeichnis listet alle Quellen auf, die in der Arbeit zitiert oder verwendet wurden. Es dient der Dokumentation der wissenschaftlichen Belege für die Aussagen in der Arbeit und ermöglicht es den Lesern, die verwendeten Quellen nachzuvollziehen und zu überprüfen.
+
+## Anhang
+
+Der Anhang enthält ergänzende Materialien wie Rohdaten, Transkripte, umfangreiche Tabellen, Fragebögen bzw. Leitfäden oder zusätzliche Dokumente, die für das Verständnis der Arbeit wichtig sind, aber den Haupttext überladen würden. Das Anhangsverzeichnis gibt eine Übersicht über die enthaltenen Anhänge und erleichtert deren Auffinden. Es ist darauf zu achten, dass alle Anhänge im Haupttext der Arbeit erwähnt werden bzw. eingebunden sind.
+
+## Eigenständigkeitserklärung
+
+Auf der letzten Seite der wissenschaftlichen Arbeit muss steht die Eigenständigkeiterklärung wie nach § 11 Abs. 6 Prüfungsordnung für den Bachelorstudiengang Sozialmanagement an der Hochschule Nordhausen abgedruckt und unterschrieben werden:
+
+"Hiermit versichere ich, dass ich diese Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Wörtlich oder sinngemäße Übernahmen aus anderen Schriften und Veröffentlichungen in gedruckter oder elektronischer Form sind ausnahmslos als solche gekennzeichnet. Zudem versichere ich, dass diese Arbeit oder Teile daraus bisher nicht physisch und/oder elektronisch veröffentlicht wurde, und dass diese Arbeit oder Teile daraus weder von mir selbst noch von anderen einer Prüferin/einem Prüfer/einer Prüfungsbehörde als Leistungsnachweis vorgelegt wurde."
+
+Ort, Datum, Unterschrift
+
+Zusätzlich ist bei Nutzung von KI-basierten Systemen entsprechend der vom Prüfungsausschuss beschlossenen [Richtlinie zum Umgang mit Künstlicher Intelligenz (GenAI)](13_künstliche_intelligenz.qmd) der zusätzliche Erklärungsbogen einzufügen.
+:::
+
+## Gliederungshinweise
+
+Die Gliederung ist wesentlicher Bestandteil der Arbeit und soll zeigen, wie die Problemstellung verstanden und bearbeitet wurde. Sie muss daher in ihrer Struktur und in den gewählten Überschriften den logischen und gedanklichen Aufbau der Arbeit widerspiegeln und einen Überblick über den Inhalt und die Schwerpunkte der Arbeit geben.
+
+Die Tiefe der Gliederung hängt von der Länge und dem Thema bzw. den Inhalten der Arbeit ab. Eine sehr differenzierte Gliederung kann den Gedankengang der Arbeit zwar gut zu strukturieren helfen, sie kann aber auch dazu führen, dass die Gedanken fragmentarisch nebeneinander stehen bleiben und eine umfassende Argumentationsführung nicht entwickelt wird.
+
+::: callout-note
+Für Seminararbeiten wird in den meisten Fällen eine Gliederungstiefe **von maximal drei Ebenen** ausreichend sein. Bei Bachelor- oder Masterarbeiten kann sich stellenweise eine Gliederungstiefe **von vier Ebenen**als sinnvoll erweisen.
+:::
+
+::: callout-tip
+**Hinweise:**
+
+-   In der Regel muss ein Gliederungspunkt länger als eine Seite sein, jedoch reicht es nicht aus, diese Textseite durch Abbildungen bzw. Tabellen zu füllen!
+
+-   Direkt zu Beginn eines Kapitels ist es empfehlenswert, einen einleitenden strukturierenden Hinweis zu schreiben. Es kann manchmal sinnvoll sein, zwischen einem Oberpunkt und den nachgeordneten Unterpunkten einleitende und strukturierende Bemerkungen einzufügen. Diese sollten äußerst sparsam eingesetzt, kurzgehalten und nicht länger als ein Viertel der Seite werden.
+
+-   Bei der Untergliederung ist darauf zu achten, dass etwa auf einen Unterpunkt mindestens ein weiterer Unterpunkt folgt. Die Überschriften von Unterkapiteln dürfen die Überschrift des übergeordneten Gliederungspunktes nicht wortgetreu bzw. annähernd wortgetreu wiederholen. Außerdem sollte keinesfalls eine Kapitelüberschrift mit dem Thema der Arbeit identisch sein. Weiterhin ist darauf zu achten, dass Themeninhalte auf derselben Gliederungsstufe nicht zueinander im Unterverhältnis stehen dürfen.
+
+-   Inhaltlich soll die Gliederung einer wissenschaftlichen Arbeit deren Verständlichkeit fördern. Daher ist jeder Gliederungspunkt so zu formulieren, dass er (a) inhaltlich schnell erfassbar und verständlich sowie (b) inhaltlich aussagefähig ist.
+:::
+
+## Nummerierung und Seitenzahlen
+
+Das Inhaltsverzeichnis spiegelt die Gliederung wider und muss formal übersichtlich sein. Die Positionen der Gliederung sind mit den entsprechenden Seitenangaben zu versehen. Sie müssen mit den Überschriften der inhaltlichen Abschnitte im Text übereinstimmen. Zur Klassifikation der Gliederungspunkte stehen das [„dekadische“ System (Dezimalsystem)](https://de.wikipedia.org/wiki/Dezimalsystem) zur Verfügung.
+
+Das dekadische System, welches grundsätzlich empfohlen wird, ist durch eine kontinuierliche Nummerierung sämtlicher Gliederungsebenen des Textteils (Einleitung, Hauptteil, Schluss) mit arabischen Zahlen gekennzeichnet. Alle Verzeichnisse (z.B. Abbildungs-, Tabellen- und Abkürzungsverzeichnis, etc.) und die Eigenständigkeitserklärung sind ohne Nummer im Inhaltsverzeichnis aufzuführen. Für den Gliederungspunkt Anhang wird empfohlen, diesen im Inhaltsverzeichnis ohne Nummer anzugeben. Die einzelnen Teile das Anhangs dürfen wiederum nummeriert werden.
+
+::: callout-tip
+**Hinweise:**
+
+-   Alle Seiten sind mit arabischen Seitenzahlen zu versehen. Ausnahmen bilden das Deckblatt und die Eigenständigkeitserklärung, die immer keine Seitenzahl erhalten.
+
+-   Inhalts-, Abkürzungs- und Abbildungs- und Tabellenverzeichnisse werden mit römischen Zahlen (beginnend mit I,II,III) versehen
+
+-   Der Textteil von der Einleitung über den Hauptteil bis zum Schluss ist mit arabischen Ziffern als Seitenzahlen zu versehen. Dabei beginnt die Einleitung mit Seite 1.
+
+-   Das Literaturverzeichnis ist mit fortlaufenden römischen oder arabischen Ziffern als Seitenzahl zu versehen.
+
+-   Der Anhang mit Anhangsverzeichnis wird im Regelfall ebenfalls mit fortlaufenden römischen Zahlen (z. B. Anhang A, A I, A II usw.) versehen. (*Hinweis*: bei einem langen Anhang sollte wiederum auf arabische Zahlen zurückgegriffen werden.)
+
+-   Der geforderte bzw. maximale Seitenumfang wird von den jeweiligen Prüfenden ab der ersten Seite der Einleitung bis einschließlich der letzten Seite des Fazits gezählt.
+:::

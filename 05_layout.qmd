@@ -1,0 +1,35 @@
+# Seitengestaltung und Layout {#sec-B-layout}
+
+Hier geht es um die Gestaltung der wissenschaftlichen Arbeit.
+
+Für für die Gestaltung der wissenschaftlichen Arbeit sind folgende formalen Vorgaben zu beachten:
+
+::: panel-tabset
+## Papierformat
+
+Für gedruckte wie für elektronisch eingereichte Arbeiten ist das Format DIN A4 zu verwenden. Bei gedruckten Arbeiten sind nur einseitig zu beschreiben.
+
+## Seitenränder
+
+Der linke Seitenrand soll 2,5 cm und der rechte Seiterand 3 cm betragen. Der obere Seitenrand soll 1,5 – 2 cm und der untere Seitenrand mindestens 1,3 cm betragen.
+
+Bei gedruckten Arbeiten sollte beachtet werden: je dicker die Arbeit, desto mehr Seitenrand nötig. (*Hinweis*: Der Seitenumfang muss dann mit dem/der Prüfenden erneut abgesprochen werden.)
+
+## Schriftart und Schriftgröße
+
+Die sollten über die Arbeit hinweg einheitlich verwendet werden. Zu empfehlen sind z. B. Times New Roman 12 pt, Arial 11 pt und Calibri 11 pt für den Fließtext sowie 10 pt in den Fußnoten. Überschriften sollten im Regelfall die gleiche Schriftgröße haben wie der Fließtext (aber max. 16 pt). Sie sollen fett gesetzt, nummeriert und nicht unterstrichen werden.
+
+## Zeilenabstände
+
+Der Fließtext und die Gliederung sind mit 1,5-zeiligem Abstand zu verfassen. Abbildungs-, Tabellen- und Abkürzungs- und Literaturverzeichnis und Fußnoten sollten einen 1,0-zeiligen Abstand aufweisen. Überschriften sind im Text durch größere Abstände herauszustellen und durch Fettdruck hervorzuheben.
+
+Vor und nach jeder Überschrift ist ein Abstand in der Schriftgröße der Überschrift zu wählen. Absätze sind mit einer Leerzeile in der gleichen Schriftgröße zu trennen.
+
+## Satzspiegel
+
+Ein Absatz sollte jeweils inhaltlich zusammenhängende Gedanken umfassen und niemals aus nur einem Satz bestehen.
+
+Im Textteil sollte immer der Blocksatz genutzt werden. Ausnahmen gelten für Tabellen und Bezeichnungen. In der Textverarbeitung kann die automatische Silbentrennung aktiviert werden.
+
+Bei der Gestaltung des Seitenlayouts ist darauf zu achten, dass Überschriften nicht auf der letzten Zeile einer Seite erscheinen. Des Weiteren beginnen die Hauptkapitel (Kapitel 1, 2 ...) generell auf einer neuen Seite.
+:::

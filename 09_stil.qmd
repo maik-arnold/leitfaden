@@ -1,0 +1,87 @@
+# Stil und Sprache {#sec-B-stil}
+
+Wissenschaftliches Schreiben und die Verwendung einer Fachsprache hebt sich von der Umgangssprache in verschiedenerlei Hinsicht ab.
+
+## Schreibstil
+
+Die Gedanken und Gedankenfolgen müssen in eindeutig verständlichen, prägnanten und inhaltlich aussagefähigen Worten, Sätzen und Satzfolgen bzw. Absätzen dargestellt werden. Dabei sollte die jeweilige wissenschaftliche Fachsprache verwendet werden. Umgangssprachliche Wörter und Wendungen sind zu vermeiden (es sei denn, dass dies Aussagen von z. B. Interviewpartner:innen sind).
+
+::: callout-tip
+Vermeiden Sie folgende Wörter und Redewendungen:
+
+-   Füllwörter: wie "ja" nun ersichtlich wurde,
+
+-   Rückversicherungswörter: "irgendwie", "gewissermaßen",
+
+-   übertreibende Ausdrucksweisen: "unglaublich" hohe Kosten, "himmelschreiend" schlechte Verhältnisse oder
+
+-   Argumentationsersatzwörter: "natürlich", "selbstverständlich".
+:::
+
+## Inklusive Sprache
+
+Sprache entwickelt sich unter veränderten sozialen und politischen Bedingungen, worauf die akademische Welt reagieren muss. Hochschulen streben an, durch eine inklusive Sprachverwendung einen gesellschaftlichen Beitrag zur Förderung der Gleichstellung aller Geschlechter, Geschlechtsidentitäten und auch von Diversität allgemein zu leisten. Unsere Vorstellung von einer offenen, diversitätsfördernden und möglichst diskriminierungsarmen Hochschule soll in unserem Sprachgebrauch auf allen Ebenen reflektiert werden.
+
+Einer von vielen Bausteinen, wie wir die Vielfalt in Lehre, Forschung, Weiterbildung und der Hochschulentwicklung gestalten können, ist die inklusive Sprache. Natürlich werden unter dem Begriff der **inklusiven Sprache** auch andere Dimensionen von Vielfalt betrachtet, die nicht nur die Geschlechteridentität berühren. So gehören etwa geistige und körperliche Beeinträchtigungen, Alter oder Herkunft dazu.
+
+Sprache hat die Fähigkeit, Stereotypen in solchen Gruppen zu verstärken, aber sie kann auch durch einen sensibilisierten sprachlichen Ansatz verringert werden. Eine inklusive Sprache beinhaltet die Anerkennung und das Ansprechen von allen Personen mithilfe unterschiedlicher Sprachtechniken. Zur Erreichung dieses Ziels kann u. a. auf die **Neutralisierung personenbezogener Begriffe** oder **explitzite Sichtbarmachung geschlechterspezifischer Begrifflichkeiten** zurückgegriffen werden.
+
+::: callout-tip
+**Neutralisierende Formulierungen** können unter Nutzung von substantivierten Partizipien und Adjektiven oder durch Umschreibungen oder Passivformulierungen formuliert werden, z. B.:
+
+-   Aus Studenten wird Studierende.
+
+-   Aus Mitarbeiter wird Beschäftigte.
+
+-   Aus Vertreter wird vertreten durch.
+:::
+
+Es gibt aber auch Wörter oder Sätze, in denen die Neutralisierungsmethode häufig nicht angemessen ist. Dann kann auf die Möglichkeiten der Geschlechtersichtbarmachung zurückgegriffen werden.
+
+::: callout-tip
+Beispiele für die **Sichtbarmachung der grammatischen Genusformen** sind:
+
+-   Aus Kunden wird Kundinnen und Kunden.
+
+-   Aus Sportlern wird Sportlerinnen und Sportler.
+
+Es gibt aber auch Begriffe, die **nicht sinnvoll inklusiv formuliert werden** können bzw. müssen, wie z. B.
+
+-   feststehende, unveränderbare Begrifflichkeiten wie "Arbeitnehmerüberlassungsgesetz",
+
+-   Fachtermini oder Begriffe aus etablierten Ansätzen, Konzepten, Methoden,
+
+-   Fremdwörter ohne passendes deutsches Äquivalent wie "Stakeholder",
+
+-   juristische Fachbegriffe wie "Stromanbieter" oder "Gesellschafter".
+:::
+
+Die Verwendung einer inklusiven Sprache soll den Studierenden beim Lesen und Verfassen von Texten keine Probleme bereiten. Es sollte auch darauf geachtet werden, dass der Lesefluss möglichst wenig beeinträchtigt wird und die Sätze verständlich gehalten werden.
+
+::: callout-important
+**Das "inklusive Komma" als Alternativen für Gender-Gap und Gendersternchen**
+
+Empfehlenswert ist die Verwendung des sog. "**inklusive Kommas"**, wenn eine Formulierung mit "und," die eine Nennung von nur zwei Geschlechtern verbindet, als nicht ausreichend empfunden wird. Die Kommalösung ermöglicht es zu veranschaulichen, dass eine nicht-abschließende Aufzählung von Geschlechtern gibt, wie ein schlichtes "und" vermuten lässt, sondern stattdessen Platz für weitere Geschlechtsidentitäten gelassen wird. Der entscheidende Vorteil dieser Lösung im Vergleich zu anderen inklusiven Schreibweisen (z. B. Gendersternchen, Gender-Gap) besteht darin, dass die grammatische Richtigkeit beibehalten wird und eine einfache Textübertragung in Audioformate ermöglicht wird.
+:::
+
+### Wie kann man das umsetzen?
+
+Das "und" wird einfach, mit der weiblichen Genusform beginnend, durch ein Komma ersetzt. Das schließt auch die Dopplung der personenbeschreibenden Adjektive, Artikel etc. mit ein.
+
+::: callout-tip
+**Beispiele für ein inklusives Komma**:
+
+-   aus Kunden wird Kundinnen, Kunden
+
+-   aus befragte Arbeitnehmer wird befragte Arbeitnehmerinnen, befragte Arbeitnehmer
+:::
+
+Da das "inklusive Komma" in der deutschen Schriftsprache noch wenig verbreitet ist und die anderweitig übliche Setzung von "orthografischen Zeichen wie der Doppelpunkt (:) – allerdings ohne ein folgendes Leerzeichen (*Bürger:innen*) – oder Sonderzeichen wie Asterisk (\*), Unterstrich (\_) oder anderen Zeichen im Wortinnern" für eine Kennzeichnung aller Geschlechtsidentitäten" als problematisch betrachtet wird ([Rat für deutsche Rechtschreibung, Beschluss vom 15.12.2023](https://www.rechtschreibrat.com/DOX/rfdr_PM_2023-12-20_Geschlechtergerechte_Schreibung_Erlaeuterungs-Begruendungspapier.pdf)), wird eine zusätzlicher Hinweis in der wissenschaftlichen Arbeit empfohlen:
+
+::: callout-tip
+"Eine gendersensible Schreibweise erfolgt in dieser Arbeit aufgrund seiner grammatikerhaltenden Eigenschaft durch das 'inklusive Komma'. Mit dem inklusiven Komma soll verdeutlicht werden, dass neben dem männlichen und dem weiblichen Geschlecht auch alle weiteren Geschlechter und Geschlechtsidentitäten einbezogen sind. Es wird somit bewusst auf das "und" zwischen der Aufführung von weiblichen und männlichen personenbezogenen Formulierungen verzichtet. Das Komma soll für die Leserin, für den Leser sichtbar machen, dass keine abschließende Auflistung von Geschlechtern und Geschlechtsidentitäten vorgenommen wird." (Quelle: Handreichung für Autorinnen und Autoren der Hochschule Euro-FH, Baumeister & Parodat, o.J.)
+:::
+
+### Weiterführende Lektüre und Links
+
+-   Universität Leipzig (o.J.). Gendern. \[*Schreibportal*\]. <https://home.uni-leipzig.de/schreibportal/gendern/>

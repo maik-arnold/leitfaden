@@ -9,7 +9,7 @@ book:
   author: "Studienbereich Sozialmanagement, Hochschule Nordhausen"
   #date: last-modified
   date-format: "D MMMM YYYY"
-  doi: 10.24384/hgc3-7p15
+  doi: 10.5281/zenodo.13844669
   cover-image: images/bookcover_scaled_new.png
   downloads: pdf
   reader-mode: true
@@ -18,11 +18,11 @@ book:
     collapse-level: 1
   page-footer:
     left: |
-      <a href="https://learnstatswithjamovi.com">learning statistics with jamovi</a>
+      <a href="https://profmanagement.quarto.pub/leitfaden/">Leitfaden Wissenschaftliches Arbeiten</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a> 
-  site-url: "https://github.com/maik-arnold/leitfaden/"
-  repo-url: "https://github.com/davidfoxcroft/lsj-book/"
+  site-url: "https://profmanagement.quarto.pub/leitfaden/"
+  repo-url: "https://quartopub.com/sites/177c333f-af5f-438d-ac29-3928abfbf1bf/"
   repo-actions: [edit,issue]
   sharing: [twitter, facebook, linkedin]
   open-graph: true
@@ -30,33 +30,27 @@ book:
   chapters: 
     - index.qmd
     - Vorwort.qmd
-    - part: Getting Started
+    - part: GETTING STARTED
       chapters:
          - 01_themensuche.qmd
          - 02_wissenschaftliches_schreiben.qmd
-    # - part: An introduction to jamovi
-    #   chapters:
-    #      - 03-Getting-started-with-jamovi.qmd
-    # - part: Working with data
-    #   chapters:
-    #      - 04-Descriptive-statistics.qmd
-    #      - 05-Drawing-graphs.qmd
-    #      - 06-Pragmatic-matters.qmd
-    # - part: Statistical theory
-    #   chapters:
-    #      - Prelude-Part-IV.qmd
-    #      - 07-Introduction-to-probability.qmd
-    #      - 08-Estimating-unknown-quantities-from-a-sample.qmd
-    #      - 09-Hypothesis-testing.qmd
-    # - part: Statistical tools
-    #   chapters:
-    #      - 10-Categorical-data-analysis.qmd
-    #      - 11-Comparing-two-means.qmd
-    #      - 12-Correlation-and-linear-regression.qmd
-    #      - 13-Comparing-several-means-one-way-ANOVA.qmd
-    #      - 14-Factorial-ANOVA.qmd
-    #      - 15-Factor-Analysis.qmd
-    # - part: Endings, alternatives and prospects
+    - part: BASICS
+      chapters:
+         - 03_gliederung.qmd
+         - 04_bestandteile.qmd
+         - 05_layout.qmd
+         - 06_form.qmd
+         - 07_abkürzungen.qmd
+         - 08_tabellen_abbildungen.qmd
+         - 09_stil.qmd
+         - 10_zitation_apa.qmd
+         - 11_literaturrecherche.qmd
+    - part: ADVANCED
+      chapters:
+         - 12_checkliste.qmd
+         - 13_künstliche_intelligenz.qmd
+         - 14_faq.qmd
+        # - part: Endings, alternatives and prospects
     #   chapters:
     #      - 16-Bayesian-statistics.qmd
     # - Epilogue.qmd
@@ -76,37 +70,48 @@ format:
     theme:
       light: 
         - flatly
-        #- custom.scss
+        - custom.scss
       dark: 
         - darkly
-        #- custom.scss
+        - custom.scss
+    mainfont: Circular
+    monofont: Roboto
     number-sections: true
     link-external-newwindow: true
     fig-width: 5
     fig-height: 5
     fig-align: left
     #reference-location: margin
-  # epub: 
-  #  # footnotes not rendering math in popup but ok in mainview (issue with calibre viewer)
-  #   title: "learning statistics with jamovi (version 0.75)"
-  #   toc: true
-  #   css: styles.css
-  #   html-math-method: mathjax
-  #   fig-width: 5
-  #   fig-height: 5
-  #   fig-align: left
-  #   include-in-header: header-includes.html
-  #   epub-cover-image: images/bookcover_html.png
+#  epub:
+   # footnotes not rendering math in popup but ok in mainview (issue with calibre viewer)
+   # title: "learning statistics with jamovi (version 0.75)"
+   # toc: true
+   # css: styles.css
+   # html-math-method: mathjax
+   # fig-width: 5
+   # fig-height: 5
+   # fig-align: left
+   # include-in-header: header-includes.html
+   # epub-cover-image: images/bookcover_html.png
   pdf:
-    title: "learning statistics with jamovi (version 0.75)"
+    title: "Leitfaden Wissenschaftliches Arbeiten (version 0.1)"
     documentclass: book
     geometry:
-      - paperwidth=8.00in
-      - paperheight=10.00in
+      - a4paper
       - left=1.25in
-      - textwidth= 5.25in
+      - right=1.25in
       - top=1.00in
-      - textheight=8.25in
+      - bottom=1.00in
+      - textwidth=5.25in
+      - textheight=8.75in
+    # Old geometry for 8-10-format
+    # geometry:
+    #   - paperwidth=8.00in
+    #   - paperheight=10.00in
+    #   - left=1.25in
+    #   - textwidth= 5.25in
+    #   - top=1.00in
+    #   - textheight=8.25in
       #- showframe
     include-in-header: preamble.tex
     include-before-body: first.tex
@@ -117,4 +122,23 @@ format:
     fig-height: 5
     fig-align: left
     keep-tex: true
+
+# Additional stuff
+# 
+# accordion:
+#   - many-items:
+#     - header: Papierformat
+#       body: Für gedruckte wie für elektronisch eingereichte Arbeiten ist das Format DIN A4 zu verwenden. Bei gedruckten Arbeiten sind nur einseitig zu beschreiben.
+#     - header: Seitenränder
+#       body: Der linke Seitenrand soll 2,5 cm und der rechte Seiterand 3 cm betragen. Der obere Seitenrand soll 1,5 – 2 cm und der untere Seitenrand mindestens 1,3 cm betragen. Bei gedruckten Arbeiten sollte beachtet werden: je dicker die Arbeit, desto mehr Seitenrand nötig. (Hinweis: Der Seitenumfang muss dann mit dem/der Prüfenden erneut abgesprochen werden.) 
+#     - header: Schriftart und Schriftgröße
+#       body: Die sollten über die Arbeit hinweg einheitlich verwendet werden. Zu empfehlen sind z. B. Times New Roman 12 pt, Arial 11 pt und Calibri 11 pt für den Fließtext sowie 10 pt in den Fußnoten. Überschriften sollten im Regelfall die gleiche Schriftgröße haben wie der Fließtext (aber max. 16 pt). Sie sollen fett gesetzt, nummeriert und nicht unterstrichen werden.
+#     - header: Zeilenabstände
+#       body: Der Fließtext und die Gliederung sind mit 1,5-zeiligem Abstand zu verfassen. Abbildungs-, Tabellen- und Abkürzungs- und Literaturverzeichnis und Fußnoten sollten einen 1,0-zeiligen Abstand aufweisen. Überschriften sind im Text durch größere Abstände herauszustellen und durch Fettdruck hervorzuheben. Vor und nach jeder Überschrift ist ein Abstand in der Schriftgröße der Überschrift zu wählen. Absätze sind mit einer Leerzeile in der gleichen Schriftgröße zu trennen.
+#     - header: Satzspiegel
+#       body: Ein Absatz sollte jeweils inhaltlich zusammenhängende Gedanken umfassen und niemals aus nur einem Satz bestehen. Im Textteil sollte immer der Blocksatz genutzt werden. Ausnahmen gelten für Tabellen und Bezeichnungen. In der Textverarbeitung kann die automatische Silbentrennung aktiviert werden. Bei der Gestaltung des Seitenlayouts ist darauf zu achten, dass Überschriften nicht auf der letzten Zeile einer Seite erscheinen. Des Weiteren beginnen die Hauptkapitel (Kapitel 1, 2 ...) generell auf einer neuen Seite.      
+# filters:
+#   - accordion
+
+
 

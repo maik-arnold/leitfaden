@@ -1,0 +1,117 @@
+# Bestandteile der Arbeit {#sec-B-bestandteile}
+
+Im Folgenden finden Sie verschiedene Hinweis zu den Hauptbestandteilen einer wissenschaftlichen Arbeit.
+
+## Einleitung
+
+Die Einleitung kann je nach Typ der Arbeit unterschiedlich aufgebaut sein. In der Regel erfolgt eine **Hinführung zum Thema**, wobei folgende Dinge dargestellt werden müssen:
+
+-   *Relevanz des Thema***s**: Weshalb ist eine Bearbeitung des Themas wichtig oder relevant?
+
+-   Problemstellung: Was ist die Fragestellung der Arbeit und welches Ziel wird mit der Arbeit verfolgt?
+
+-   *Einordnung* des Themas in den wissenschaftlichen Kontext.
+
+Anschließend wird die **Fragestellung** und evtl. **Teilfragen** der Arbeit dargestellt.
+
+Danach erfolgt eine Darstellung der **Methodik der Arbeit**.
+
+-   Handelt es sich um eine *Literaturanalyse,* *empirische Arbeit*, Konzeptentwicklung, Praxisfallanalyse etc.?
+
+-   Bei empirischer Forschung ist die Benennung des jeweiligen Forschungsparadigmas (z. B. qualitative vs. quantitative Forschung), der Datenerhebungs- und -auswertungsmethoden notwendig.
+
+Abschließend folgt eine Darstellung des **Aufbaus der Arbeit** in folgender Form:
+
+-   *Vorgehensweise*: Wie sieht die Argumentationskette (der "rote Faden") in der Arbeit aus und welche Teilprobleme werden in welchen Kapiteln behandelt?
+
+## Hauptteil
+
+Im Hauptteil bzw. Kernabschnitt der Arbeit ist die Fragestellung aufzunehmen und zu bearbeiten. Am Anfang des Hauptteils setzt man sich mit den **theoretischen Grundlagen** auseinander. Dabei ist es wichtig, die aus der Literatur exzerpierten Informationen nicht einfach nur darzustellen, sondern dabei auch eigene Gedanken zu entwickeln (sog. wissenschaftliche Eigenleistung).
+
+Eine **wissenschaftliche Eigenleistung** könnte z. B. einfließen durch eine kritische Bewertung, Reflexion und Diskussion von Theorien, Definitionen, Ansätzen und Forschungsergebnissen der einbezogenen Literatur. Manchmal kann es auch hilfreich sein, eine Übersicht in Form einer Tabelle oder Abbildung zu erstellen, die so in der Literatur zum Thema (und dem eigenen Wissensstand) nicht existiert (und nicht einfach auch einem bereits veröffentlichten Text übernommen wurde). Dies kann die Argumentation visuell unterstützen sowie einen Abschnitt, ein Kapitel oder die gesamte Arbeit zu strukturieren. Bitte beachten Sie aber, dass die wesentlichen Inhalte dieser Visualisierung im Fließtext beschrieben werden müssen.
+
+Fernerhin ist zu beachten, dass die **Fragestellung vollständig zu erfassen**. Manchmal noch so interessante und spannende Ausführungen jenseits der Fragestellung (bzw. Exkurse) sollten möglichst vermieden werden. Als Eselsbrücke kann man sich einprägen: "Keine Löcher aufreißen, die hinterher nicht wieder gestopft werden können.“ D.h., Aspekte bzw. Argumente, die für die Beantwortung der Fragestellung nicht unmittelbar zielführend sind, sollten vermieden werden. Oftmals werden neue Aspekte dabei zu kurz angeschnitten und nicht ausreichend erläutert.
+
+::: callout-important
+An dieser Stelle sollen nur noch einige weitere **Hinweise** gegeben werden:
+
+-   Stößt man beim Schreiben auf ein **Teilproblem**, welches man zunächst nicht effektiv lösen kann, dann sollte man dieses zunächst ausklammern und eine Notiz im Text machen, dass man diesen Aspekt später weiterbearbeitet (z. B. durch farbliche Markierung, Fußnote oder Eintrag im eigenen [Forschungstagebuch](https://schreibenwirkt.de/forschung-tagebuch/)). Manchmal lösen sich solche Probleme im Laufe des Schreibprozesses.
+
+-   **Exkurse** sollen in einer Arbeit vermieden werden, da sie sehr leicht zu Abschweifungen vom eigentlichen Thema verleiten können.
+
+-   Kurze **Überleitungen** zwischen den einzelnen Abschnitten fördern den Lesefluss und die Struktur der Arbeit. Sie können ein kurzes Fazit des abgeschlossenen Abschnitts enthalten und verdeutlichen was bzw. warum etwas im folgenden Abschnitt besprochen wird. Diese Überleitungen sollten kurz und prägnant sein (meist reichen 2-3 Sätze).
+
+-   Zu Beginn eines Kapitels mit vielen Gliederungsebenen kann es angebracht sein, einen kurzen Absatz (max. ein Drittel der Seite) zur weiteren **Untergliederung** bzw. **Struktur** zu verfassen, um diese zu erklären bzw. zu begründen.
+:::
+
+## Hinweise für die Einbeziehung der beruflichen Praxis
+
+Häufig wird die Frage gestellt, inwieweit man **Erfahrungen aus der Praxis** bzw. aus einem Praktikum in die Arbeit einfließen lassen kann. Diese Erfahrungen sollen nicht nur wiedergegeben werden, sondern anhand der dargestellten theoretischen Konzepte analysiert und kritisch durchleuchtet werden. Auch hier gilt die Quellenverweispflicht. Für die Reflexion von Praxiserfahrungen liegen meistens andere Arten von Belegen vor, z. B. ein [Brochüren](https://www.scribbr.de/richtig-zitieren/broschuere-zitieren/), Leitbild oder Konzept einer Organisation, [persönliche Kommunikation](https://hs-nordhausen.gitbook.io/leitfaden/advanced/kunstliche-intelligenz). All diese Informationen dürfen und müssen entsprechend als Quellen angegeben werden.
+
+Sowohl bei einer Praxisfallanalyse als auch bei einer empirischen Untersuchung ist eine gründliche themenspezifische **Recherche in Bezug auf ein konkretes Unternehmen oder Branche** notwendig. Zur Erlangung der nötigen Informationen können zum Beispiel die Website des betreffenden Unternehmens oder des Wohlfahrtsverbands sowie veröffentlichte Geschäftsberichte oder Publikationen, die meist als [Graue Literatur](https://de.wikipedia.org/wiki/Graue_Literatur) bezeichnet werden, herangezogen werden. Insbesondere für große Unternehmen existieren zahlreiche [Fachdatenbanken](https://www.hs-nordhausen.de/service/bibliothek/recherche/datenbanken/) in allen wissenschaftlichen Bibliotheken (z. B. EBSCOhost, Springer Link, etc.).
+
+Ferner kann eine Kontaktaufnahme mit der relevanten Stelle im Unternehmen sinnvoll sein, um spezifische Informationen zu erfragen. Mitunter ist es auch möglich, ein persönliches Gespräch mit einem Mitarbeiter des Unternehmens zum jeweiligen Thema zu führen. In jedem Fall sollte mit dem Unternehmen besprochen werden, wie mit datenschutzrechtlichen Aspekten umzugehen ist (z. B. Nennung von Mitarbeiter- oder Firmendaten). Die gewonnen Informationen können dann als [persönliche Kommunikation](https://www.scribbr.de/apa-standard/beispiel/persoenliche-kommunikation/) in der eigenen wissenschaftlichen Arbeit belegt werden.
+
+::: callout-tip
+Weitere Websites, die bei der Informationsrecherche nach Praxisdaten hilfreich sein können:
+
+-   Deutsche Industrie-und Handelskammer: [www.dihk.de](http://www.dihk.de/)
+
+-   Statistisches Bundesamt Deutschland: [www.destatis.de](http://www.destatis.de/)
+
+-   Allgemeines Unternehmensregister: [www.unternehmensregister.de](http://www.unternehmensregister.de/)
+
+-   Eurostat: [http://epp.eurostat.ec.europa.eu](http://epp.eurostat.ec.europa.eu/)
+
+-   European Business Register: [www.ebr.org](http://www.ebr.org/)
+
+-   Global Business Register: [www.gbrdirect.eu](http://www.gbrdirect.eu/)
+:::
+
+## Diskussionsteil
+
+Als wesentlicher Bestandteil einer jeden wissenschaftlichen Arbeit ist die Diskussion der gewonnen Ergebnisse anzusehen. Hier sollte ein Bezug zu den theoretischen Grundlagen und den eigenen wissenschaftlichen Erkenntnissen im Hauptteil hergestellt und mögliche Schlüsse logisch begründet werden.
+
+::: callout-tip
+Im Diskussionsteil unterscheide ich zwischen unterschiedlichen Aspekten, die anhand von folgenden Fragen charakterisiert werden können:
+
+-   **theoretische Reflexion:** Wie können die gewonnenen Ergebnisse in die bisherige Forschung eingeordnet werden? Welche neuen Erkenntnisse wurden gesammelt? Welche Erkenntnisse bestätigen/widersprechen der bisherigen Forschung?
+
+-   **methodische Reflexion:** Wie bin ich in der Arbeit methodisch vorgegangen? Was hätte ich anders machen können? Welche Einschränkungen besitzt meine Untersuchung?
+
+-   **praktische Reflexion:** Welche praktischen Schlussfolgerungen lassen sich aus meiner Arbeit ziehen? Wie tragen die Forschungsergebnisse zur Praxis- bzw. Professionalitätsentwicklung bei?
+:::
+
+## Fazit und Ausblick
+
+Im Schlussabschnitt der wissenschaftlichen Arbeit sind die aus der Behandlung der Fragestellung resultierenden Ergebnisse zu präsentieren. Der Schlussabschnitt dient damit der Abrundung bzw. Gestaltschließung der wissenschaftlichen Arbeit. Im Schlussteil ist darauf einzugehen:
+
+-   eine Zusammenfassung der wichtigsten Ergebnisse,
+
+-   eine kritische Würdigung der eigenen Arbeit und
+
+-   ein Ausblick mit Hinweisen auf offene Forschungsfragen.
+
+## Anhang
+
+Im Allgemeinen ist bei Seminar-, Bachelor- und Masterarbeiten ein Anhang nicht notwendig. Abbildungen und Tabellen sollten nicht im Anhang erscheinen, sondern dort in den Text einbettet werden, wo man sich auf dieses Material explizit bezieht.
+
+::: callout-important
+Als Ausnahmen von dieser Grundregel kommen allerdings in Betracht:
+
+-   Die Bezugnahme im Text bedarf zur **Absicherung** bzw. **Dokumentation** **umfangreicher Informationen** (z. B. Wiedergabe eines längeren Gesetzestextes, mehrseitige Tabellen).
+
+-   Die Bezugnahme auf für die Themenstellung relevantes Material im Text vollzieht sich an mehreren, **seitenmäßig auseinander liegenden Stellen** in der Arbeit.
+
+-   Es sind relativ lange Erklärungen und Darstellungen zur **Anlage und/oder Auswertung einer empirischen Erhebung** darzustellen (z. B. Dokumentation des Erhebungsinstrumentariums, Häufigkeitsauszählungen standardisierter Fragen oder Transkripte von Interviews).
+:::
+
+Zusammenfassend: Ein Anhangsverzeichnis ist bei mehreren unterschiedlichen Anhängen erforderlich, wie z. B. bei großen Tabellen, ausführlichen Berechnungen oder Interviewtranskripten.
+
+## Literaturverzeichnis
+
+Im Literaturverzeichnis sind sämtliche Quellen anzugeben, die im Original bei der Erstellung der Arbeit zugrunde gelegen haben und in dieser verwendet und zitiert werden. Die Quellen sind in alphabetischer Reihenfolge nach Verfasser:innen zu ordnen. Liegen mehrere Veröffentlichungen von Verfasser:innen vor, so sind diese außerdem in der Reihenfolge ihres Erscheinungsjahres zu ordnen. Stammen von einem Verfasser mindestens zwei Quellen aus einem Erscheinungsjahr, so sind diese nach ihrem Titel alphabetisch zu ordnen und folgendermaßen zu differenzieren (z.B. Meffert, 1994a, 1994b).
+
+::: callout-important
+Zu den [Regeln der Zitation und Quellenarbeit](https://hs-nordhausen.gitbook.io/leitfaden/basics/zitation-nach-apa-7th-edition) gibt es eine separate Darstellung.
+:::

@@ -1,6 +1,61 @@
-# References {.unnumbered}
+# Literatur {.unnumbered}
 
-::: {#refs}
+<!-- ::: {#refs} -->
+
+<!-- ::: -->
+
+<!-- <div id="refs"></div> -->
+
+Hier gibt es Texte und Links zu weiterführenden Informationen rund ums wissenschaftliche Schreiben.
+
+## Study Guides
+
+::: callout-tip
+-   Folz, K., & Brauner, D. J. (2016). *Studi-SOS Bachelor- und Masterarbeit: Erste Hilfe fürs wissenschaftliche Arbeiten* (2. Aufl.). Verlag Wissenschaft & Praxis.
+
+-   Theisen, M. R. (2021). *Wissenschaftliches Arbeiten: Erfolgreich bei Bachelor- und Masterarbeit*. (18. Aufl.). Vahlen.
+
+-   Weber, D. (2021). *Die erfolgreiche Abschlussarbeit für Dummies* (4. Aufl.). Wiley-VCH.
 :::
 
-<div id="refs"></div>
+## Verwendete Literatur
+
+-   Arnold, M. (2022). Fachdidaktik des Sozialmanagements: Fundierung und Weiterentwicklung hochschuldidaktischen Handelns. In L. Kolhoff (Hrsg.), Aktuelle Diskurse in der Sozialwirtschaft IV (S. 95–121). Springer Fachmedien Wiesbaden. <https://doi.org/10.1007/978-3-658-38677-1_6>
+
+-   Balzert, H., Schröder, M., & Schäfer, C. (2022). Wissenschaftliches Arbeiten: Ethik, Inhalt & Form wiss. Arbeiten, Handwerkszeug, Quellen, Projektmanagement, Präsentation. Prof. Balzert-Stiftung. <https://dl.gi.de/items/2da8e6cd-2428-4f36-b099-44ec9c41d915/full>
+
+-   Bikner-Ahsbahs, A. (2019). The research pentagon: A diagram with which to think about research. In G. Kaiser & N. Presmeg (Hrsg.), Compendium for Early Career Researchers in Mathematics Education (S. 153-180). Wiesbaden: Springer. <https://doi.org/10.1007/978-3-030-15636-7_7>
+
+-   How to write discussions and conclusions. PLOS. (2021, May 20). <https://plos.org/resource/how-to-write-conclusions/>
+
+-   Purdue University (o.J.). What is the Toulmin Method? [https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.htm](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html)
+
+-   Spillner, V. (2023). Sprechstunde Bachelorarbeit und Masterarbeit. Springer.
+
+-   Toulmin, S. (1958/2003). The Uses of Argument. Cambridge University Press. <https://doi.org/10.1017/CBO9780511840005>
+
+-   Universität Gießen (o.J.). Freewriting. <https://ilias.uni-giessen.de/goto.php?target=cat_70455&client_id=JLUG>
+
+## Weiterführende Literatur
+
+-   Bänsch, A. (2003). *Wissenschaftliches Arbeiten: Seminar- und Diplomarbeiten* (8. Aufl.). Oldenbourg.
+
+-   Barthel, J. (1997). *Wissenschaftliche Arbeiten schreiben in den Wirtschaftswissenschaften*. Spitz.
+
+-   Bünting, K.-D., Bitterlich, A., & Pospiech, U. (2008). *Schreiben im Studium: Mit Erfolg, ein Leitfaden, präzise formulieren, Themen erarbeiten* (6. Aufl.). Cornelsen.
+
+-   Corsten, H., & Deppe, J. (1996). *Arbeitstechniken für Wirtschaftswissenschaftler.* Oldenbourg.
+
+-   Ebster, C., & Stalzer L. (2003). *Wissenschaftliches Arbeiten für Wirtschafts- und Sozialwissenschaftler* (2. Aufl.). WUV-Univ.-Verlag.
+
+-   Heister, W., & Weßler-Proßberg, D. (2007). *Studieren mit Erfolg: Wissenschaftliches Arbeiten für Wirtschaftswissenschaftler.* Schäffer-Poeschel 2007.
+
+-   Kornmeier, M. (2008). *Wissenschaftlich schreiben leicht gemacht: für Bachelor, Master und Dissertation.* Haupt.
+
+-   Kornmeier, M. (2007). *Wissenschaftstheorie und wissenschaftliches Arbeiten.* Physica-Verlag.
+
+-   Krämer, W. (1995). *Wie schreibe ich eine Seminar-, Examens- und Diplomarbeit: Eine Anleitung zum wissenschaftlichen Arbeiten für Studierende aller Fächer an Universitäten, Fachhochschulen und Berufsakademien.* Fischer.
+
+-   Lück, W. (2003). *Technik des wissenschaftlichen Arbeitens: Seminararbeit, Diplomarbeit, Dissertation. (*9. Aufl.). Oldenbourg.
+
+-   Theisen, M. R. (2002). *Wissenschaftliches Arbeiten: Technik, Methodik, Form (*11. Aufl.). Vahlen.

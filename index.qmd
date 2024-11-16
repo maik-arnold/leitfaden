@@ -1,30 +1,30 @@
 # Welcome {.unnumbered .unlisted}
 
-Dieser Leitfaden soll Dir das wissenschaftliche Schreiben etwas leichter machen.
-
-> "Wissenschaft ist der Versuch, dem menschlichen Denken eine Ordnung zu geben."
+> "Nichts im Leben ist zu fürchten, es ist nur zu verstehen. Jetzt ist die Zeit, mehr zu verstehen, damit wir weniger fürchten."
 >
-> Albert Einstein
+> Marie Skłodowska-Curie
+
+Dieser Leitfaden soll Ihnen das wissenschaftliche Schreiben erleichtern.
 
 Im Studium steht man bei der Anfertigung von Seminar-, Bachelor- und Masterarbeiten häufig vor einer ziemlichen Herausforderung.
 
-In diesem GitBook gibt es wissenswerte und relevante Informationen zur Gestaltung einer wissenschaftlichen Arbeit während des Studiums des Sozialmanagement (B.A.) an der Hochschule Nordhausen.
+In diesem [Quarto Book](https://quarto.org/) geben wir Ihnen wissenswerte und relevante Informationen rund um die Gestaltung einer wissenschaftlichen Arbeit im Studienbereich Sozialmanagement an der Hochschule Nordhausen.
 
 Der Leitfaden beinhaltet folgende Teile:
 
--   [Getting Started](getting_started/intro.qmd): Bestandteile des wissenschaftlichen Arbeitens
+-   **Getting Started**: Bestandteile des wissenschaftlichen Arbeitens
 
--   [Basics](basics/intro.qmd): Formale Anforderungen
+-   **Basics**: Formale Anforderungen
 
--   [Advanced](advanced/intro.qmd): Weiterführende Fragen und Hinweise
+-   **Advanced**: Weiterführende Fragen und Hinweise
 
 # **Ziel dieses Leitfadens**
 
 ::: callout-note
-Seminar-, Bachelor-, und Masterarbeiten sind **selbständig erstellte wissenschaftliche Arbeiten**, die im Allgemeinen die schriftliche Dokumentation eines ausgewählten Problembereichs umfassen. Mit weisen die Studierenden nach, dass sie wissenschaftliche Probleme **erkennen**, **untersuchen** und die Ergebnisse **klar darstellen** können. Sie sollen die relevante Literatur verarbeiten und unterschiedliche Meinungen kritisch würdigen können. Des Weiteren sollen die Studierenden eigene Lösungsansätze entwickeln.
+Seminar-, Bachelor-, und Masterarbeiten sind **selbständig erstellte wissenschaftliche Arbeiten**, die im Allgemeinen die schriftliche Dokumentation eines ausgewählten Problembereichs umfassen. Damit weisen Studierende nach, dass sie wissenschaftliche Probleme **erkennen**, **untersuchen** und die Ergebnisse **klar darstellen** können. Sie sollen relevante Literatur verarbeiten und unterschiedliche Meinungen kritisch würdigen können. Des Weiteren sollen die Studierenden eigene Lösungsansätze entwickeln.
 :::
 
-Die genannten Arbeiten verlangen eine geistige Durchdringung, Aufarbeitung und schriftliche Darstellung eines komplexen fachlichen Stoffgebietes in einer recht knapp bemessenen Zeit. Die Fähigkeit, diese Leistung erfolgreich zu erbringen, wird auch in der späteren Berufspraxis erwartet, etwa bei der
+Die genannten Arbeiten verlangen eine geistige Durchdringung, Aufarbeitung und schriftliche Darstellung eines komplexen fachlichen Stoffgebietes in einer begrenzten Zeit. Die Fähigkeit, diese Leistung erfolgreich zu erbringen, wird auch in der späteren Berufspraxis erwartet, etwa bei der
 
 -   Anfertigung von Projektberichten,
 
@@ -39,13 +39,17 @@ Die genannten Arbeiten verlangen eine geistige Durchdringung, Aufarbeitung und s
 Darüber hinaus bieten wissenschaftliche Arbeiten den Studierenden die Möglichkeit, methodische Kompetenzen zu vertiefen und sich intensiv mit einem spezifischen Forschungsfeld auseinanderzusetzen, das ihre wissenschaftliche Argumentationsfähigkeit, ihr kritisches Denken und ihre Problemlösungsfähigkeiten fördert.
 
 ::: callout-note
-Der vorliegende Leitfaden soll dabei helfen, einen Überblick über die wichtigsten Anforderungen an die Gestaltung von Seminar-, Bachelor- und Masterarbeiten zu erlangen. Für detaillierte Hinweise und Erläuterungen zu Arbeitstechniken, Zeitplanungen etc. wird auf die [Häufig gestellt Fragen](advanced/faq.qmd) und die [weiterführende Literatur](advanced/weiterfuehrende-literatur.qmd) verwiesen.
+Der vorliegende Leitfaden soll dabei helfen, einen Überblick über die wichtigsten Anforderungen an die formale Gestaltung von Seminar-, Bachelor- und Masterarbeiten zu erlangen. Für detaillierte Hinweise und Erläuterungen zu Arbeitstechniken, Zeitplanungen etc. wird auf die [Häufig gestellte Fragen](14_faq.qmd) und die [weiterführende Literatur](References.qmd) verwiesen.
 :::
 
 **Zitiervorschlag**
 
-Studienbereich Sozialmanagement (Hrsg.). *Leitfaden Wissenschaftliches Arbeiten*. (Version 0.75). Hochschule Nordhausen.
+Studienbereich Sozialmanagement (Hrsg.) (2024). *Leitfaden Wissenschaftliches Arbeiten*. (Version 0.1). Hochschule Nordhausen. <https://doi.org/10.5281/zenodo.13844669>
 
-Creative Commons Licence
+**Bildnachweise**
 
-[Leitfaden Wissenschaftliches Arbeiten](https://hs-nordhausen.gitbook.io/leitfaden) by [Maik Arnold](https://www.maik-arnold.de/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+Prompting von Maik Arnold, Rendering durch Midjourney
+
+**Creative Commons Licence**
+
+[Leitfaden Wissenschaftliches Arbeiten](https://profmanagement.quarto.pub/leitfaden/) by Studienbereich Sozialmanagement, Hochschule Nordhausen is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)

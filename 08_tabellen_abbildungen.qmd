@@ -1,0 +1,17 @@
+# Tabellen und Abbildungen {#sec-B-tabellen-abbildungen}
+
+Eine wissenschaftliche Arbeit wird durch Visualisierungen leichter lesbar und erhält dadurch Mehrwerte.
+
+Tabellen und Abbildungen dienen in einer wissenschaftlichen Arbeit der unterstützenden Visualisierung komplexer Forschungserkenntnisse.
+
+::: callout-important
+Sie sollten daher überlegt und nicht wahllos eingesetzt werden. In jedem Fall sind die zentralen Aussagen der Abbildung bzw. Tabelle im Text zu erläutern. Keine Abbildung ist selbsterklärend!
+:::
+
+## Qualität und Auflösung
+
+Bei Abbildungen und Tabellen sollte darauf geachtet werden, dass sie eine gute graphische Qualität aufweisen (z. B. hinsichtlich der Abbildungs- und Textgröße und der farblichen Unterscheidbarkeit einzelner hervorgehobener Bereiche). Auf das Einfügen von eingescannten Vorlagen ist nach Möglichkeit zu verzichten. Im Druckbereich wird meist eine Auflösung für Abbildung mit 600 dpi empfohlen.
+
+## Nummerierung und Bezeichnung
+
+Tabellen und Abbildungen sind durchgängig zu nummerieren, mit einem prägnanten Titel zu benennen und einer Quellenangabe zu verse- hen. Titel und Quellenangabe stehen in einem kleineren Schriftgrad (10 pt) linksbündig unter der Abbildung bzw. Tabelle. Die Abbildungs- und Tabellenverzeichnisse im vorderen Teil der Arbeit geben den Titel und die entsprechende Seitenangabe wieder. Tabellen und Abbildungen zählen mit in die Seitenzahlen des Textteils rein.
