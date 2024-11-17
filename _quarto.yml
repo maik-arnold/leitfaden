@@ -57,6 +57,7 @@ book:
     #      - 16-Bayesian-statistics.qmd
     # - Epilogue.qmd
     - References.qmd
+    - Impressum.qmd
   
 bibliography: refs.bib
 csl: apa.csl
