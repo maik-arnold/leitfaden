@@ -1,4 +1,4 @@
 - source: project
   quarto-pub:
     - id: 177c333f-af5f-438d-ac29-3928abfbf1bf
-      url: 'https://profmanagement.quarto.pub/leitfaden'
+      url: https://profmanagement.quarto.pub/leitfaden

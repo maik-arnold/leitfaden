@@ -19,6 +19,8 @@ book:
   page-footer:
     left: |
       <a href="https://profmanagement.quarto.pub/leitfaden/">Leitfaden Wissenschaftliches Arbeiten</a>
+    center: |
+     <a href="https://profmanagement.quarto.pub/leitfaden/impressum.html">Impressum</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a> 
   site-url: "https://profmanagement.quarto.pub/leitfaden/"
